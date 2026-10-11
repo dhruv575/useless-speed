@@ -1,0 +1,22 @@
+[
+  {
+    "title": "addresses.json",
+    "path": "app/data/addresses.json",
+    "path_base": "repository root",
+    "source_url": "https://data.sf.gov/d/3mea-di5p",
+    "sha256": "3d16674824295fbc8012c0d9f6c7dc2de490c4a799ce3930fbe6bbdb7a9acf07",
+    "bytes": 32503392,
+    "records": 224402,
+    "retrieval_timestamp": "Not separately recorded; see app/public/data/provenance.json for preparation timestamp."
+  },
+  {
+    "title": "stop-signs.json",
+    "path": "app/public/data/stop-signs.json",
+    "path_base": "repository root",
+    "source_url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/10",
+    "sha256": "403de8b55c0a797cc572f65d3f61632fdf5d220df50b43f491221d400a3c2a51",
+    "bytes": 7349950,
+    "records": 11179,
+    "retrieval_timestamp": "Not separately recorded; see app/public/data/provenance.json for preparation timestamp."
+  }
+]

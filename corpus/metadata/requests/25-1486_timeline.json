@@ -1,0 +1,86 @@
+{
+  "total_count": 8,
+  "timeline": [
+    {
+      "timeline_id": 69842935,
+      "timeline_icon_class": "fas fa-file-alt",
+      "timeline_name": "Document(s) Released",
+      "timeline_display_text": "3rd St_25th St_Ch_32.pdf<br>",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "March  6, 2025,  9:50am by Staff",
+      "timeline_is_collapsable": false,
+      "timeline_is_pinned": false
+    },
+    {
+      "timeline_id": 69842895,
+      "timeline_icon_class": "fas fa-file-alt",
+      "timeline_name": "Document(s) Released",
+      "timeline_display_text": "3rd &amp; 25th_09-27-2023 to 09-27-2024.pdf<br>",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "March  6, 2025,  9:49am by Staff",
+      "timeline_is_collapsable": false,
+      "timeline_is_pinned": false
+    },
+    {
+      "timeline_id": 69842875,
+      "timeline_icon_class": "fas fa-file-alt",
+      "timeline_name": "Document(s) Released",
+      "timeline_display_text": "Daily Work Report_3rd St &amp; 25th St_09-27-2023 t0 09-27-2024.xlsx<br>",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "March  6, 2025,  9:49am by Staff",
+      "timeline_is_collapsable": false,
+      "timeline_is_pinned": false
+    },
+    {
+      "timeline_id": 69842853,
+      "timeline_icon_class": "fas fa-file-alt",
+      "timeline_name": "Document(s) Released",
+      "timeline_display_text": "3rd &amp; 25th_09-27-23 to 09-27-24.xlsx<br>",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "March  6, 2025,  9:49am by Staff",
+      "timeline_is_collapsable": false,
+      "timeline_is_pinned": false
+    },
+    {
+      "timeline_id": 69808212,
+      "timeline_icon_class": "fas fa-eye",
+      "timeline_name": "Request Published",
+      "timeline_display_text": null,
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "March  5, 2025,  4:27pm by Staff",
+      "timeline_is_collapsable": false,
+      "timeline_is_pinned": false
+    },
+    {
+      "timeline_id": 69456631,
+      "timeline_icon_class": "far fa-check-square",
+      "timeline_name": "Request Closed",
+      "timeline_display_text": "<p>Documents responsive to your request are now available for viewing or download. The SFMTA has determined that it has no other records responsive to this request so it considers the matter closed.</p><p></p><p>Please let us know if you have any further questions regarding your request or if you would like additional information.</p>",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "February 28, 2025, 11:59am by Staff",
+      "timeline_is_collapsable": true,
+      "timeline_is_pinned": false
+    },
+    {
+      "timeline_id": 69242025,
+      "timeline_icon_class": "fas fa-university",
+      "timeline_name": "Department Assignment",
+      "timeline_display_text": "San Francisco Municipal Transportation Agency (SFMTA)",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "February 26, 2025, 10:55am by the requester",
+      "timeline_is_collapsable": false,
+      "timeline_is_pinned": false
+    },
+    {
+      "timeline_id": 69242023,
+      "timeline_icon_class": "fas fa-folder-open",
+      "timeline_name": "Request Opened",
+      "timeline_display_text": "Request received  via web",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "February 26, 2025, 10:55am by the requester",
+      "timeline_is_collapsable": false,
+      "timeline_is_pinned": false
+    }
+  ],
+  "pinned": []
+}

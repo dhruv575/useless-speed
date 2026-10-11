@@ -1,0 +1,19 @@
+* text=auto
+*.md text eol=lf
+*.py text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.mjs text eol=lf
+
+# Preserve data bytes so archived SHA-256 hashes match on Windows and Unix.
+corpus/raw/** filter=lfs diff=lfs merge=lfs -text
+corpus/derived/** -text
+corpus/metadata/** -text
+app/data/** -text
+app/public/data/** -text
+corpus/derived/corpus.sqlite filter=lfs diff=lfs merge=lfs -text
+corpus/derived/tables/** filter=lfs diff=lfs merge=lfs -text
+corpus/derived/pages/** filter=lfs diff=lfs merge=lfs -text
+corpus/derived/text/** filter=lfs diff=lfs merge=lfs -text
+corpus/derived/workbooks/** filter=lfs diff=lfs merge=lfs -text
+corpus/derived/ocr/** filter=lfs diff=lfs merge=lfs -text

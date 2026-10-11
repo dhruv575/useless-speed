@@ -1,0 +1,42 @@
+{
+  "pretty_id": "26-1203",
+  "request_text": "<p>To whom it may concern,</p><p>My name is Anuhea Gillis and I am a research associate at Accident Research and Biomechanics.</p><p>I am emailing you to request the signal timing for the following intersection:</p><p>McAllister Street and Larkin Street, San Francisco, CA 94102</p><p>Or</p><p>37.780513, -122.416997</p><p>I would like the Signal Timing chart, Plan and As-builts for this intersection on the following dates:</p><ul><li>05/27/2023</li><li>02/13/2026</li></ul><p></p><p>Thank you for your time,</p><p>Anuhea Gillis</p><p>OC-2945(M)</p>",
+  "request_state": "Closed",
+  "visibility": "published",
+  "request_visibility": "Published",
+  "request_due_date": null,
+  "request_submit_type": null,
+  "request_date": "February 13, 2026",
+  "anticipated_fulfilled_at": null,
+  "expiration_date": null,
+  "exempt_from_retention": false,
+  "exempt_documents_from_retention": false,
+  "department_names": "Public Works",
+  "departments": [
+    {
+      "id": 74,
+      "name": "Public Works",
+      "poc_id": 27
+    }
+  ],
+  "request_staff_hours": null,
+  "request_staff_cost": null,
+  "custom_form_version": null,
+  "request_field_values": [],
+  "poc": {
+    "id": 27,
+    "email_or_name": "David A. Steinberg ",
+    "has_tasks": false,
+    "undeliverable_email": false
+  },
+  "is_current_requester": false,
+  "requester": {
+    "id": 2582219,
+    "name_with_email": null,
+    "name": null,
+    "email": null,
+    "phone": null,
+    "company": null,
+    "address": null
+  }
+}

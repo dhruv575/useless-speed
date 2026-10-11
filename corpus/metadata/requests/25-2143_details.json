@@ -1,0 +1,42 @@
+{
+  "pretty_id": "25-2143",
+  "request_text": "<p>Dear Custodian of Records for SFMTA,</p><p></p><p>I have never been able to open any response sent to me through NextRequest. Because of this history with a multitude of City agencies, please email your response to the following Records Request to judigorski@gmail.com. Thank you.</p><p></p><p><em>This is a pubic records request&nbsp;pursuant to the San Francisco Sunshine Ordinance (SF Admin. Code, §§67 et seq.) and the California Public Records Act (Gov. Code, §§ 6250 et seq.</em>&nbsp;<em>for all email, messages (text or otherwise), documents, memoranda, reports,&nbsp;</em><strong><em>financial reports and spreadsheets</em></strong><em>, work orders, notes and all other writings and communications among SFMTA staff, between SFMTA staff and other city departments, between SFMTA staff and elected officials and their staffs, between SFMTA staff and contractors&nbsp;</em><strong><em>from September 15, 2024&nbsp;</em></strong><em>until the day of the response to this public records request related to new traffic signals and</em><strong><em>&nbsp;cost and expenditures</em></strong><em>&nbsp;for new traffic signals&nbsp;</em><strong><em>installed on Sloat Boulevard, Taraval Street, Lincoln Way west of 19th Avenue, the Lower Great Highway and the Upper Great Highway</em></strong><em>&nbsp;</em><strong><em>between January 1, 2025 and March 24, 2025</em></strong><em>.&nbsp;Again, it is further requested that SFMTA deliver its response electronically by email addressed to judigorski@gmail.com.</em></p><p></p><p></p>",
+  "request_state": "Closed",
+  "visibility": "published",
+  "request_visibility": "Published",
+  "request_due_date": null,
+  "request_submit_type": null,
+  "request_date": "March 24, 2025",
+  "anticipated_fulfilled_at": null,
+  "expiration_date": null,
+  "exempt_from_retention": false,
+  "exempt_documents_from_retention": false,
+  "department_names": "San Francisco Municipal Transportation Agency (SFMTA)",
+  "departments": [
+    {
+      "id": 10322,
+      "name": "San Francisco Municipal Transportation Agency (SFMTA)",
+      "poc_id": 444578
+    }
+  ],
+  "request_staff_hours": null,
+  "request_staff_cost": null,
+  "custom_form_version": null,
+  "request_field_values": [],
+  "poc": {
+    "id": 444578,
+    "email_or_name": "Caroline Celaya",
+    "has_tasks": false,
+    "undeliverable_email": false
+  },
+  "is_current_requester": false,
+  "requester": {
+    "id": 419328,
+    "name_with_email": null,
+    "name": null,
+    "email": null,
+    "phone": null,
+    "company": null,
+    "address": null
+  }
+}

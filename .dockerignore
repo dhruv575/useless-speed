@@ -1,0 +1,14 @@
+**
+!package.json
+!package-lock.json
+!app/
+!app/**
+app/node_modules
+app/dist
+app/cache
+app/test-output
+app/.env*
+app/*.tsbuildinfo
+app/qa_*.py
+app/README.md
+app/QA.md

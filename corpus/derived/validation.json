@@ -1,0 +1,16 @@
+{
+  "checked_at": "2026-10-11T05:08:37.315166+00:00",
+  "hashes_checked": 223,
+  "page_pointers_checked": 760,
+  "sqlite_integrity": "ok",
+  "ocean_avenue_fts_matches": 211,
+  "headless_browser": {
+    "initial_count": "460 results \u00b7 showing 50 \u00b7 modeled scenarios and repeats are separate pages",
+    "ocean_search": "18 results \u00b7 showing 18 \u00b7 modeled scenarios and repeats are separate pages",
+    "ocean_articles": 18,
+    "data_count": "18 results \u00b7 showing 18 \u00b7 byte-identical duplicates collapsed",
+    "data_articles": 18,
+    "browser_errors": []
+  },
+  "problems": []
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "eas_baseid": "299303",
+    "eas_address_id": "514182",
+    "address_number": "176",
+    "street_name": "DOWNEY",
+    "street_type": "ST",
+    "cnn": "4965000",
+    "street_full_street_name": "DOWNEY ST",
+    "parcel_number": "1269146",
+    "zip_code": "94117",
+    "address": "176 DOWNEY ST",
+    "longitude": "-122.44671406797079",
+    "latitude": "37.765801067688386",
+    "point": {
+      "type": "Point",
+      "coordinates": [
+        -122.446714068,
+        37.765801068
+      ]
+    },
+    "supdist": "SUPERVISORIAL DISTRICT 8",
+    "numbertext": "EIGHT",
+    "supervisor": "8",
+    "supdistpad": "08",
+    "supname": "Rafael Mandelman",
+    "nhood": "Haight Ashbury",
+    "direct_source": "SF DBI",
+    "data_as_of": "2026-10-09T18:00:54.000",
+    "data_updated_at": "1970-01-01T00:00:00.000",
+    "data_loaded_at": "2026-10-10T20:12:17.705",
+    ":@computed_region_ajp5_b2md": "3",
+    ":@computed_region_6qbp_sg9q": "114",
+    ":@computed_region_qgnn_b9vv": "7",
+    ":@computed_region_26cr_cadq": "11"
+  }
+]

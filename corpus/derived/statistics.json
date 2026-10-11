@@ -1,0 +1,43 @@
+{
+  "built_at": "2026-10-11T03:23:02.736766+00:00",
+  "source_files": 223,
+  "unique_files": 160,
+  "duplicates": 63,
+  "total_bytes": 2142124896,
+  "unique_bytes": 1509093394,
+  "unique_pdf_pages": 12934,
+  "sparse_pdf_pages_without_ocr": 1639,
+  "ocr_pages": 15,
+  "timing_candidate_pages": 760,
+  "labeled_timing_pages": 460,
+  "cycle_length_pages": 432,
+  "by_category": {
+    "traffic_model": 2,
+    "signal_design": 51,
+    "signal_project_report": 5,
+    "timing_correspondence": 9,
+    "timing_card": 8,
+    "traffic_study_or_counts": 4,
+    "signal_request_attachment": 11,
+    "transportation_study": 30,
+    "bundled_eir_appendices": 16,
+    "traffic_counts": 2,
+    "gis_schema": 6,
+    "gis_context": 6,
+    "road_geometry": 2,
+    "observed_speeds": 8
+  },
+  "by_extension": {
+    ".sim": 1,
+    ".syn": 1,
+    ".pdf": 93,
+    ".dwg": 34,
+    ".zip": 2,
+    ".xlsx": 5,
+    ".csv": 2,
+    ".json": 16,
+    ".geojson": 6
+  },
+  "download_errors": 7,
+  "extraction_errors": 0
+}

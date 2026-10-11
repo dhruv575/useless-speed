@@ -1,0 +1,2607 @@
+{
+  "id": "3mea-di5p",
+  "name": "San Francisco Addresses - Enterprise Addressing System",
+  "assetType": "dataset",
+  "attribution": "City and County of San Francisco",
+  "averageRating": 0,
+  "category": "Geographic Locations and Boundaries",
+  "createdAt": 1539283654,
+  "description": "<strong>SUMMARY</strong>\nActive base addresses from San Francisco's Enterprise Addressing System (EAS). This dataset does not include sub-addresses, such as units, and does not include a block/lot value for each record. For units and block/lot values, see the <a href=\"https://data.sfgov.org/d/ramy-di5m\">Addresses with Units - Enterprise Addressing System</a> dataset.\n\n<strong>HOW THE DATASET IS CREATED</strong>\nThis dataset is an extract from the Enterprise Addressing System, maintained by San Francisco's Department of Technology.\n\n<strong>UPDATE PROCESS</strong>\nThis dataset updates nightly. \n\n<strong>RELATED DATASETS</strong>\n<li><a href=\"https://data.sfgov.org/d/ramy-di5m\">Addresses with Units - Enterprise Addressing System</a>",
+  "diciBackend": false,
+  "displayType": "table",
+  "domainCName": "data.sf.gov",
+  "downloadCount": 11235,
+  "hideFromCatalog": false,
+  "hideFromDataJson": false,
+  "licenseId": "PDDL",
+  "locked": false,
+  "newBackend": true,
+  "numberOfComments": 0,
+  "oid": 42386125,
+  "provenance": "official",
+  "publicationAppendEnabled": true,
+  "publicationDate": 1786040436,
+  "publicationGroup": 15581638,
+  "publicationStage": "published",
+  "rowIdentifierColumnId": 640804510,
+  "rowsUpdatedAt": 1791688444,
+  "rowsUpdatedBy": "dbag-6qd9",
+  "tableId": 20511803,
+  "totalTimesRated": 0,
+  "viewCount": 20188,
+  "viewLastModified": 1791688387,
+  "viewType": "tabular",
+  "approvals": [
+    {
+      "reviewedAt": 1747255248,
+      "reviewedAutomatically": false,
+      "state": "approved",
+      "submissionId": 7607518,
+      "submissionObject": "public_audience_request",
+      "submissionOutcome": "change_audience",
+      "submittedAt": 1747255234,
+      "targetAudience": "public",
+      "workflowId": 2546,
+      "reviewer": {
+        "id": "7zrh-3i2w",
+        "displayName": "Dan Tonkovich"
+      },
+      "submissionDetails": {
+        "permissionType": "read"
+      },
+      "submissionOutcomeApplication": {
+        "endedAt": 1747255248,
+        "failureCount": 0,
+        "startedAt": 1747255248,
+        "status": "success"
+      },
+      "submitter": {
+        "id": "7zrh-3i2w",
+        "displayName": "Dan Tonkovich"
+      }
+    },
+    {
+      "message": "The `strict_permissions` flag must be on to enable internal approvals.",
+      "state": "unsubmittable",
+      "targetAudience": "internal",
+      "workflowId": 5264
+    }
+  ],
+  "clientContext": {
+    "clientContextVariables": [],
+    "inheritedVariables": {}
+  },
+  "columns": [
+    {
+      "id": 640804510,
+      "name": "EAS BaseID",
+      "dataTypeName": "number",
+      "description": "The unique identifier for the base address record. For example, the address excluding any sub-units",
+      "fieldName": "eas_baseid",
+      "position": 1,
+      "renderTypeName": "number",
+      "tableColumnId": 70387578,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "506579",
+        "null": "0",
+        "top": [
+          {
+            "item": "274491",
+            "count": "1"
+          },
+          {
+            "item": "274492",
+            "count": "1"
+          },
+          {
+            "item": "274493",
+            "count": "1"
+          },
+          {
+            "item": "274494",
+            "count": "1"
+          },
+          {
+            "item": "274495",
+            "count": "1"
+          },
+          {
+            "item": "274496",
+            "count": "1"
+          },
+          {
+            "item": "274497",
+            "count": "1"
+          },
+          {
+            "item": "274498",
+            "count": "1"
+          },
+          {
+            "item": "274499",
+            "count": "1"
+          },
+          {
+            "item": "274500",
+            "count": "1"
+          },
+          {
+            "item": "274501",
+            "count": "1"
+          },
+          {
+            "item": "274502",
+            "count": "1"
+          },
+          {
+            "item": "274503",
+            "count": "1"
+          },
+          {
+            "item": "274504",
+            "count": "1"
+          },
+          {
+            "item": "274505",
+            "count": "1"
+          },
+          {
+            "item": "274506",
+            "count": "1"
+          },
+          {
+            "item": "274507",
+            "count": "1"
+          },
+          {
+            "item": "274508",
+            "count": "1"
+          },
+          {
+            "item": "274509",
+            "count": "1"
+          },
+          {
+            "item": "274490",
+            "count": "1"
+          }
+        ],
+        "smallest": "274490",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {
+        "noCommas": "true",
+        "align": "right"
+      }
+    },
+    {
+      "id": 640804540,
+      "name": "EAS AddressID",
+      "dataTypeName": "number",
+      "description": "Uniquely identifies the address that is the object of this address data transaction.",
+      "fieldName": "eas_address_id",
+      "position": 2,
+      "renderTypeName": "number",
+      "tableColumnId": 170353548,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "872689",
+        "null": "0",
+        "top": [
+          {
+            "item": "599400",
+            "count": "1"
+          },
+          {
+            "item": "737498",
+            "count": "1"
+          },
+          {
+            "item": "533497",
+            "count": "1"
+          },
+          {
+            "item": "561877",
+            "count": "1"
+          },
+          {
+            "item": "849050",
+            "count": "1"
+          },
+          {
+            "item": "599766",
+            "count": "1"
+          },
+          {
+            "item": "855866",
+            "count": "1"
+          },
+          {
+            "item": "547833",
+            "count": "1"
+          },
+          {
+            "item": "620957",
+            "count": "1"
+          },
+          {
+            "item": "554740",
+            "count": "1"
+          },
+          {
+            "item": "732756",
+            "count": "1"
+          },
+          {
+            "item": "558507",
+            "count": "1"
+          },
+          {
+            "item": "545836",
+            "count": "1"
+          },
+          {
+            "item": "524991",
+            "count": "1"
+          },
+          {
+            "item": "687032",
+            "count": "1"
+          },
+          {
+            "item": "609514",
+            "count": "1"
+          },
+          {
+            "item": "663624",
+            "count": "1"
+          },
+          {
+            "item": "680628",
+            "count": "1"
+          },
+          {
+            "item": "492520",
+            "count": "1"
+          },
+          {
+            "item": "616133",
+            "count": "1"
+          }
+        ],
+        "smallest": "479831",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {
+        "noCommas": "true"
+      }
+    },
+    {
+      "id": 640804511,
+      "name": "Address Number",
+      "dataTypeName": "number",
+      "description": "The numeric identifier for a land parcel, house, building, or other location along a thoroughfare or within a community",
+      "fieldName": "address_number",
+      "position": 3,
+      "renderTypeName": "number",
+      "tableColumnId": 70387576,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "8400",
+        "null": "0",
+        "top": [
+          {
+            "item": "1",
+            "count": "582"
+          },
+          {
+            "item": "25",
+            "count": "555"
+          },
+          {
+            "item": "15",
+            "count": "545"
+          },
+          {
+            "item": "50",
+            "count": "542"
+          },
+          {
+            "item": "30",
+            "count": "537"
+          },
+          {
+            "item": "20",
+            "count": "514"
+          },
+          {
+            "item": "45",
+            "count": "509"
+          },
+          {
+            "item": "2",
+            "count": "505"
+          },
+          {
+            "item": "55",
+            "count": "479"
+          },
+          {
+            "item": "35",
+            "count": "457"
+          },
+          {
+            "item": "10",
+            "count": "457"
+          },
+          {
+            "item": "40",
+            "count": "449"
+          },
+          {
+            "item": "33",
+            "count": "419"
+          },
+          {
+            "item": "130",
+            "count": "419"
+          },
+          {
+            "item": "150",
+            "count": "405"
+          },
+          {
+            "item": "100",
+            "count": "401"
+          },
+          {
+            "item": "60",
+            "count": "401"
+          },
+          {
+            "item": "26",
+            "count": "401"
+          },
+          {
+            "item": "21",
+            "count": "394"
+          },
+          {
+            "item": "75",
+            "count": "391"
+          }
+        ],
+        "smallest": "0",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {
+        "precisionStyle": "standard",
+        "noCommas": "true",
+        "align": "right"
+      }
+    },
+    {
+      "id": 640804512,
+      "name": "Address Number Suffix",
+      "dataTypeName": "text",
+      "description": "The portion of the Complete Address Number that follows the Address Number itself if one exists",
+      "fieldName": "address_number_suffix",
+      "position": 4,
+      "renderTypeName": "text",
+      "tableColumnId": 70387577,
+      "cachedContents": {
+        "non_null": "5212",
+        "largest": "R",
+        "null": "219190",
+        "top": [
+          {
+            "item": "A",
+            "count": "4015"
+          },
+          {
+            "item": "B",
+            "count": "720"
+          },
+          {
+            "item": "C",
+            "count": "183"
+          },
+          {
+            "item": "D",
+            "count": "62"
+          },
+          {
+            "item": "E",
+            "count": "61"
+          },
+          {
+            "item": "F",
+            "count": "40"
+          },
+          {
+            "item": "\u00bd",
+            "count": "23"
+          },
+          {
+            "item": "H",
+            "count": "19"
+          },
+          {
+            "item": "G",
+            "count": "18"
+          },
+          {
+            "item": "K",
+            "count": "15"
+          },
+          {
+            "item": "J",
+            "count": "13"
+          },
+          {
+            "item": "L",
+            "count": "10"
+          },
+          {
+            "item": "I",
+            "count": "10"
+          },
+          {
+            "item": "P",
+            "count": "9"
+          },
+          {
+            "item": "R",
+            "count": "6"
+          },
+          {
+            "item": "4",
+            "count": "2"
+          },
+          {
+            "item": "1",
+            "count": "2"
+          },
+          {
+            "item": "7",
+            "count": "1"
+          },
+          {
+            "item": "6",
+            "count": "1"
+          },
+          {
+            "item": "N",
+            "count": "1"
+          }
+        ],
+        "smallest": "0",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804513,
+      "name": "Street Name",
+      "dataTypeName": "text",
+      "description": "The portion of the Complete Street Name that identifies the particular thoroughfare",
+      "fieldName": "street_name",
+      "position": 5,
+      "renderTypeName": "text",
+      "tableColumnId": 70387571,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "ZOO",
+        "null": "0",
+        "top": [
+          {
+            "item": "MISSION",
+            "count": "2255"
+          },
+          {
+            "item": "18TH",
+            "count": "2009"
+          },
+          {
+            "item": "24TH",
+            "count": "1980"
+          },
+          {
+            "item": "17TH",
+            "count": "1970"
+          },
+          {
+            "item": "20TH",
+            "count": "1920"
+          },
+          {
+            "item": "22ND",
+            "count": "1834"
+          },
+          {
+            "item": "19TH",
+            "count": "1792"
+          },
+          {
+            "item": "25TH",
+            "count": "1783"
+          },
+          {
+            "item": "21ST",
+            "count": "1756"
+          },
+          {
+            "item": "23RD",
+            "count": "1724"
+          },
+          {
+            "item": "26TH",
+            "count": "1623"
+          },
+          {
+            "item": "16TH",
+            "count": "1515"
+          },
+          {
+            "item": "CALIFORNIA",
+            "count": "1502"
+          },
+          {
+            "item": "15TH",
+            "count": "1454"
+          },
+          {
+            "item": "GEARY",
+            "count": "1335"
+          },
+          {
+            "item": "27TH",
+            "count": "1306"
+          },
+          {
+            "item": "UNION",
+            "count": "1271"
+          },
+          {
+            "item": "29TH",
+            "count": "1265"
+          },
+          {
+            "item": "28TH",
+            "count": "1256"
+          },
+          {
+            "item": "FOLSOM",
+            "count": "1186"
+          }
+        ],
+        "smallest": "01ST",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804514,
+      "name": "Street Type",
+      "dataTypeName": "text",
+      "description": "A word or phrase that follows the Street Name and identifies a type of thoroughfare in a Complete Street Name",
+      "fieldName": "street_type",
+      "position": 6,
+      "renderTypeName": "text",
+      "tableColumnId": 70387572,
+      "cachedContents": {
+        "non_null": "223372",
+        "largest": "XING",
+        "null": "1030",
+        "top": [
+          {
+            "item": "ST",
+            "count": "124855"
+          },
+          {
+            "item": "AVE",
+            "count": "74715"
+          },
+          {
+            "item": "DR",
+            "count": "6780"
+          },
+          {
+            "item": "WAY",
+            "count": "5032"
+          },
+          {
+            "item": "BLVD",
+            "count": "4602"
+          },
+          {
+            "item": "TER",
+            "count": "1916"
+          },
+          {
+            "item": "CT",
+            "count": "1847"
+          },
+          {
+            "item": "LN",
+            "count": "870"
+          },
+          {
+            "item": "PL",
+            "count": "857"
+          },
+          {
+            "item": "RD",
+            "count": "763"
+          },
+          {
+            "item": "CIR",
+            "count": "367"
+          },
+          {
+            "item": "HWY",
+            "count": "313"
+          },
+          {
+            "item": "ALY",
+            "count": "217"
+          },
+          {
+            "item": "PARK",
+            "count": "145"
+          },
+          {
+            "item": "LOOP",
+            "count": "32"
+          },
+          {
+            "item": "STWY",
+            "count": "18"
+          },
+          {
+            "item": "HL",
+            "count": "13"
+          },
+          {
+            "item": "PLZ",
+            "count": "10"
+          },
+          {
+            "item": "ROW",
+            "count": "8"
+          },
+          {
+            "item": "WALK",
+            "count": "8"
+          }
+        ],
+        "smallest": "ALY",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804515,
+      "name": "CNN",
+      "dataTypeName": "number",
+      "description": "Centerline Network Number is the primary key/identifier for a street segment or node assigned by the Department of Public Works in the city's official basemap. Segments refer to lines representing the street, nodes represent points where two or more segments intersect. CNN IDs are often found encoded as text (CNNTEXT) or numbers (CNN). Basemap street segments are available here: https://data.sfgov.org/d/7hfy-8sz8; Basemap intersections (nodes) are here: https://data.sfgov.org/d/ctsg-7znq",
+      "fieldName": "cnn",
+      "position": 7,
+      "renderTypeName": "number",
+      "tableColumnId": 70387574,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "99000009",
+        "null": "0",
+        "top": [
+          {
+            "item": "15197000",
+            "count": "182"
+          },
+          {
+            "item": "3358000",
+            "count": "180"
+          },
+          {
+            "item": "2093000",
+            "count": "177"
+          },
+          {
+            "item": "8897000",
+            "count": "166"
+          },
+          {
+            "item": "4350000",
+            "count": "164"
+          },
+          {
+            "item": "5201000",
+            "count": "147"
+          },
+          {
+            "item": "12266000",
+            "count": "134"
+          },
+          {
+            "item": "4575000",
+            "count": "133"
+          },
+          {
+            "item": "4965000",
+            "count": "131"
+          },
+          {
+            "item": "12115000",
+            "count": "127"
+          },
+          {
+            "item": "3698000",
+            "count": "116"
+          },
+          {
+            "item": "7553000",
+            "count": "102"
+          },
+          {
+            "item": "9222000",
+            "count": "102"
+          },
+          {
+            "item": "10335000",
+            "count": "97"
+          },
+          {
+            "item": "3635000",
+            "count": "94"
+          },
+          {
+            "item": "19972000",
+            "count": "94"
+          },
+          {
+            "item": "3233000",
+            "count": "90"
+          },
+          {
+            "item": "13386000",
+            "count": "90"
+          },
+          {
+            "item": "4133000",
+            "count": "89"
+          },
+          {
+            "item": "4637000",
+            "count": "89"
+          }
+        ],
+        "smallest": "101000",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {
+        "noCommas": "true",
+        "align": "right"
+      }
+    },
+    {
+      "id": 640804516,
+      "name": "Street Full Name",
+      "dataTypeName": "text",
+      "description": "Street name and street type in a single field",
+      "fieldName": "street_full_street_name",
+      "position": 8,
+      "renderTypeName": "text",
+      "tableColumnId": 158543502,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "ZOO RD",
+        "null": "0",
+        "top": [
+          {
+            "item": "MISSION ST",
+            "count": "2255"
+          },
+          {
+            "item": "CALIFORNIA ST",
+            "count": "1496"
+          },
+          {
+            "item": "UNION ST",
+            "count": "1271"
+          },
+          {
+            "item": "FOLSOM ST",
+            "count": "1186"
+          },
+          {
+            "item": "21ST AVE",
+            "count": "1173"
+          },
+          {
+            "item": "20TH AVE",
+            "count": "1156"
+          },
+          {
+            "item": "19TH AVE",
+            "count": "1137"
+          },
+          {
+            "item": "17TH AVE",
+            "count": "1121"
+          },
+          {
+            "item": "JACKSON ST",
+            "count": "1100"
+          },
+          {
+            "item": "18TH AVE",
+            "count": "1070"
+          },
+          {
+            "item": "FULTON ST",
+            "count": "1064"
+          },
+          {
+            "item": "SACRAMENTO ST",
+            "count": "1050"
+          },
+          {
+            "item": "26TH AVE",
+            "count": "1039"
+          },
+          {
+            "item": "GREENWICH ST",
+            "count": "1027"
+          },
+          {
+            "item": "24TH ST",
+            "count": "1025"
+          },
+          {
+            "item": "22ND AVE",
+            "count": "1022"
+          },
+          {
+            "item": "35TH AVE",
+            "count": "1021"
+          },
+          {
+            "item": "GEARY BLVD",
+            "count": "1015"
+          },
+          {
+            "item": "FILBERT ST",
+            "count": "1001"
+          },
+          {
+            "item": "16TH AVE",
+            "count": "1000"
+          }
+        ],
+        "smallest": "01ST ST",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804517,
+      "name": "Parcel Number",
+      "dataTypeName": "text",
+      "description": "An asessor's parcel number, or APN, is a number assigned to parcels of real property by the Office of the Assessor Recorder for purposes of identification and record-keeping. It is sometimes referred to as the blocklot in City data. It is made up of two parts, the Assessor Block Number and the Assessor Lot Number. You can find a map of the lots here: https://data.sfgov.org/d/45et-ht7c",
+      "fieldName": "parcel_number",
+      "position": 9,
+      "renderTypeName": "text",
+      "tableColumnId": 158594478,
+      "cachedContents": {
+        "non_null": "212938",
+        "largest": "9900503",
+        "null": "11464",
+        "top": [
+          {
+            "item": "1300001",
+            "count": "742"
+          },
+          {
+            "item": "7296004",
+            "count": "180"
+          },
+          {
+            "item": "4222A001",
+            "count": "176"
+          },
+          {
+            "item": "1939001",
+            "count": "176"
+          },
+          {
+            "item": "4884020",
+            "count": "166"
+          },
+          {
+            "item": "4712008",
+            "count": "154"
+          },
+          {
+            "item": "0850012",
+            "count": "147"
+          },
+          {
+            "item": "6363001",
+            "count": "144"
+          },
+          {
+            "item": "7546102",
+            "count": "122"
+          },
+          {
+            "item": "5714001",
+            "count": "120"
+          },
+          {
+            "item": "0752001",
+            "count": "116"
+          },
+          {
+            "item": "0820026",
+            "count": "114"
+          },
+          {
+            "item": "4700041",
+            "count": "114"
+          },
+          {
+            "item": "6573001",
+            "count": "110"
+          },
+          {
+            "item": "4220A001",
+            "count": "110"
+          },
+          {
+            "item": "4700031",
+            "count": "106"
+          },
+          {
+            "item": "4734002",
+            "count": "105"
+          },
+          {
+            "item": "5843007",
+            "count": "105"
+          },
+          {
+            "item": "4700039",
+            "count": "104"
+          },
+          {
+            "item": "0782036",
+            "count": "101"
+          }
+        ],
+        "smallest": "0000000",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804518,
+      "name": "ZIP Code",
+      "dataTypeName": "number",
+      "description": "A system of 5-digit codes that identifies the individual Post Office or metropolitan area delivery station associated with an address.",
+      "fieldName": "zip_code",
+      "position": 10,
+      "renderTypeName": "number",
+      "tableColumnId": 70387570,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "94158",
+        "null": "0",
+        "top": [
+          {
+            "item": "94110",
+            "count": "21245"
+          },
+          {
+            "item": "94112",
+            "count": "20334"
+          },
+          {
+            "item": "94122",
+            "count": "18294"
+          },
+          {
+            "item": "94116",
+            "count": "14919"
+          },
+          {
+            "item": "94114",
+            "count": "13094"
+          },
+          {
+            "item": "94121",
+            "count": "12810"
+          },
+          {
+            "item": "94118",
+            "count": "12608"
+          },
+          {
+            "item": "94124",
+            "count": "11383"
+          },
+          {
+            "item": "94117",
+            "count": "11354"
+          },
+          {
+            "item": "94134",
+            "count": "10555"
+          },
+          {
+            "item": "94131",
+            "count": "10009"
+          },
+          {
+            "item": "94115",
+            "count": "8042"
+          },
+          {
+            "item": "94133",
+            "count": "7911"
+          },
+          {
+            "item": "94123",
+            "count": "7737"
+          },
+          {
+            "item": "94127",
+            "count": "7390"
+          },
+          {
+            "item": "94132",
+            "count": "7389"
+          },
+          {
+            "item": "94109",
+            "count": "7142"
+          },
+          {
+            "item": "94107",
+            "count": "6499"
+          },
+          {
+            "item": "94103",
+            "count": "6030"
+          },
+          {
+            "item": "94102",
+            "count": "4295"
+          }
+        ],
+        "smallest": "94102",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {
+        "noCommas": "true",
+        "align": "right"
+      }
+    },
+    {
+      "id": 640804519,
+      "name": "Address",
+      "dataTypeName": "text",
+      "description": "The full location of a record often including the street number, name and type; city; state; and zip code",
+      "fieldName": "address",
+      "position": 11,
+      "renderTypeName": "text",
+      "tableColumnId": 70387573,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "9 YOUNG CT",
+        "null": "0",
+        "top": [
+          {
+            "item": "101 MONTGOMERY ST",
+            "count": "2"
+          },
+          {
+            "item": "10 FUNSTON AVE",
+            "count": "2"
+          },
+          {
+            "item": "105 MONTGOMERY ST",
+            "count": "2"
+          },
+          {
+            "item": "231 FRANKLIN ST",
+            "count": "2"
+          },
+          {
+            "item": "100 MONTGOMERY ST",
+            "count": "2"
+          },
+          {
+            "item": "2 FUNSTON AVE",
+            "count": "2"
+          },
+          {
+            "item": "643 MASON ST",
+            "count": "2"
+          },
+          {
+            "item": "640 MASON ST",
+            "count": "2"
+          },
+          {
+            "item": "2639 SAN BRUNO AVE",
+            "count": "1"
+          },
+          {
+            "item": "3332 SCOTT ST",
+            "count": "1"
+          },
+          {
+            "item": "220 EUREKA ST",
+            "count": "1"
+          },
+          {
+            "item": "1636 LEAVENWORTH ST",
+            "count": "1"
+          },
+          {
+            "item": "331 LISBON ST",
+            "count": "1"
+          },
+          {
+            "item": "2702 TARAVAL ST",
+            "count": "1"
+          },
+          {
+            "item": "1540 G LOMBARD ST",
+            "count": "1"
+          },
+          {
+            "item": "1236 RAMSEL CT",
+            "count": "1"
+          },
+          {
+            "item": "1011 BUSH ST",
+            "count": "1"
+          },
+          {
+            "item": "244 27TH ST",
+            "count": "1"
+          },
+          {
+            "item": "1750 DOLORES ST",
+            "count": "1"
+          },
+          {
+            "item": "5084 MISSION ST",
+            "count": "1"
+          }
+        ],
+        "smallest": "0 ALEMANY BLVD",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {
+        "align": "right"
+      }
+    },
+    {
+      "id": 640804520,
+      "name": "Longitude",
+      "dataTypeName": "number",
+      "description": "A geographic coordinate expressed in decimal degrees that specifies the east-west position of a point on the Earth's surface and assuming a WGS84 coordinate system.",
+      "fieldName": "longitude",
+      "position": 12,
+      "renderTypeName": "number",
+      "tableColumnId": 70387568,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "-122.36206897556212",
+        "null": "0",
+        "top": [
+          {
+            "item": "-122.38046755131937",
+            "count": "212"
+          },
+          {
+            "item": "-122.3882040668343",
+            "count": "165"
+          },
+          {
+            "item": "-122.47972543127362",
+            "count": "158"
+          },
+          {
+            "item": "-122.49736494889719",
+            "count": "98"
+          },
+          {
+            "item": "-122.39743056450165",
+            "count": "92"
+          },
+          {
+            "item": "-122.38077321554273",
+            "count": "88"
+          },
+          {
+            "item": "-122.39694949772041",
+            "count": "80"
+          },
+          {
+            "item": "-122.37853963349013",
+            "count": "75"
+          },
+          {
+            "item": "-122.39703245072232",
+            "count": "74"
+          },
+          {
+            "item": "-122.39572352538647",
+            "count": "68"
+          },
+          {
+            "item": "-122.42508703072643",
+            "count": "66"
+          },
+          {
+            "item": "-122.3737900447949",
+            "count": "58"
+          },
+          {
+            "item": "-122.39606058627619",
+            "count": "57"
+          },
+          {
+            "item": "-122.3814553019472",
+            "count": "57"
+          },
+          {
+            "item": "-122.46163132128274",
+            "count": "56"
+          },
+          {
+            "item": "-122.43519570341412",
+            "count": "49"
+          },
+          {
+            "item": "-122.42883699430854",
+            "count": "49"
+          },
+          {
+            "item": "-122.41662478668619",
+            "count": "46"
+          },
+          {
+            "item": "-122.42777747333344",
+            "count": "46"
+          },
+          {
+            "item": "-122.43805590257146",
+            "count": "45"
+          }
+        ],
+        "smallest": "-122.51436038169432",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804521,
+      "name": "Latitude",
+      "dataTypeName": "number",
+      "description": "A geographic coordinate expressed in decimal degrees that specifies the north-south position of a point on the Earth's surface and assuming a WGS84 coordinate system.",
+      "fieldName": "latitude",
+      "position": 13,
+      "renderTypeName": "number",
+      "tableColumnId": 70387575,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "37.831790166492354",
+        "null": "0",
+        "top": [
+          {
+            "item": "37.733438823529156",
+            "count": "212"
+          },
+          {
+            "item": "37.71953472687494",
+            "count": "165"
+          },
+          {
+            "item": "37.72674291645658",
+            "count": "158"
+          },
+          {
+            "item": "37.71623075669431",
+            "count": "98"
+          },
+          {
+            "item": "37.75169101968877",
+            "count": "92"
+          },
+          {
+            "item": "37.73316547853497",
+            "count": "88"
+          },
+          {
+            "item": "37.75348547742317",
+            "count": "80"
+          },
+          {
+            "item": "37.73543235713256",
+            "count": "75"
+          },
+          {
+            "item": "37.753303240507336",
+            "count": "74"
+          },
+          {
+            "item": "37.75389211815695",
+            "count": "68"
+          },
+          {
+            "item": "37.77959226447277",
+            "count": "66"
+          },
+          {
+            "item": "37.729478747363025",
+            "count": "58"
+          },
+          {
+            "item": "37.7539912737144",
+            "count": "57"
+          },
+          {
+            "item": "37.725626770472",
+            "count": "56"
+          },
+          {
+            "item": "37.77602629146959",
+            "count": "49"
+          },
+          {
+            "item": "37.739523037227194",
+            "count": "49"
+          },
+          {
+            "item": "37.73593067707698",
+            "count": "47"
+          },
+          {
+            "item": "37.77960977793409",
+            "count": "46"
+          },
+          {
+            "item": "37.7328065988833",
+            "count": "46"
+          },
+          {
+            "item": "37.73868749409472",
+            "count": "45"
+          }
+        ],
+        "smallest": "37.70805791202109",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804522,
+      "name": "point",
+      "dataTypeName": "point",
+      "description": "The system representation of the coordinate (latitude and longitude) for the purposes of mapping within the open data portal.",
+      "fieldName": "point",
+      "position": 14,
+      "renderTypeName": "point",
+      "tableColumnId": 70387569,
+      "cachedContents": {
+        "non_null": "224402",
+        "null": "0",
+        "top": [
+          {
+            "item": {
+              "coordinates": [
+                -122.380467551,
+                37.733438824
+              ],
+              "type": "Point"
+            },
+            "count": "212"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.388204067,
+                37.719534727
+              ],
+              "type": "Point"
+            },
+            "count": "165"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.479725431,
+                37.726742916
+              ],
+              "type": "Point"
+            },
+            "count": "158"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.497364949,
+                37.716230757
+              ],
+              "type": "Point"
+            },
+            "count": "98"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.397430565,
+                37.75169102
+              ],
+              "type": "Point"
+            },
+            "count": "92"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.380773216,
+                37.733165479
+              ],
+              "type": "Point"
+            },
+            "count": "88"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.396949498,
+                37.753485477
+              ],
+              "type": "Point"
+            },
+            "count": "80"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.378539633,
+                37.735432357
+              ],
+              "type": "Point"
+            },
+            "count": "75"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.397032451,
+                37.753303241
+              ],
+              "type": "Point"
+            },
+            "count": "74"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.395723525,
+                37.753892118
+              ],
+              "type": "Point"
+            },
+            "count": "68"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.425087031,
+                37.779592264
+              ],
+              "type": "Point"
+            },
+            "count": "66"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.381455302,
+                37.735930677
+              ],
+              "type": "Point"
+            },
+            "count": "58"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.373790045,
+                37.729478747
+              ],
+              "type": "Point"
+            },
+            "count": "58"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.396060586,
+                37.753991274
+              ],
+              "type": "Point"
+            },
+            "count": "57"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.461631321,
+                37.72562677
+              ],
+              "type": "Point"
+            },
+            "count": "56"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.427558627,
+                37.778689779
+              ],
+              "type": "Point"
+            },
+            "count": "50"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.435195703,
+                37.739523037
+              ],
+              "type": "Point"
+            },
+            "count": "49"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.428836994,
+                37.776026291
+              ],
+              "type": "Point"
+            },
+            "count": "49"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.427777473,
+                37.779609778
+              ],
+              "type": "Point"
+            },
+            "count": "46"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.416624787,
+                37.732806599
+              ],
+              "type": "Point"
+            },
+            "count": "46"
+          }
+        ],
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804523,
+      "name": "supdist",
+      "dataTypeName": "text",
+      "description": "Full name of Supervisorial District",
+      "fieldName": "supdist",
+      "position": 15,
+      "renderTypeName": "text",
+      "tableColumnId": 82861408,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "SUPERVISORIAL DISTRICT 9",
+        "null": "0",
+        "top": [
+          {
+            "item": "SUPERVISORIAL DISTRICT 8",
+            "count": "28959"
+          },
+          {
+            "item": "SUPERVISORIAL DISTRICT 4",
+            "count": "25099"
+          },
+          {
+            "item": "SUPERVISORIAL DISTRICT 7",
+            "count": "24892"
+          },
+          {
+            "item": "SUPERVISORIAL DISTRICT 9",
+            "count": "23787"
+          },
+          {
+            "item": "SUPERVISORIAL DISTRICT 10",
+            "count": "22498"
+          },
+          {
+            "item": "SUPERVISORIAL DISTRICT 1",
+            "count": "22441"
+          },
+          {
+            "item": "SUPERVISORIAL DISTRICT 11",
+            "count": "21218"
+          },
+          {
+            "item": "SUPERVISORIAL DISTRICT 2",
+            "count": "18107"
+          },
+          {
+            "item": "SUPERVISORIAL DISTRICT 3",
+            "count": "16957"
+          },
+          {
+            "item": "SUPERVISORIAL DISTRICT 5",
+            "count": "14028"
+          },
+          {
+            "item": "SUPERVISORIAL DISTRICT 6",
+            "count": "6416"
+          }
+        ],
+        "smallest": "SUPERVISORIAL DISTRICT 1",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804524,
+      "name": "numbertext",
+      "dataTypeName": "text",
+      "description": "Supervisor District number as text (ONE, TWO, ...)",
+      "fieldName": "numbertext",
+      "position": 16,
+      "renderTypeName": "text",
+      "tableColumnId": 82861405,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "TWO",
+        "null": "0",
+        "top": [
+          {
+            "item": "EIGHT",
+            "count": "28959"
+          },
+          {
+            "item": "FOUR",
+            "count": "25099"
+          },
+          {
+            "item": "SEVEN",
+            "count": "24892"
+          },
+          {
+            "item": "NINE",
+            "count": "23787"
+          },
+          {
+            "item": "TEN",
+            "count": "22498"
+          },
+          {
+            "item": "ONE",
+            "count": "22441"
+          },
+          {
+            "item": "ELEVEN",
+            "count": "21218"
+          },
+          {
+            "item": "TWO",
+            "count": "18107"
+          },
+          {
+            "item": "THREE",
+            "count": "16957"
+          },
+          {
+            "item": "FIVE",
+            "count": "14028"
+          },
+          {
+            "item": "SIX",
+            "count": "6416"
+          }
+        ],
+        "smallest": "EIGHT",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804525,
+      "name": "supervisor",
+      "dataTypeName": "number",
+      "description": "Supervisor District Number",
+      "fieldName": "supervisor",
+      "position": 17,
+      "renderTypeName": "number",
+      "tableColumnId": 82861406,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "11",
+        "null": "0",
+        "top": [
+          {
+            "item": "8",
+            "count": "28959"
+          },
+          {
+            "item": "4",
+            "count": "25099"
+          },
+          {
+            "item": "7",
+            "count": "24892"
+          },
+          {
+            "item": "9",
+            "count": "23787"
+          },
+          {
+            "item": "10",
+            "count": "22498"
+          },
+          {
+            "item": "1",
+            "count": "22441"
+          },
+          {
+            "item": "11",
+            "count": "21218"
+          },
+          {
+            "item": "2",
+            "count": "18107"
+          },
+          {
+            "item": "3",
+            "count": "16957"
+          },
+          {
+            "item": "5",
+            "count": "14028"
+          },
+          {
+            "item": "6",
+            "count": "6416"
+          }
+        ],
+        "smallest": "1",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804526,
+      "name": "supdistpad",
+      "dataTypeName": "text",
+      "description": "Supervisor District Number as text with zero padding (01, 02, ...)",
+      "fieldName": "supdistpad",
+      "position": 18,
+      "renderTypeName": "text",
+      "tableColumnId": 82861404,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "11",
+        "null": "0",
+        "top": [
+          {
+            "item": "08",
+            "count": "28959"
+          },
+          {
+            "item": "04",
+            "count": "25099"
+          },
+          {
+            "item": "07",
+            "count": "24892"
+          },
+          {
+            "item": "09",
+            "count": "23787"
+          },
+          {
+            "item": "10",
+            "count": "22498"
+          },
+          {
+            "item": "01",
+            "count": "22441"
+          },
+          {
+            "item": "11",
+            "count": "21218"
+          },
+          {
+            "item": "02",
+            "count": "18107"
+          },
+          {
+            "item": "03",
+            "count": "16957"
+          },
+          {
+            "item": "05",
+            "count": "14028"
+          },
+          {
+            "item": "06",
+            "count": "6416"
+          }
+        ],
+        "smallest": "01",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804527,
+      "name": "supname",
+      "dataTypeName": "text",
+      "description": "Last name of current Supervisor for District",
+      "fieldName": "supname",
+      "position": 19,
+      "renderTypeName": "text",
+      "tableColumnId": 82861407,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "Stephen Sherrill",
+        "null": "0",
+        "top": [
+          {
+            "item": "Rafael Mandelman",
+            "count": "28959"
+          },
+          {
+            "item": "Alan Wong",
+            "count": "25099"
+          },
+          {
+            "item": "Myrna Melgar",
+            "count": "24892"
+          },
+          {
+            "item": "Jackie Fielder",
+            "count": "23787"
+          },
+          {
+            "item": "Shamann Walton",
+            "count": "22498"
+          },
+          {
+            "item": "Connie Chan",
+            "count": "22441"
+          },
+          {
+            "item": "Chyanne Chen",
+            "count": "21218"
+          },
+          {
+            "item": "Stephen Sherrill",
+            "count": "18107"
+          },
+          {
+            "item": "Danny Sauter",
+            "count": "16957"
+          },
+          {
+            "item": "Bilal Mahmood",
+            "count": "14028"
+          },
+          {
+            "item": "Matt Dorsey",
+            "count": "6416"
+          }
+        ],
+        "smallest": "Alan Wong",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804528,
+      "name": "nhood",
+      "dataTypeName": "text",
+      "description": "San Francisco Neighborhood as per DataSF.",
+      "fieldName": "nhood",
+      "position": 20,
+      "renderTypeName": "text",
+      "tableColumnId": 82861409,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "West of Twin Peaks",
+        "null": "0",
+        "top": [
+          {
+            "item": "Sunset/Parkside",
+            "count": "25054"
+          },
+          {
+            "item": "Mission",
+            "count": "15247"
+          },
+          {
+            "item": "West of Twin Peaks",
+            "count": "13927"
+          },
+          {
+            "item": "Outer Richmond",
+            "count": "13543"
+          },
+          {
+            "item": "Bayview Hunters Point",
+            "count": "12154"
+          },
+          {
+            "item": "Excelsior",
+            "count": "9413"
+          },
+          {
+            "item": "Inner Sunset",
+            "count": "8914"
+          },
+          {
+            "item": "Noe Valley",
+            "count": "8677"
+          },
+          {
+            "item": "Bernal Heights",
+            "count": "8557"
+          },
+          {
+            "item": "Castro/Upper Market",
+            "count": "8293"
+          },
+          {
+            "item": "Marina",
+            "count": "7224"
+          },
+          {
+            "item": "Oceanview/Merced/Ingleside",
+            "count": "6817"
+          },
+          {
+            "item": "Inner Richmond",
+            "count": "6541"
+          },
+          {
+            "item": "Outer Mission",
+            "count": "5665"
+          },
+          {
+            "item": "Haight Ashbury",
+            "count": "5559"
+          },
+          {
+            "item": "Potrero Hill",
+            "count": "5017"
+          },
+          {
+            "item": "Pacific Heights",
+            "count": "4946"
+          },
+          {
+            "item": "Russian Hill",
+            "count": "4865"
+          },
+          {
+            "item": "Hayes Valley",
+            "count": "4855"
+          },
+          {
+            "item": "Portola",
+            "count": "4285"
+          }
+        ],
+        "smallest": "Bayview Hunters Point",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804529,
+      "name": "complete_landmark_name",
+      "dataTypeName": "text",
+      "description": "Landmark name for a base address, if associated.",
+      "fieldName": "complete_landmark_name",
+      "position": 21,
+      "renderTypeName": "text",
+      "tableColumnId": 151193441,
+      "cachedContents": {
+        "non_null": "178",
+        "largest": "Women's Resource Center",
+        "null": "224224",
+        "top": [
+          {
+            "item": "Building 260",
+            "count": "3"
+          },
+          {
+            "item": "Menorah Park",
+            "count": "2"
+          },
+          {
+            "item": "The Audiffred Building",
+            "count": "2"
+          },
+          {
+            "item": "50 United Nations Plaza Federal Office Building",
+            "count": "1"
+          },
+          {
+            "item": "Agriculture Building",
+            "count": "1"
+          },
+          {
+            "item": "AlmaVia of San Francisco",
+            "count": "1"
+          },
+          {
+            "item": "921 Howard",
+            "count": "1"
+          },
+          {
+            "item": "Bay Area Young Survivors Breast Cancer Memorial Garden, Golden Gate Park",
+            "count": "1"
+          },
+          {
+            "item": "Bayfront Medical Building",
+            "count": "1"
+          },
+          {
+            "item": "Bernal Heights Branch Library",
+            "count": "1"
+          },
+          {
+            "item": "Brightwell West",
+            "count": "1"
+          },
+          {
+            "item": "Buchanan Mall",
+            "count": "1"
+          },
+          {
+            "item": "Buckeye Grove",
+            "count": "1"
+          },
+          {
+            "item": "Calvary Armenian Congregational Church",
+            "count": "1"
+          },
+          {
+            "item": "California Academy of Sciences",
+            "count": "1"
+          },
+          {
+            "item": "Anza Branch Library",
+            "count": "1"
+          },
+          {
+            "item": "Cesar Chavez Pump Station",
+            "count": "1"
+          },
+          {
+            "item": "Child Development Center",
+            "count": "1"
+          },
+          {
+            "item": "Conservatory of Flowers, Golden Gate Park",
+            "count": "1"
+          },
+          {
+            "item": "72 Townsend",
+            "count": "1"
+          }
+        ],
+        "smallest": "1100 Ocean Ave Apartments",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804530,
+      "name": "landmark_aliases",
+      "dataTypeName": "text",
+      "description": "Colloquial or official landmark name associated with an address.",
+      "fieldName": "landmark_aliases",
+      "position": 22,
+      "renderTypeName": "text",
+      "tableColumnId": 158543501,
+      "cachedContents": {
+        "non_null": "27",
+        "largest": "{\"UCSF Dermatology Spruce Clinic\",\"UCSF Department of Dermatology Faculty Practice\"}",
+        "null": "224375",
+        "top": [
+          {
+            "item": "{\"1 Embarcadero Ctr\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"2 Embarcadero Ctr\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"3 Embarcadero Ctr\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"4 Embarcadero Ctr\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"Army Street Circle Pump Station\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"BAYS Breast Cancer Memorial Garden\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"Building 187\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"Building 402\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"Building 99\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"Edwin and Anita Lee Newcomer School\",\"Commodore Stockton Elementary School\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"Geneva Carbarn\",\"Geneva Car Barn\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"Great Famine Memorial Plaza\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"Legion of Honor Museum\",\"California Palace of the Legion of Honor\"}",
+            "count": "1"
+          },
+          {
+            "item": "{NorthPark}",
+            "count": "1"
+          },
+          {
+            "item": "{\"NorthPark 2\",\"Embarcadero Square\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"Nourse Theater\",\"Commerce High School Auditorium\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"One Rincon Hill\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"One Rincon Hill\",\"Tower Two at One Rincon Hill\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"San Francisco Ferry Building\",\"One Ferry Building\"}",
+            "count": "1"
+          },
+          {
+            "item": "{\"San Francisco Fireboat Station 35\"}",
+            "count": "1"
+          }
+        ],
+        "smallest": "{\"1 Embarcadero Ctr\"}",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804531,
+      "name": "direct_source",
+      "dataTypeName": "text",
+      "description": "Source from which the data provider obtained the address, or with which the data provider validated the address.",
+      "fieldName": "direct_source",
+      "position": 23,
+      "renderTypeName": "text",
+      "tableColumnId": 158543500,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "The Presidio Trust",
+        "null": "0",
+        "top": [
+          {
+            "item": "SF DBI",
+            "count": "213756"
+          },
+          {
+            "item": "State of CA",
+            "count": "9953"
+          },
+          {
+            "item": "The Presidio Trust",
+            "count": "693"
+          }
+        ],
+        "smallest": "SF DBI",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {}
+    },
+    {
+      "id": 640804532,
+      "name": "data_as_of",
+      "dataTypeName": "calendar_date",
+      "description": "Timestamp the data was updated in the source system",
+      "fieldName": "data_as_of",
+      "position": 24,
+      "renderTypeName": "calendar_date",
+      "tableColumnId": 151776484,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "2026-10-09T18:00:54.000",
+        "null": "0",
+        "top": [
+          {
+            "item": "2026-10-09T18:00:54.000",
+            "count": "224402"
+          }
+        ],
+        "smallest": "2026-10-09T18:00:54.000",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {
+        "view": "date_ymd_time"
+      }
+    },
+    {
+      "id": 640804533,
+      "name": "data_updated_at",
+      "dataTypeName": "calendar_date",
+      "description": "Timestamp the row was last modified",
+      "fieldName": "data_updated_at",
+      "position": 25,
+      "renderTypeName": "calendar_date",
+      "tableColumnId": 158543499,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "2026-10-09T09:53:20.729",
+        "null": "0",
+        "top": [
+          {
+            "item": "1970-01-01T00:00:00.000",
+            "count": "170780"
+          },
+          {
+            "item": "2019-06-14T19:20:22.142",
+            "count": "722"
+          },
+          {
+            "item": "2014-04-30T13:19:04.588",
+            "count": "692"
+          },
+          {
+            "item": "2019-06-13T19:00:11.797",
+            "count": "608"
+          },
+          {
+            "item": "2019-05-29T18:46:31.858",
+            "count": "594"
+          },
+          {
+            "item": "2019-06-12T18:45:59.238",
+            "count": "543"
+          },
+          {
+            "item": "2019-06-12T19:11:51.213",
+            "count": "533"
+          },
+          {
+            "item": "2019-06-11T18:46:22.663",
+            "count": "486"
+          },
+          {
+            "item": "2019-06-14T18:50:33.276",
+            "count": "478"
+          },
+          {
+            "item": "2019-06-10T19:11:39.986",
+            "count": "464"
+          },
+          {
+            "item": "2019-06-04T18:48:20.453",
+            "count": "460"
+          },
+          {
+            "item": "2019-06-11T19:05:22.341",
+            "count": "458"
+          },
+          {
+            "item": "2019-06-05T18:49:25.203",
+            "count": "434"
+          },
+          {
+            "item": "2019-06-13T18:39:18.495",
+            "count": "430"
+          },
+          {
+            "item": "2019-06-10T18:47:32.568",
+            "count": "374"
+          },
+          {
+            "item": "2019-05-28T18:54:01.779",
+            "count": "255"
+          },
+          {
+            "item": "2019-05-23T18:48:36.295",
+            "count": "254"
+          },
+          {
+            "item": "2019-05-25T18:39:55.537",
+            "count": "246"
+          },
+          {
+            "item": "2019-05-16T19:04:04.591",
+            "count": "186"
+          },
+          {
+            "item": "2019-05-22T18:48:22.002",
+            "count": "185"
+          }
+        ],
+        "smallest": "1970-01-01T00:00:00.000",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {
+        "view": "date_ymd_time"
+      }
+    },
+    {
+      "id": 640804534,
+      "name": "data_loaded_at",
+      "dataTypeName": "calendar_date",
+      "description": "Timestamp the data was loaded to the open data portal",
+      "fieldName": "data_loaded_at",
+      "position": 26,
+      "renderTypeName": "calendar_date",
+      "tableColumnId": 151776483,
+      "cachedContents": {
+        "non_null": "224402",
+        "largest": "2026-10-09T20:12:22.371",
+        "null": "0",
+        "top": [
+          {
+            "item": "2026-10-09T20:12:22.371",
+            "count": "224402"
+          }
+        ],
+        "smallest": "2026-10-09T20:12:22.371",
+        "count": "224402",
+        "cardinality": "224402"
+      },
+      "format": {
+        "view": "date_ymd_time"
+      }
+    },
+    {
+      "id": 640804535,
+      "name": "Analysis Neighborhoods",
+      "dataTypeName": "number",
+      "description": "",
+      "fieldName": ":@computed_region_ajp5_b2md",
+      "position": 29,
+      "renderTypeName": "number",
+      "tableColumnId": 70387582,
+      "computationStrategy": {
+        "source_columns": [
+          "point"
+        ],
+        "type": "georegion_match_on_point",
+        "parameters": {
+          "region": "_ajp5-b2md",
+          "primary_key": "_feature_id"
+        }
+      },
+      "format": {}
+    },
+    {
+      "id": 640804536,
+      "name": "SF Find Neighborhoods",
+      "dataTypeName": "number",
+      "description": "",
+      "fieldName": ":@computed_region_6qbp_sg9q",
+      "position": 30,
+      "renderTypeName": "number",
+      "tableColumnId": 70387579,
+      "computationStrategy": {
+        "source_columns": [
+          "point"
+        ],
+        "type": "georegion_match_on_point",
+        "parameters": {
+          "region": "_6qbp-sg9q",
+          "primary_key": "_feature_id"
+        }
+      },
+      "format": {}
+    },
+    {
+      "id": 640804537,
+      "name": "Current Police Districts",
+      "dataTypeName": "number",
+      "description": "",
+      "fieldName": ":@computed_region_qgnn_b9vv",
+      "position": 31,
+      "renderTypeName": "number",
+      "tableColumnId": 70387580,
+      "computationStrategy": {
+        "source_columns": [
+          "point"
+        ],
+        "type": "georegion_match_on_point",
+        "parameters": {
+          "region": "_qgnn-b9vv",
+          "primary_key": "_feature_id"
+        }
+      },
+      "format": {}
+    },
+    {
+      "id": 640804538,
+      "name": "Current Supervisor Districts",
+      "dataTypeName": "number",
+      "description": "",
+      "fieldName": ":@computed_region_26cr_cadq",
+      "position": 32,
+      "renderTypeName": "number",
+      "tableColumnId": 70387581,
+      "computationStrategy": {
+        "source_columns": [
+          "point"
+        ],
+        "type": "georegion_match_on_point",
+        "parameters": {
+          "region": "_26cr-cadq",
+          "primary_key": "_feature_id"
+        }
+      },
+      "format": {}
+    }
+  ],
+  "grants": [
+    {
+      "inherited": false,
+      "type": "viewer",
+      "flags": [
+        "public"
+      ]
+    }
+  ],
+  "license": {
+    "name": "Open Data Commons Public Domain Dedication and License",
+    "termsLink": "http://opendatacommons.org/licenses/pddl/1.0/"
+  },
+  "metadata": {
+    "custom_fields": {
+      "Geospatial API Pre-release": {
+        "Enabled": "true"
+      },
+      "Department Metrics": {
+        "Publishing Department": "Technology"
+      },
+      "Internal Management": {
+        "Inventory ID": "TIS-0002"
+      },
+      "Detailed Descriptive": {
+        "Geographic unit": "Street address"
+      },
+      "Publishing Details": {
+        "Data change frequency": "Daily",
+        "Program link": "",
+        "Publishing frequency": "Daily",
+        "Is self-service": "Yes",
+        "Geographic unit": "Street address"
+      }
+    },
+    "rowIdentifier": 640804510,
+    "rowLabel": "Address",
+    "availableDisplayTypes": [
+      "table",
+      "fatrow",
+      "page"
+    ]
+  },
+  "owner": {
+    "id": "dbag-6qd9",
+    "displayName": "OpenData",
+    "screenName": "OpenData",
+    "type": "interactive",
+    "flags": [
+      "acceptedEula"
+    ]
+  },
+  "query": {},
+  "rights": [
+    "read"
+  ],
+  "tableAuthor": {
+    "id": "dbag-6qd9",
+    "displayName": "OpenData",
+    "screenName": "OpenData",
+    "type": "interactive",
+    "flags": [
+      "acceptedEula"
+    ]
+  },
+  "tags": [
+    "addresses",
+    "dbi",
+    "city reference data",
+    "ref:basemap",
+    "eas"
+  ],
+  "flags": [
+    "default",
+    "federated",
+    "internalToPublicFederatedView",
+    "ownerMayBeContacted",
+    "restorable",
+    "restorePossibleForType"
+  ]
+}

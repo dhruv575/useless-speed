@@ -1,0 +1,30 @@
+{
+  "url": "https://congestion.sfcta.org",
+  "text": "SAN FRANCISCO CONGESTION DASHBOARD\nWhat is this?   \nLearn More\nAuto Level-of-Service (LOS)\nSpeed Change Relative to Pre-COVID\nVehicle Miles Traveled (VMT)\nVMT Change Relative to Pre-COVID\nAUTO SPEED TREND (MPH):\nAll Segments Combined\nLoading\n\n\nCHOOSE MONTH:\n0\n►\nCHOOSE TIME PERIOD:\nAM PM 1-Hour\n\n\n+\n−\nLeaflet | OpenStreetMap | Mapbox",
+  "links": [
+    {
+      "title": "",
+      "url": "https://www.sfcta.org/"
+    },
+    {
+      "title": "+",
+      "url": "https://congestion.sfcta.org/#"
+    },
+    {
+      "title": "−",
+      "url": "https://congestion.sfcta.org/#"
+    },
+    {
+      "title": "Leaflet",
+      "url": "http://leafletjs.com/"
+    },
+    {
+      "title": "OpenStreetMap",
+      "url": "https://openstreetmap.org/"
+    },
+    {
+      "title": "Mapbox",
+      "url": "https://mapbox.com/"
+    }
+  ]
+}

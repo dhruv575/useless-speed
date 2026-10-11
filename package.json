@@ -1,0 +1,15 @@
+{
+  "name": "useless-speed",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A San Francisco driving experiment and reusable signal and traffic research corpus.",
+  "license": "MIT",
+  "workspaces": ["app"],
+  "engines": { "node": ">=24 <25" },
+  "scripts": {
+    "dev": "npm run dev --workspace @useless-speed/app",
+    "build": "npm run build --workspace @useless-speed/app",
+    "start": "npm run start --workspace @useless-speed/app",
+    "test": "npm run test --workspace @useless-speed/app"
+  }
+}

@@ -1,0 +1,1925 @@
+{
+  "query": ".syn",
+  "total": 101,
+  "documents": [
+    {
+      "id": 5876090,
+      "title": "00000442.sbn(1).sbn",
+      "description": null,
+      "count": 35,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876090",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000442.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5876955,
+      "title": "00000089.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 35,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876955",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000089.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5874989,
+      "title": "00000045.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5874989",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000045.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875140,
+      "title": "00000442.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875140",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000442.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875157,
+      "title": "00000476.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875157",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000476.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875254,
+      "title": "00000877.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875254",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000877.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875101,
+      "title": "00000316.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875101",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000316.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875248,
+      "title": "00000866.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875248",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000866.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5877097,
+      "title": "00000465.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5877097",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000465.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5874983,
+      "title": "00000034.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5874983",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000034.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875084,
+      "title": "00000282.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875084",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000282.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875090,
+      "title": "00000293.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875090",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000293.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875146,
+      "title": "00000453.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875146",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000453.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875151,
+      "title": "00000465.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875151",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000465.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5877103,
+      "title": "00000476.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5877103",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000476.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5877200,
+      "title": "00000877.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5877200",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000877.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5875009,
+      "title": "00000089.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875009",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000089.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875015,
+      "title": "00000100.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875015",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000100.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875020,
+      "title": "00000119.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875020",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000119.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875079,
+      "title": "00000263.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875079",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000263.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875026,
+      "title": "00000130.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875026",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000130.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875073,
+      "title": "00000252.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875073",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000252.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875095,
+      "title": "00000305.sbn(1).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875095",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000305.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5877194,
+      "title": "00000866.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 34,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5877194",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000866.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5875933,
+      "title": "00000034.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875933",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000034.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875976,
+      "title": "00000130.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875976",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000130.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5876107,
+      "title": "00000476.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876107",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000476.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5876972,
+      "title": "00000130.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876972",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000130.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5877047,
+      "title": "00000316.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5877047",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000316.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5877086,
+      "title": "00000442.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5877086",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000442.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5875970,
+      "title": "00000119.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875970",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000119.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5876023,
+      "title": "00000252.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876023",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000252.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5876040,
+      "title": "00000293.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876040",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000293.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5876045,
+      "title": "00000305.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876045",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000305.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5876051,
+      "title": "00000316.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876051",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000316.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5876096,
+      "title": "00000453.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876096",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000453.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5876101,
+      "title": "00000465.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876101",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000465.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5876966,
+      "title": "00000119.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876966",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000119.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5877019,
+      "title": "00000252.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5877019",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000252.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5877092,
+      "title": "00000453.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5877092",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000453.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5875939,
+      "title": "00000045.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875939",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000045.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5875965,
+      "title": "00000100.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875965",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000100.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5876198,
+      "title": "00000866.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876198",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000866.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5876935,
+      "title": "00000045.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876935",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000045.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5876961,
+      "title": "00000100.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876961",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000100.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5877041,
+      "title": "00000305.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5877041",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000305.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5875959,
+      "title": "00000089.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5875959",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000089.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5877025,
+      "title": "00000263.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5877025",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000263.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5877030,
+      "title": "00000282.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5877030",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000282.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5876029,
+      "title": "00000263.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876029",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000263.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5876034,
+      "title": "00000282.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876034",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000282.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5876204,
+      "title": "00000877.sbn(1).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876204",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000877.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 5876929,
+      "title": "00000034.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5876929",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000034.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 5877036,
+      "title": "00000293.sbn(1).sbn(2).sbn",
+      "description": null,
+      "count": 33,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/04/2020",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/5877036",
+      "file_extension": "sbn",
+      "pretty_id": "20-1011",
+      "request_path": "/requests/20-1011",
+      "highlights": {
+        "title": "<em>00000293.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 13901185,
+      "title": "2767J_NODE_BUF.sbn",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/07/2022",
+      "doc_date": null,
+      "folder_name": "Project",
+      "redacted_at": null,
+      "document_path": "/documents/13901185",
+      "file_extension": "sbn",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>2767J_NODE_BUF.sbn</em>"
+      }
+    },
+    {
+      "id": 39030443,
+      "title": "steiner.duboce.sanchez10-redacted.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/16/2024",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": "10/16/2024",
+      "document_path": "/documents/39030443",
+      "file_extension": "pdf",
+      "pretty_id": "24-6146",
+      "request_path": "/requests/24-6146",
+      "highlights": {
+        "title": "<em>steiner.duboce.sanchez10-redacted.pdf</em>"
+      }
+    },
+    {
+      "id": 39030446,
+      "title": "steiner.duboce.sanchez11-redacted.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/16/2024",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": "10/16/2024",
+      "document_path": "/documents/39030446",
+      "file_extension": "pdf",
+      "pretty_id": "24-6146",
+      "request_path": "/requests/24-6146",
+      "highlights": {
+        "title": "<em>steiner.duboce.sanchez11-redacted.pdf</em>"
+      }
+    },
+    {
+      "id": 13901371,
+      "title": "2767J_EXTENTS.sbn",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/07/2022",
+      "doc_date": null,
+      "folder_name": "Project",
+      "redacted_at": null,
+      "document_path": "/documents/13901371",
+      "file_extension": "sbn",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>2767J_EXTENTS.sbn</em>"
+      }
+    },
+    {
+      "id": 39029107,
+      "title": "steiner.duboce.sanchez9.pdf",
+      "description": "",
+      "count": 5,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/16/2024",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/39029107",
+      "file_extension": "pdf",
+      "pretty_id": "24-6146",
+      "request_path": "/requests/24-6146",
+      "highlights": {
+        "title": "<em>steiner.duboce.sanchez9.pdf</em>"
+      }
+    },
+    {
+      "id": 39029112,
+      "title": "steiner.duboce.sanchez4.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/16/2024",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/39029112",
+      "file_extension": "pdf",
+      "pretty_id": "24-6146",
+      "request_path": "/requests/24-6146",
+      "highlights": {
+        "title": "<em>steiner.duboce.sanchez4.pdf</em>"
+      }
+    },
+    {
+      "id": 39029108,
+      "title": "steiner.duboce.sanchez8.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/16/2024",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/39029108",
+      "file_extension": "pdf",
+      "pretty_id": "24-6146",
+      "request_path": "/requests/24-6146",
+      "highlights": {
+        "title": "<em>steiner.duboce.sanchez8.pdf</em>"
+      }
+    },
+    {
+      "id": 39029110,
+      "title": "steiner.duboce.sanchez6.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/16/2024",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/39029110",
+      "file_extension": "pdf",
+      "pretty_id": "24-6146",
+      "request_path": "/requests/24-6146",
+      "highlights": {
+        "title": "<em>steiner.duboce.sanchez6.pdf</em>"
+      }
+    },
+    {
+      "id": 39030445,
+      "title": "steiner.duboce.sanchez13-redacted.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/16/2024",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": "10/16/2024",
+      "document_path": "/documents/39030445",
+      "file_extension": "pdf",
+      "pretty_id": "24-6146",
+      "request_path": "/requests/24-6146",
+      "highlights": {
+        "title": "<em>steiner.duboce.sanchez13-redacted.pdf</em>"
+      }
+    },
+    {
+      "id": 39030447,
+      "title": "steiner.duboce.sanchez1-redacted.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/16/2024",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": "10/16/2024",
+      "document_path": "/documents/39030447",
+      "file_extension": "pdf",
+      "pretty_id": "24-6146",
+      "request_path": "/requests/24-6146",
+      "highlights": {
+        "title": "<em>steiner.duboce.sanchez1-redacted.pdf</em>"
+      }
+    },
+    {
+      "id": 44384761,
+      "title": "41st Ave_Lincoln.syn",
+      "description": "",
+      "count": 5,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2025",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/44384761",
+      "file_extension": "syn",
+      "pretty_id": "25-2143",
+      "request_path": "/requests/25-2143",
+      "highlights": {
+        "title": "<em>41st Ave_Lincoln.syn</em>"
+      }
+    },
+    {
+      "id": 39030442,
+      "title": "steiner.duboce.sanchez7-redacted.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/16/2024",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": "10/16/2024",
+      "document_path": "/documents/39030442",
+      "file_extension": "pdf",
+      "pretty_id": "24-6146",
+      "request_path": "/requests/24-6146",
+      "highlights": {
+        "title": "<em>steiner.duboce.sanchez7-redacted.pdf</em>"
+      }
+    },
+    {
+      "id": 39030448,
+      "title": "steiner.duboce.sanchez12-redacted.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/16/2024",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": "10/16/2024",
+      "document_path": "/documents/39030448",
+      "file_extension": "pdf",
+      "pretty_id": "24-6146",
+      "request_path": "/requests/24-6146",
+      "highlights": {
+        "title": "<em>steiner.duboce.sanchez12-redacted.pdf</em>"
+      }
+    },
+    {
+      "id": 39029111,
+      "title": "steiner.duboce.sanchez5.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/16/2024",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/39029111",
+      "file_extension": "pdf",
+      "pretty_id": "24-6146",
+      "request_path": "/requests/24-6146",
+      "highlights": {
+        "title": "<em>steiner.duboce.sanchez5.pdf</em>"
+      }
+    },
+    {
+      "id": 39030437,
+      "title": "steiner.duboce.sanchez3-redacted.pdf",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/16/2024",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": "10/16/2024",
+      "document_path": "/documents/39030437",
+      "file_extension": "pdf",
+      "pretty_id": "24-6146",
+      "request_path": "/requests/24-6146",
+      "highlights": {
+        "title": "<em>steiner.duboce.sanchez3-redacted.pdf</em>"
+      }
+    },
+    {
+      "id": 39030444,
+      "title": "steiner.duboce.sanchez2-redacted.pdf",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/16/2024",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": "10/16/2024",
+      "document_path": "/documents/39030444",
+      "file_extension": "pdf",
+      "pretty_id": "24-6146",
+      "request_path": "/requests/24-6146",
+      "highlights": {
+        "title": "<em>steiner.duboce.sanchez2-redacted.pdf</em>"
+      }
+    },
+    {
+      "id": 13606542,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13606542",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn</em>"
+      }
+    },
+    {
+      "id": 13621239,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn(12).sbn(13).sbn(14).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13621239",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn(12).sbn(13).sbn(14).sbn</em>"
+      }
+    },
+    {
+      "id": 12610976,
+      "title": "1048I_NEW_PIPES.sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/05/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/12610976",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn</em>"
+      }
+    },
+    {
+      "id": 62403658,
+      "title": "Burton Parcel Boundaries.sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/23/2026",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/62403658",
+      "file_extension": "sbn",
+      "pretty_id": "26-2321",
+      "request_path": "/requests/26-2321",
+      "highlights": {
+        "title": "<em>Burton Parcel Boundaries.sbn</em>"
+      }
+    },
+    {
+      "id": 13620677,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13620677",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn</em>"
+      }
+    },
+    {
+      "id": 13620696,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn(12).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13620696",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn(12).sbn</em>"
+      }
+    },
+    {
+      "id": 13620990,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn(12).sbn(13).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13620990",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn(12).sbn(13).sbn</em>"
+      }
+    },
+    {
+      "id": 13614302,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13614302",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn</em>"
+      }
+    },
+    {
+      "id": 13614446,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13614446",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn</em>"
+      }
+    },
+    {
+      "id": 12611009,
+      "title": "SunsetParksideCNN.sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/05/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/12611009",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>SunsetParksideCNN.sbn</em>"
+      }
+    },
+    {
+      "id": 12942244,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/19/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/12942244",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn</em>"
+      }
+    },
+    {
+      "id": 12585476,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/04/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/12585476",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn</em>"
+      }
+    },
+    {
+      "id": 13621327,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn(12).sbn(13).sbn(14).sbn(15).sbn(16).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13621327",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn(12).sbn(13).sbn(14).sbn(15).sbn(16).sbn</em>"
+      }
+    },
+    {
+      "id": 13621467,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn(12).sbn(13).sbn(14).sbn(15).sbn(16).sbn(17).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13621467",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn(12).sbn(13).sbn(14).sbn(15).sbn(16).sbn(17).sbn</em>"
+      }
+    },
+    {
+      "id": 13628925,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn(12).sbn(13).sbn(14).sbn(15).sbn(16).sbn(17).sbn(18).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/17/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13628925",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn(12).sbn(13).sbn(14).sbn(15).sbn(16).sbn(17).sbn(18).sbn</em>"
+      }
+    },
+    {
+      "id": 12585361,
+      "title": "1048I_NEW_PIPES.sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/04/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/12585361",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn</em>"
+      }
+    },
+    {
+      "id": 13608821,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13608821",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn</em>"
+      }
+    },
+    {
+      "id": 13607132,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13607132",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn</em>"
+      }
+    },
+    {
+      "id": 13621317,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn(12).sbn(13).sbn(14).sbn(15).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13621317",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn(8).sbn(9).sbn(10).sbn(11).sbn(12).sbn(13).sbn(14).sbn(15).sbn</em>"
+      }
+    },
+    {
+      "id": 13607731,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13607731",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn(4).sbn(5).sbn(6).sbn(7).sbn</em>"
+      }
+    },
+    {
+      "id": 12942224,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/19/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/12942224",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn(2).sbn(3).sbn</em>"
+      }
+    },
+    {
+      "id": 12585411,
+      "title": "1048I_NEW_PIPES.sbn(1).sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/04/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/12585411",
+      "file_extension": "sbn",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1048I_NEW_PIPES.sbn(1).sbn</em>"
+      }
+    },
+    {
+      "id": 62403668,
+      "title": "Burton Street Parcels.sbn",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/23/2026",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/62403668",
+      "file_extension": "sbn",
+      "pretty_id": "26-2321",
+      "request_path": "/requests/26-2321",
+      "highlights": {
+        "title": "<em>Burton Street Parcels.sbn</em>"
+      }
+    },
+    {
+      "id": 13620944,
+      "title": "SB1.SanFrancisco.xlsx(1).xlsx(2).xlsx(3).xlsx",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13620944",
+      "file_extension": "xlsx",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>SB1.SanFrancisco.xlsx(1).xlsx(2).xlsx(3).xlsx</em>"
+      }
+    },
+    {
+      "id": 13182304,
+      "title": "SB1.SanFrancisco.xlsx",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/27/2022",
+      "doc_date": null,
+      "folder_name": "Recd (122)-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/13182304",
+      "file_extension": "xlsx",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>SB1.SanFrancisco.xlsx</em>"
+      }
+    },
+    {
+      "id": 13618906,
+      "title": "SB1.SanFrancisco.xlsx",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": "Recd (122).msg(1)-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/13618906",
+      "file_extension": "xlsx",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>SB1.SanFrancisco.xlsx</em>"
+      }
+    },
+    {
+      "id": 13607096,
+      "title": "SB1.SanFrancisco.xlsx(1).xlsx(2).xlsx",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13607096",
+      "file_extension": "xlsx",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>SB1.SanFrancisco.xlsx(1).xlsx(2).xlsx</em>"
+      }
+    },
+    {
+      "id": 12204194,
+      "title": "1_SB1.SanFrancisco.xlsx",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/15/2022",
+      "doc_date": null,
+      "folder_name": "Sunset-Parkside-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/12204194",
+      "file_extension": "xlsx",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>1_SB1.SanFrancisco.xlsx</em>"
+      }
+    },
+    {
+      "id": 12596447,
+      "title": "SB1.SanFrancisco.xlsx",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/04/2022",
+      "doc_date": null,
+      "folder_name": "Project emails",
+      "redacted_at": null,
+      "document_path": "/documents/12596447",
+      "file_extension": "xlsx",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>SB1.SanFrancisco.xlsx</em>"
+      }
+    },
+    {
+      "id": 13607719,
+      "title": "SB1.SanFrancisco.xlsx(1).xlsx(2).xlsx",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13607719",
+      "file_extension": "xlsx",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>SB1.SanFrancisco.xlsx(1).xlsx(2).xlsx</em>"
+      }
+    },
+    {
+      "id": 13605884,
+      "title": "SB1.SanFrancisco.xlsx(1).xlsx",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/16/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/13605884",
+      "file_extension": "xlsx",
+      "pretty_id": "22-1475",
+      "request_path": "/requests/22-1475",
+      "highlights": {
+        "title": "<em>SB1.SanFrancisco.xlsx(1).xlsx</em>"
+      }
+    }
+  ]
+}

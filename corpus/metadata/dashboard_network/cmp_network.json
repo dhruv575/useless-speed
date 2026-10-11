@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://api.sfcta.org/api/cmp_segments_master?select=geometry,cmp_segid,cmp_name,cmp_from,cmp_to,direction,length",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.sfcta.org/api/cmp_autotransit?select=cmp_segid,year,period,los_hcm85,transit_speed,transit_cv,atspd_ratio,auto_speed,auto_bi",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.sfcta.org/api/cmp_autotransit_xd?select=cmp_segid,year,period,los_hcm85,transit_speed,transit_cv,atspd_ratio,auto_speed,auto_bi",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.sfcta.org/api/cmp_aggregate?select=fac_typ,period,year,viz,metric",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.sfcta.org/api/cmp_aggregate_xd?select=fac_typ,period,year,viz,metric",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.sfcta.org/api/cmp_autotransit?select=year",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.sfcta.org/api/cmp_autotransit_xd?select=year",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8"
+  }
+]

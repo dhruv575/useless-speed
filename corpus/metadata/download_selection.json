@@ -1,0 +1,4360 @@
+[
+  {
+    "id": 44384766,
+    "title": "41st Ave_Lincoln.SIM",
+    "description": "",
+    "count": 5,
+    "state": "public",
+    "demo": false,
+    "created_at": "03/31/2025",
+    "doc_date": null,
+    "folder_name": "",
+    "redacted_at": null,
+    "document_path": "/documents/44384766",
+    "file_extension": "sim",
+    "pretty_id": "25-2143",
+    "request_path": "/requests/25-2143",
+    "highlights": {
+      "title": "<em>41st Ave_Lincoln.SIM</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384766",
+    "search_terms": [
+      ".sim"
+    ],
+    "request_id": 3459269,
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384766,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "41st Ave_Lincoln.SIM",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "sim",
+      "visibility": "public",
+      "document_path": "/documents/44384766",
+      "upload_date": "2025-03-31T12:10:03.000-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/689435ee-e36d-47b5-884d-7b82d36f4b11.SIM",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "category": "traffic_model",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 44384761,
+    "title": "41st Ave_Lincoln.syn",
+    "description": "",
+    "count": 5,
+    "state": "public",
+    "demo": false,
+    "created_at": "03/31/2025",
+    "doc_date": null,
+    "folder_name": "",
+    "redacted_at": null,
+    "document_path": "/documents/44384761",
+    "file_extension": "syn",
+    "pretty_id": "25-2143",
+    "request_path": "/requests/25-2143",
+    "highlights": {
+      "title": "<em>41st Ave_Lincoln.syn</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384761",
+    "search_terms": [
+      ".syn"
+    ],
+    "request_id": 3459269,
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384761,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "41st Ave_Lincoln.syn",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "syn",
+      "visibility": "public",
+      "document_path": "/documents/44384761",
+      "upload_date": "2025-03-31T12:10:03.000-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/e90b34ce-0984-4f17-a29d-1bd92c460fee.syn",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "category": "traffic_model",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15932728,
+    "title": "Sloat_Winston Signal_CT(2).dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/25/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15932728",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_CT(2).dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15932728",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 14973168,
+    "title": "19th Ave Signals 65% Layout_3_21_16.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "08/15/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/14973168",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>19th Ave Signals 65% Layout_3_21_16.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/14973168",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 14973169,
+    "title": "2652J TRAFFIC SIGNALS (Caltrans)  65%_2_24_16.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "08/15/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/14973169",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>2652J TRAFFIC SIGNALS (Caltrans)  65%_2_24_16.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/14973169",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 14409178,
+    "title": "SF-1 Phase III Signal Upgrade_0J700 CEQA CE.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "07/13/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/14409178",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>SF-1 Phase III Signal Upgrade_0J700 CEQA CE.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/14409178",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_project_report",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 14409265,
+    "title": "SF-1 Phase III Signal Upgrade_0J700 CEQA CE.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "07/13/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/14409265",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>SF-1 Phase III Signal Upgrade_0J700 CEQA CE.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/14409265",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_project_report",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 14409633,
+    "title": "19thAve_Caltrans_SignalPhaseI_AsBuilts_2007.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "07/13/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/14409633",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>19thAve_Caltrans_SignalPhaseI_AsBuilts_2007.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/14409633",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 14410071,
+    "title": "SF-1 Phase III Signal Upgrade_0J700_PSR-PR_Approved 062915.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "07/13/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/14410071",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>SF-1 Phase III Signal Upgrade_0J700_PSR-PR_Approved 062915.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/14410071",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_project_report",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15217357,
+    "title": "2652J-19th Ave Signals.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/07/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15217357",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>2652J-19th Ave Signals.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15217357",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15273677,
+    "title": "AGI Signals_City Standard.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/12/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15273677",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>AGI Signals_City Standard.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15273677",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15402093,
+    "title": "Moraga Signal_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15402093",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15402093",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15402100,
+    "title": "Wawona Signal_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15402100",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15402100",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15403921,
+    "title": "Moraga Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15403921",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15403921",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15406345,
+    "title": "Wawona Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406345",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406345",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15406354,
+    "title": "Moraga Signal_CT.1.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406354",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_CT.1.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406354",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15406949,
+    "title": "Signals_City Standard_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406949",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Signals_City Standard_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406949",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15406950,
+    "title": "Sloat_Winston Signal_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406950",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406950",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15406951,
+    "title": "Wawona Signal_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406951",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406951",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15631850,
+    "title": "Moraga Signal.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/07/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15631850",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15631850",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15631853,
+    "title": "Wawona Signal.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/07/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15631853",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15631853",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15630639,
+    "title": "2767J_SIGNAL.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/07/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15630639",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>2767J_SIGNAL.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15630639",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15413129,
+    "title": "Signals_City Standard_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15413129",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Signals_City Standard_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15413129",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15413132,
+    "title": "Wawona Signal_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15413132",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15413132",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15413532,
+    "title": "Signals_City Standard_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15413532",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Signals_City Standard_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15413532",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15414024,
+    "title": "19th Ave Signals 75%_Rev2.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414024",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>19th Ave Signals 75%_Rev2.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414024",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15414029,
+    "title": "Sloat_Winston Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414029",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414029",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15414039,
+    "title": "Moraga Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414039",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414039",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15414046,
+    "title": "Sloat_Winston Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414046",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414046",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15414051,
+    "title": "Moraga Signal_CT.1.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414051",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_CT.1.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414051",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15414054,
+    "title": "Wawona Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414054",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414054",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 13901000,
+    "title": "2767J_SIGNAL.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "06/07/2022",
+    "doc_date": null,
+    "folder_name": "Project",
+    "redacted_at": null,
+    "document_path": "/documents/13901000",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>2767J_SIGNAL.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/13901000",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 13901834,
+    "title": "2767J_SIGNAL.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "06/07/2022",
+    "doc_date": null,
+    "folder_name": "Project",
+    "redacted_at": null,
+    "document_path": "/documents/13901834",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>2767J_SIGNAL.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/13901834",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 44384730,
+    "title": "RE_ DIGISIG 842_ 41st Ave_Lincoln Temp Signal JH.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "03/31/2025",
+    "doc_date": null,
+    "folder_name": "",
+    "redacted_at": null,
+    "document_path": "/documents/44384730",
+    "file_extension": "pdf",
+    "pretty_id": "25-2143",
+    "request_path": "/requests/25-2143",
+    "highlights": {
+      "title": "<em>RE_ DIGISIG 842_ 41st Ave_Lincoln Temp Signal JH.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384730",
+    "search_terms": [
+      "signal"
+    ],
+    "request_id": 3459269,
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384730,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "RE_ DIGISIG 842_ 41st Ave_Lincoln Temp Signal JH.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384730",
+      "upload_date": "2025-03-31T12:09:37.532-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/459e9192-e3a3-4071-b313-e4e1a098530e.pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "category": "timing_correspondence",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 14504269,
+    "title": "04-0J700_PSR-PR SF-1 Phase III Signal Upgrade.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "07/21/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/14504269",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>04-0J700_PSR-PR SF-1 Phase III Signal Upgrade.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/14504269",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_project_report",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15402099,
+    "title": "Sloat_Winston Signal_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15402099",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15402099",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15403923,
+    "title": "Signals_City Standard_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15403923",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Signals_City Standard_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15403923",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15403926,
+    "title": "Wawona Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15403926",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15403926",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15406327,
+    "title": "19th Ave Signals 75%_Rev2.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406327",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>19th Ave Signals 75%_Rev2.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406327",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15406331,
+    "title": "Moraga Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406331",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406331",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15406332,
+    "title": "Sloat_Winston Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406332",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406332",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15406350,
+    "title": "Wawona Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406350",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406350",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15406356,
+    "title": "Sloat_Winston Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406356",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406356",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 13901213,
+    "title": "2767J_SIGNAL.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "06/07/2022",
+    "doc_date": null,
+    "folder_name": "Project",
+    "redacted_at": null,
+    "document_path": "/documents/13901213",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>2767J_SIGNAL.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/13901213",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 13901857,
+    "title": "superseded-2767J_SIGNAL(2018-09-19).dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "06/07/2022",
+    "doc_date": null,
+    "folder_name": "Project",
+    "redacted_at": null,
+    "document_path": "/documents/13901857",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>superseded-2767J_SIGNAL(2018-09-19).dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/13901857",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15631681,
+    "title": "Wawona Signal.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/07/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15631681",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15631681",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15413131,
+    "title": "Sloat_Winston Signal_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15413131",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15413131",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15414042,
+    "title": "Wawona Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414042",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414042",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15414053,
+    "title": "Sloat_Winston Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414053",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414053",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15217405,
+    "title": "19th Ave Signals 65% Layout.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/07/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15217405",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>19th Ave Signals 65% Layout.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15217405",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15153058,
+    "title": "30% Signal Design.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "08/31/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15153058",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>30% Signal Design.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15153058",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15413531,
+    "title": "Signals_City Standard.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15413531",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Signals_City Standard.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15413531",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15413534,
+    "title": "Sloat_Winston Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15413534",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15413534",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15414030,
+    "title": "Wawona Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414030",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414030",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15414036,
+    "title": "Moraga Signal_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414036",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414036",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15414047,
+    "title": "Wawona Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414047",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414047",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15414644,
+    "title": "30% Signal Design.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414644",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>30% Signal Design.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414644",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15414647,
+    "title": "Wawona Signal_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414647",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414647",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15631679,
+    "title": "Sloat_Winston Signal.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/07/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15631679",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15631679",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15930699,
+    "title": "Moraga Signal_CT(1).dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/25/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15930699",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_CT(1).dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15930699",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15932390,
+    "title": "Moraga Signal_65%(2).dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/25/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15932390",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_65%(2).dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15932390",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15932729,
+    "title": "Wawona Signal_CT(2).dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/25/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15932729",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_CT(2).dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15932729",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 16283036,
+    "title": "4th_Bryant%20Signal%20Drawing%20ET-103-105.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "11/14/2022",
+    "doc_date": null,
+    "folder_name": "RE  Caltrans comments on 19th Ave electricalL-extracted",
+    "redacted_at": null,
+    "document_path": "/documents/16283036",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>4th_Bryant%20Signal%20Drawing%20ET-103-105.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/16283036",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 14230405,
+    "title": "19th Ave signal phase III letter to Caltrans final signed.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "07/05/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/14230405",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>19th Ave signal phase III letter to Caltrans final signed.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/14230405",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_project_report",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15402097,
+    "title": "Signals_City Standard_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15402097",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Signals_City Standard_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15402097",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15273680,
+    "title": "Exsting Signals_City Standard - Standard.zip",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/12/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15273680",
+    "file_extension": "zip",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Exsting Signals_City Standard - Standard.zip</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15273680",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15403995,
+    "title": "4th_Bryant%20Signal%20Drawing%20ET-103-105.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15403995",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>4th_Bryant%20Signal%20Drawing%20ET-103-105.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15403995",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15406342,
+    "title": "Moraga Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406342",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406342",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15406344,
+    "title": "Sloat_Winston Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406344",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406344",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15406349,
+    "title": "Sloat_Winston Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406349",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406349",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15631851,
+    "title": "Sloat_Winston Signal.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/07/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15631851",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15631851",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15930457,
+    "title": "Wawona Signal_65%(1).dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/25/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15930457",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_65%(1).dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15930457",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15930593,
+    "title": "Sloat_Winston Signal_65%(2).dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/25/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15930593",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_65%(2).dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15930593",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15930689,
+    "title": "Wawona Signal_65%(2).dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/25/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15930689",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_65%(2).dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15930689",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15930700,
+    "title": "Sloat_Winston Signal_CT(1).dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/25/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15930700",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_CT(1).dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15930700",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15931826,
+    "title": "Moraga Signal_65%(1).dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/25/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15931826",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_65%(1).dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15931826",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15932727,
+    "title": "Moraga Signal_CT(2).dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/25/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15932727",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_CT(2).dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15932727",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15217406,
+    "title": "2015 10 14 30% Signal Design.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/07/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15217406",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>2015 10 14 30% Signal Design.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15217406",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15273682,
+    "title": "Exsting Signals_City Standard.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/12/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15273682",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Exsting Signals_City Standard.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15273682",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15273705,
+    "title": "Signals_City Standard_EDIT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/12/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15273705",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Signals_City Standard_EDIT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15273705",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15413125,
+    "title": "Moraga Signal_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15413125",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15413125",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15413535,
+    "title": "Wawona Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15413535",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15413535",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15413604,
+    "title": "4th_Bryant%20Signal%20Drawing%20ET-103-105.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15413604",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>4th_Bryant%20Signal%20Drawing%20ET-103-105.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15413604",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15414041,
+    "title": "Sloat_Winston Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414041",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414041",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15414044,
+    "title": "Moraga Signal_CT.1.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414044",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_CT.1.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414044",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15414645,
+    "title": "Signals_City Standard_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414645",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Signals_City Standard_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414645",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15403922,
+    "title": "Signals_City Standard.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15403922",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Signals_City Standard.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15403922",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15403925,
+    "title": "Sloat_Winston Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15403925",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15403925",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15406333,
+    "title": "Wawona Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406333",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406333",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15406347,
+    "title": "Moraga Signal_CT.1.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406347",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_CT.1.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406347",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15406357,
+    "title": "Wawona Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406357",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406357",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 14409948,
+    "title": "SF-1 Phase III Signal Upgrade_0J700 CEQA CE.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "07/13/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/14409948",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>SF-1 Phase III Signal Upgrade_0J700 CEQA CE.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/14409948",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_project_report",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15153269,
+    "title": "Traffic Signal.zip",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "08/31/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15153269",
+    "file_extension": "zip",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Traffic Signal.zip</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15153269",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15273678,
+    "title": "Exsting Signals_City Standard.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/12/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15273678",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Exsting Signals_City Standard.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15273678",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15413530,
+    "title": "Moraga Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15413530",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15413530",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15414028,
+    "title": "Moraga Signal_CT.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414028",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_CT.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414028",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15414646,
+    "title": "Sloat_Winston Signal_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15414646",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15414646",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15406339,
+    "title": "Moraga Signal_65%.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406339",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal_65%.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406339",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15406948,
+    "title": "30% Signal Design.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/23/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15406948",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>30% Signal Design.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15406948",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 14409632,
+    "title": "19thAve_Caltrans_SignalPhaseII_AsBuilts_2008.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "07/13/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/14409632",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>19thAve_Caltrans_SignalPhaseII_AsBuilts_2008.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/14409632",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15631678,
+    "title": "Moraga Signal.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/07/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15631678",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Moraga Signal.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15631678",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 15930336,
+    "title": "Sloat_Winston Signal_65%(1).dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/25/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15930336",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Sloat_Winston Signal_65%(1).dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15930336",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 15930701,
+    "title": "Wawona Signal_CT(1).dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "10/25/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/15930701",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>Wawona Signal_CT(1).dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/15930701",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 13901858,
+    "title": "superseded-2767J_SIGNAL.dwg",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "06/07/2022",
+    "doc_date": null,
+    "folder_name": "Project",
+    "redacted_at": null,
+    "document_path": "/documents/13901858",
+    "file_extension": "dwg",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>superseded-2767J_SIGNAL.dwg</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/13901858",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 44384724,
+    "title": "Re_ 41st Ave_Lincoln Way Signal Activation WO 25-09312 & SRC 2024-0379.pdf",
+    "description": "",
+    "count": 3,
+    "state": "public",
+    "demo": false,
+    "created_at": "03/31/2025",
+    "doc_date": null,
+    "folder_name": "",
+    "redacted_at": null,
+    "document_path": "/documents/44384724",
+    "file_extension": "pdf",
+    "pretty_id": "25-2143",
+    "request_path": "/requests/25-2143",
+    "highlights": {
+      "title": "<em>Re_ 41st Ave_Lincoln Way Signal Activation WO 25-09312 & SRC 2024-0379.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384724",
+    "search_terms": [
+      "signal"
+    ],
+    "request_id": 3459269,
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384724,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "Re_ 41st Ave_Lincoln Way Signal Activation WO 25-09312 & SRC 2024-0379.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384724",
+      "upload_date": "2025-03-31T12:09:37.532-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/939ab90d-c93f-4b5d-9225-b7deeadee64b.pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "category": "timing_correspondence",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 44384785,
+    "title": "ARF lincoln_way_traffic_signals.2024.12.17.pdf",
+    "description": "",
+    "count": 3,
+    "state": "public",
+    "demo": false,
+    "created_at": "03/31/2025",
+    "doc_date": null,
+    "folder_name": "",
+    "redacted_at": null,
+    "document_path": "/documents/44384785",
+    "file_extension": "pdf",
+    "pretty_id": "25-2143",
+    "request_path": "/requests/25-2143",
+    "highlights": {
+      "title": "<em>ARF lincoln_way_traffic_signals.2024.12.17.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384785",
+    "search_terms": [
+      "signal"
+    ],
+    "request_id": 3459269,
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384785,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "ARF lincoln_way_traffic_signals.2024.12.17.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384785",
+      "upload_date": "2025-03-31T12:10:03.000-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/38ee4606-ca3e-4a15-b496-eb7db78c85ab.pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "category": "signal_project_report",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 44384722,
+    "title": "RE_ 41st Ave_Lincoln New Signal Interim SID.pdf",
+    "description": "",
+    "count": 3,
+    "state": "public",
+    "demo": false,
+    "created_at": "03/31/2025",
+    "doc_date": null,
+    "folder_name": "",
+    "redacted_at": null,
+    "document_path": "/documents/44384722",
+    "file_extension": "pdf",
+    "pretty_id": "25-2143",
+    "request_path": "/requests/25-2143",
+    "highlights": {
+      "title": "<em>RE_ 41st Ave_Lincoln New Signal Interim SID.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384722",
+    "search_terms": [
+      "signal"
+    ],
+    "request_id": 3459269,
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384722,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "RE_ 41st Ave_Lincoln New Signal Interim SID.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384722",
+      "upload_date": "2025-03-31T12:09:37.532-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/090c5f2b-398d-4f6c-9540-37f2f656adcc.pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 44384745,
+    "title": "RE_ SRC 2024-379 41st Ave_Lincoln Temporary Traffic Signal.pdf",
+    "description": "",
+    "count": 3,
+    "state": "public",
+    "demo": false,
+    "created_at": "03/31/2025",
+    "doc_date": null,
+    "folder_name": "",
+    "redacted_at": null,
+    "document_path": "/documents/44384745",
+    "file_extension": "pdf",
+    "pretty_id": "25-2143",
+    "request_path": "/requests/25-2143",
+    "highlights": {
+      "title": "<em>RE_ SRC 2024-379 41st Ave_Lincoln Temporary Traffic Signal.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384745",
+    "search_terms": [
+      "signal"
+    ],
+    "request_id": 3459269,
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384745,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "RE_ SRC 2024-379 41st Ave_Lincoln Temporary Traffic Signal.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384745",
+      "upload_date": "2025-03-31T12:09:37.532-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/58cd5eab-70d8-4a8e-a349-b4d59d4c3c34.pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "category": "timing_correspondence",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 44384784,
+    "title": "22-006_131-907145_New_Traffic_Signal_Contract_66 - SGA for Design Phase.pdf",
+    "description": "",
+    "count": 3,
+    "state": "public",
+    "demo": false,
+    "created_at": "03/31/2025",
+    "doc_date": null,
+    "folder_name": "",
+    "redacted_at": null,
+    "document_path": "/documents/44384784",
+    "file_extension": "pdf",
+    "pretty_id": "25-2143",
+    "request_path": "/requests/25-2143",
+    "highlights": {
+      "title": "<em>22-006_131-907145_New_Traffic_Signal_Contract_66 - SGA for Design Phase.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384784",
+    "search_terms": [
+      "signal"
+    ],
+    "request_id": 3459269,
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384784,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "22-006_131-907145_New_Traffic_Signal_Contract_66 - SGA for Design Phase.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384784",
+      "upload_date": "2025-03-31T12:10:03.000-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/7f8e51ef-ffc9-4e84-b9fb-8700f87390eb.pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 69745448,
+    "title": "1251I_Traffic Signal Addendum Progress Set 20220601_JS 11082023.pdf",
+    "description": "",
+    "count": 0,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/01/2026",
+    "doc_date": null,
+    "folder_name": "2",
+    "redacted_at": null,
+    "document_path": "/documents/69745448",
+    "file_extension": "pdf",
+    "pretty_id": "26-8122",
+    "request_path": "/requests/26-8122",
+    "highlights": {
+      "title": "<em>1251I_Traffic Signal Addendum Progress Set 20220601_JS 11082023.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/69745448",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 37470080,
+    "title": "2_SFMTA Lincoln Way Signals ARF - As submitted 20240726.pdf",
+    "description": "",
+    "count": 0,
+    "state": "public",
+    "demo": false,
+    "created_at": "08/27/2024",
+    "doc_date": null,
+    "folder_name": "Ticket16567-extracted",
+    "redacted_at": null,
+    "document_path": "/documents/37470080",
+    "file_extension": "pdf",
+    "pretty_id": "24-4421",
+    "request_path": "/requests/24-4421",
+    "highlights": {
+      "title": "<em>2_SFMTA Lincoln Way Signals ARF - As submitted 20240726.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/37470080",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_project_report",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 51223871,
+    "title": "SFMTA Lincoln Way Signals ARF - As submitted 20240726.pdf",
+    "description": "",
+    "count": 0,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/15/2025",
+    "doc_date": null,
+    "folder_name": "Fwd_ CON Ballot Costing - Great Highway - SFCTA-extracted",
+    "redacted_at": null,
+    "document_path": "/documents/51223871",
+    "file_extension": "pdf",
+    "pretty_id": "25-6940",
+    "request_path": "/requests/25-6940",
+    "highlights": {
+      "title": "<em>SFMTA Lincoln Way Signals ARF - As submitted 20240726.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/51223871",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_project_report",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 51251353,
+    "title": "SFMTA Lincoln Way Signals ARF - As submitted 20240726.pdf",
+    "description": "",
+    "count": 0,
+    "state": "public",
+    "demo": false,
+    "created_at": "09/15/2025",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/51251353",
+    "file_extension": "pdf",
+    "pretty_id": "25-6940",
+    "request_path": "/requests/25-6940",
+    "highlights": {
+      "title": "<em>SFMTA Lincoln Way Signals ARF - As submitted 20240726.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/51251353",
+    "search_terms": [
+      "signal"
+    ],
+    "category": "signal_project_report",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 16282596,
+    "title": "19th Ave_Sloat_Existing Timing.pdf",
+    "description": "",
+    "count": 5,
+    "state": "public",
+    "demo": false,
+    "created_at": "11/14/2022",
+    "doc_date": null,
+    "folder_name": "19th Sloat modifications-extracted",
+    "redacted_at": null,
+    "document_path": "/documents/16282596",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>19th Ave_Sloat_Existing Timing.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/16282596",
+    "search_terms": [
+      "timing"
+    ],
+    "category": "timing_card",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 16282597,
+    "title": "19th Ave_Sloat_Proposed Timing.pdf",
+    "description": "",
+    "count": 5,
+    "state": "public",
+    "demo": false,
+    "created_at": "11/14/2022",
+    "doc_date": null,
+    "folder_name": "19th Sloat modifications-extracted",
+    "redacted_at": null,
+    "document_path": "/documents/16282597",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>19th Ave_Sloat_Proposed Timing.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/16282597",
+    "search_terms": [
+      "timing"
+    ],
+    "category": "timing_card",
+    "proposed_or_draft_in_title": true
+  },
+  {
+    "id": 44384735,
+    "title": "RE_ DIGISIG 887_ SRC 2025-062_41st Ave_Lincoln_Timing Ch 1_JH.pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "03/31/2025",
+    "doc_date": null,
+    "folder_name": "",
+    "redacted_at": null,
+    "document_path": "/documents/44384735",
+    "file_extension": "pdf",
+    "pretty_id": "25-2143",
+    "request_path": "/requests/25-2143",
+    "highlights": {
+      "title": "<em>RE_ DIGISIG 887_ SRC 2025-062_41st Ave_Lincoln_Timing Ch 1_JH.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384735",
+    "search_terms": [
+      "timing"
+    ],
+    "request_id": 3459269,
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384735,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "RE_ DIGISIG 887_ SRC 2025-062_41st Ave_Lincoln_Timing Ch 1_JH.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384735",
+      "upload_date": "2025-03-31T12:09:37.532-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/dc666cc7-7fc0-4db8-b578-8c3fa73fdc96.pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "category": "timing_correspondence",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 44384738,
+    "title": "RE_ new timing card for 41 Lincoln.pdf",
+    "description": "",
+    "count": 7,
+    "state": "public",
+    "demo": false,
+    "created_at": "03/31/2025",
+    "doc_date": null,
+    "folder_name": "",
+    "redacted_at": null,
+    "document_path": "/documents/44384738",
+    "file_extension": "pdf",
+    "pretty_id": "25-2143",
+    "request_path": "/requests/25-2143",
+    "highlights": {
+      "title": "<em>RE_ new timing card for 41 Lincoln.pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384738",
+    "search_terms": [
+      "timing"
+    ],
+    "request_id": 3459269,
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384738,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "RE_ new timing card for 41 Lincoln.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384738",
+      "upload_date": "2025-03-31T12:09:37.532-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/5a724497-9d96-459a-bc93-d06933c11349.pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "category": "timing_correspondence",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 44384743,
+    "title": "RE_ Request to check out Timing Cards & SIDs - 41st Ave_Lincoln Way (Beacon).pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "03/31/2025",
+    "doc_date": null,
+    "folder_name": "",
+    "redacted_at": null,
+    "document_path": "/documents/44384743",
+    "file_extension": "pdf",
+    "pretty_id": "25-2143",
+    "request_path": "/requests/25-2143",
+    "highlights": {
+      "title": "<em>RE_ Request to check out Timing Cards & SIDs - 41st Ave_Lincoln Way (Beacon).pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384743",
+    "search_terms": [
+      "timing"
+    ],
+    "request_id": 3459269,
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384743,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "RE_ Request to check out Timing Cards & SIDs - 41st Ave_Lincoln Way (Beacon).pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384743",
+      "upload_date": "2025-03-31T12:09:37.532-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/133c6dfc-07d1-443e-8676-0d5f359a042d.pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "category": "timing_correspondence",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 16282961,
+    "title": "2652J KJ CHS Traffic Count 09162015 .pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "11/14/2022",
+    "doc_date": null,
+    "folder_name": "FW  2652J - 19th ave Combined city project - Cost share for Traffic Management Plan 11 102015-extracted(1)",
+    "redacted_at": null,
+    "document_path": "/documents/16282961",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>2652J KJ CHS Traffic Count 09162015 .pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/16282961",
+    "search_terms": [
+      "traffic counts"
+    ],
+    "category": "traffic_study_or_counts",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 16282905,
+    "title": "2652J KJ CHS Traffic Count 09162015 .pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "11/14/2022",
+    "doc_date": null,
+    "folder_name": "FW  2652J - 19th ave Combined city project - Cost share for Traffic Management Plan 11 102015-extracted",
+    "redacted_at": null,
+    "document_path": "/documents/16282905",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>2652J KJ CHS Traffic Count 09162015 .pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/16282905",
+    "search_terms": [
+      "traffic counts"
+    ],
+    "category": "traffic_study_or_counts",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 14229691,
+    "title": "2652J KJ CHS Traffic Count 09162015 .pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "07/05/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/14229691",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>2652J KJ CHS Traffic Count 09162015 .pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/14229691",
+    "search_terms": [
+      "traffic counts"
+    ],
+    "category": "traffic_study_or_counts",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 16284338,
+    "title": "2652J KJ CHS Traffic Count 09162015 .pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "11/14/2022",
+    "doc_date": null,
+    "folder_name": "2652J - PUC funding request - cost share for TMP and Manhole survey  02 29 2016-extracted",
+    "redacted_at": null,
+    "document_path": "/documents/16284338",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>2652J KJ CHS Traffic Count 09162015 .pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/16284338",
+    "search_terms": [
+      "traffic counts"
+    ],
+    "category": "traffic_study_or_counts",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 14229983,
+    "title": "2652J KJ CHS Traffic Count 09162015 .pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "07/05/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/14229983",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>2652J KJ CHS Traffic Count 09162015 .pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/14229983",
+    "search_terms": [
+      "traffic counts"
+    ],
+    "category": "traffic_study_or_counts",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 16283232,
+    "title": "2652J KJ CHS Traffic Count 09162015 .pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "11/14/2022",
+    "doc_date": null,
+    "folder_name": "FW 2652J - 19th ave Combined city project - Cost share for Traffic Management Plan 11102015-extracted",
+    "redacted_at": null,
+    "document_path": "/documents/16283232",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>2652J KJ CHS Traffic Count 09162015 .pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/16283232",
+    "search_terms": [
+      "traffic counts"
+    ],
+    "category": "traffic_study_or_counts",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 14463169,
+    "title": "2652J KJ CHS Traffic count 09162015 .pdf",
+    "description": "",
+    "count": 4,
+    "state": "public",
+    "demo": false,
+    "created_at": "07/18/2022",
+    "doc_date": null,
+    "folder_name": null,
+    "redacted_at": null,
+    "document_path": "/documents/14463169",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>2652J KJ CHS Traffic count 09162015 .pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/14463169",
+    "search_terms": [
+      "traffic counts"
+    ],
+    "category": "traffic_study_or_counts",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "id": 18212494,
+    "title": "2652J KJ CHS Traffic Count 09162015 .pdf",
+    "description": "",
+    "count": 3,
+    "state": "public",
+    "demo": false,
+    "created_at": "02/27/2023",
+    "doc_date": null,
+    "folder_name": "FW_ 2652J - 19th ave Combined city project - Cost share for Traffic Management Plan 11_102015-extracted",
+    "redacted_at": null,
+    "document_path": "/documents/18212494",
+    "file_extension": "pdf",
+    "pretty_id": "22-3290",
+    "request_path": "/requests/22-3290",
+    "highlights": {
+      "title": "<em>2652J KJ CHS Traffic Count 09162015 .pdf</em>"
+    },
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/18212494",
+    "search_terms": [
+      "traffic counts"
+    ],
+    "category": "traffic_study_or_counts",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3459269,
+    "id": 44384673,
+    "title": "41st Ave_Chain of Lake_Lincoln_Ch_1.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384673,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "41st Ave_Chain of Lake_Lincoln_Ch_1.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384673",
+      "upload_date": "2025-03-31T12:09:08.166-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/6d69b2a6-cbb6-4fca-8b51-c5a2947a4fad.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-2143",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384673",
+    "search_terms": [],
+    "category": "timing_card",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3459269,
+    "id": 44384675,
+    "title": "41st Ave_Chain of Lakes_Lincoln_2025-02-19_SID [defunct].dwg",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384675,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "41st Ave_Chain of Lakes_Lincoln_2025-02-19_SID [defunct].dwg",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "dwg",
+      "visibility": "public",
+      "document_path": "/documents/44384675",
+      "upload_date": "2025-03-31T12:09:08.166-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/e308ceb4-deb3-4103-820c-a255b6458530.dwg",
+    "file_extension": "dwg",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-2143",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384675",
+    "search_terms": [],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3459269,
+    "id": 44384676,
+    "title": "41st Ave_Chain of Lakes_Lincoln_2025-02-19_SID [defunct].pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384676,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "41st Ave_Chain of Lakes_Lincoln_2025-02-19_SID [defunct].pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384676",
+      "upload_date": "2025-03-31T12:09:08.166-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/fc53999b-0b7e-466b-ae58-4e8fe96051ea.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-2143",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384676",
+    "search_terms": [],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3459269,
+    "id": 44384678,
+    "title": "41st Ave_Chain of Lakes_Lincoln_Ch 0.xlsx",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384678,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "41st Ave_Chain of Lakes_Lincoln_Ch 0.xlsx",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "xlsx",
+      "visibility": "public",
+      "document_path": "/documents/44384678",
+      "upload_date": "2025-03-31T12:09:08.166-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/4bf2c370-67ac-4432-9956-d52435645920.xlsx",
+    "file_extension": "xlsx",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-2143",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384678",
+    "search_terms": [],
+    "category": "timing_card",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3459269,
+    "id": 44384680,
+    "title": "41st Ave_Chain of Lakes_Lincoln_Ch_1_see JHornbostel 2025-02-20.xlsx",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384680,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "41st Ave_Chain of Lakes_Lincoln_Ch_1_see JHornbostel 2025-02-20.xlsx",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "xlsx",
+      "visibility": "public",
+      "document_path": "/documents/44384680",
+      "upload_date": "2025-03-31T12:09:08.166-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/0602fb6d-deb6-4e5d-9274-5ba4fda89223.xlsx",
+    "file_extension": "xlsx",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-2143",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384680",
+    "search_terms": [],
+    "category": "timing_card",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3459269,
+    "id": 44384681,
+    "title": "41st Ave_Chain of Lakes_Lincoln_Ch 1.xlsx",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384681,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "41st Ave_Chain of Lakes_Lincoln_Ch 1.xlsx",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "xlsx",
+      "visibility": "public",
+      "document_path": "/documents/44384681",
+      "upload_date": "2025-03-31T12:09:08.166-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/4d4fbf38-c5c3-4bcf-bb42-25b20b237315.xlsx",
+    "file_extension": "xlsx",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-2143",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384681",
+    "search_terms": [],
+    "category": "timing_card",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3459269,
+    "id": 44384704,
+    "title": "Completed SRC 2025-062.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384704,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "Completed SRC 2025-062.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384704",
+      "upload_date": "2025-03-31T12:09:08.166-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/862f6f7c-0d2e-49d5-a094-19846c1b302a.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-2143",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384704",
+    "search_terms": [],
+    "category": "timing_correspondence",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3459269,
+    "id": 44384709,
+    "title": "FW_ SRC 2025-062.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384709,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "FW_ SRC 2025-062.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384709",
+      "upload_date": "2025-03-31T12:09:08.166-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/34d3350a-9ff4-4c14-b31b-9c33ba312aad.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-2143",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384709",
+    "search_terms": [],
+    "category": "timing_correspondence",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3459269,
+    "id": 44384731,
+    "title": "RE_ DIGISIG 853 41st Ave & Lincoln Paint-Signs-Curb WO.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384731,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "RE_ DIGISIG 853 41st Ave & Lincoln Paint-Signs-Curb WO.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384731",
+      "upload_date": "2025-03-31T12:09:37.532-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/89fdbdf5-58c0-43fc-b3e0-add42876bfff.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-2143",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384731",
+    "search_terms": [],
+    "category": "timing_correspondence",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3459269,
+    "id": 44384762,
+    "title": "01_41st_Lincoln_AM_Thurs_2021-05-20.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384762,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "01_41st_Lincoln_AM_Thurs_2021-05-20.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384762",
+      "upload_date": "2025-03-31T12:10:03.000-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/c96c0bdd-7109-4db5-8697-a3aff0f25efc.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-2143",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384762",
+    "search_terms": [],
+    "category": "traffic_study_or_counts",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3459269,
+    "id": 44384763,
+    "title": "01_41st_Lincoln_PM_Sat_2021-05-22.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384763,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "01_41st_Lincoln_PM_Sat_2021-05-22.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384763",
+      "upload_date": "2025-03-31T12:10:03.000-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/8980cb72-b9fa-4a66-8ce5-07b2633bea23.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-2143",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384763",
+    "search_terms": [],
+    "category": "traffic_study_or_counts",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3459269,
+    "id": 44384764,
+    "title": "01_41st_Lincoln_PM_Thurs_2021-05-20.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384764,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "01_41st_Lincoln_PM_Thurs_2021-05-20.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384764",
+      "upload_date": "2025-03-31T12:10:03.000-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/b3173124-a990-4f24-bc6e-dc1997058c40.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-2143",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384764",
+    "search_terms": [],
+    "category": "traffic_study_or_counts",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3459269,
+    "id": 44384769,
+    "title": "41st Ave_Chain of Lakes_Lincoln_SID.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384769,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "41st Ave_Chain of Lakes_Lincoln_SID.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384769",
+      "upload_date": "2025-03-31T12:10:03.000-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/a1d33523-29a0-42da-b8f9-0ce623443c8f.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-2143",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384769",
+    "search_terms": [],
+    "category": "signal_design",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3459269,
+    "id": 44384771,
+    "title": "41st Ave_Chain of Lakes_Lincoln_Ch 1.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 44384771,
+      "pretty_id": "25-2143",
+      "review_status": null,
+      "title": "41st Ave_Chain of Lakes_Lincoln_Ch 1.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/44384771",
+      "upload_date": "2025-03-31T12:10:03.000-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-2143/c4be22be-42ba-4053-bdf4-956c1a996f0e.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 03/31/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "04/01/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-2143",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/44384771",
+    "search_terms": [],
+    "category": "timing_card",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 2250097,
+    "id": 29592629,
+    "title": "SHT_38_E-14.0.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 29592629,
+      "pretty_id": "24-765",
+      "review_status": null,
+      "title": "SHT_38_E-14.0.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/29592629",
+      "upload_date": "2024-02-06T15:41:32.191-08:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/24-765/818FBFD848ECBF69.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 02/06/2024",
+    "folder_id": 2800341,
+    "subfolder_id": null,
+    "folder_name": "2805J - Oak & Masonic TS",
+    "subfolder_name": "",
+    "expiration_date": "02/07/2027",
+    "exempt_from_retention": false,
+    "pretty_id": "24-765",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/29592629",
+    "search_terms": [],
+    "category": "signal_request_attachment",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 2250097,
+    "id": 29592630,
+    "title": "SHT_39_E-14.1.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 29592630,
+      "pretty_id": "24-765",
+      "review_status": null,
+      "title": "SHT_39_E-14.1.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/29592630",
+      "upload_date": "2024-02-06T15:41:32.191-08:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/24-765/04CA51288A8AAB0B.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 02/06/2024",
+    "folder_id": 2800341,
+    "subfolder_id": null,
+    "folder_name": "2805J - Oak & Masonic TS",
+    "subfolder_name": "",
+    "expiration_date": "02/07/2027",
+    "exempt_from_retention": false,
+    "pretty_id": "24-765",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/29592630",
+    "search_terms": [],
+    "category": "signal_request_attachment",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 2250097,
+    "id": 29600057,
+    "title": "2855J - D-3.0 - 5th & Howard - 5th & Mission.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 29600057,
+      "pretty_id": "24-765",
+      "review_status": null,
+      "title": "2855J - D-3.0 - 5th & Howard - 5th & Mission.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/29600057",
+      "upload_date": "2024-02-07T10:37:15.408-08:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/24-765/8A39E93CED15400D.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 02/07/2024",
+    "folder_id": 2800731,
+    "subfolder_id": null,
+    "folder_name": "2855J - Howard & 5th",
+    "subfolder_name": "",
+    "expiration_date": "02/07/2027",
+    "exempt_from_retention": false,
+    "pretty_id": "24-765",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/29600057",
+    "search_terms": [],
+    "category": "signal_request_attachment",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3367078,
+    "id": 43475465,
+    "title": "Daily Work Report_3rd St & 25th St_09-27-2023 t0 09-27-2024.xlsx",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 43475465,
+      "pretty_id": "25-1486",
+      "review_status": null,
+      "title": "Daily Work Report_3rd St & 25th St_09-27-2023 t0 09-27-2024.xlsx",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "xlsx",
+      "visibility": "public",
+      "document_path": "/documents/43475465",
+      "upload_date": "2025-02-28T11:57:24.782-08:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-1486/d6bf738a-058c-4fe9-84ff-03b95f9de047.xlsx",
+    "file_extension": "xlsx",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 02/28/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "02/28/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-1486",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/43475465",
+    "search_terms": [],
+    "category": "signal_request_attachment",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3367078,
+    "id": 43475466,
+    "title": "3rd & 25th_09-27-23 to 09-27-24.xlsx",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 43475466,
+      "pretty_id": "25-1486",
+      "review_status": null,
+      "title": "3rd & 25th_09-27-23 to 09-27-24.xlsx",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "xlsx",
+      "visibility": "public",
+      "document_path": "/documents/43475466",
+      "upload_date": "2025-02-28T11:57:24.782-08:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-1486/edad4210-d395-4313-9078-05d843371029.xlsx",
+    "file_extension": "xlsx",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 02/28/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "02/28/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-1486",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/43475466",
+    "search_terms": [],
+    "category": "signal_request_attachment",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3367078,
+    "id": 43475467,
+    "title": "3rd & 25th_09-27-2023 to 09-27-2024.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 43475467,
+      "pretty_id": "25-1486",
+      "review_status": null,
+      "title": "3rd & 25th_09-27-2023 to 09-27-2024.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/43475467",
+      "upload_date": "2025-02-28T11:57:24.782-08:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-1486/f4f7e580-25cd-4c4b-b9af-93c49265e5ac.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 02/28/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "02/28/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-1486",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/43475467",
+    "search_terms": [],
+    "category": "signal_request_attachment",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 3367078,
+    "id": 43475468,
+    "title": "3rd St_25th St_Ch_32.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 43475468,
+      "pretty_id": "25-1486",
+      "review_status": null,
+      "title": "3rd St_25th St_Ch_32.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/43475468",
+      "upload_date": "2025-02-28T11:57:24.782-08:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/25-1486/b5237b79-43c0-424c-a567-f7a1ef9451b6.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 02/28/2025",
+    "folder_id": null,
+    "subfolder_id": null,
+    "folder_name": "",
+    "subfolder_name": "",
+    "expiration_date": "02/28/2028",
+    "exempt_from_retention": false,
+    "pretty_id": "25-1486",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/43475468",
+    "search_terms": [],
+    "category": "signal_request_attachment",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 6229505,
+    "id": 71521650,
+    "title": "Order204139-redacted.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 71521650,
+      "pretty_id": "26-9464",
+      "review_status": null,
+      "title": "Order204139-redacted.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/71521650",
+      "upload_date": "2026-10-02T11:28:18.948-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/26-9464/5cb80ec6-9187-429e-9245-fac846b6a0da",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 10/02/2026",
+    "redacted_date": "Redacted: 10/02/2026",
+    "folder_id": 91537,
+    "subfolder_id": null,
+    "folder_name": "Item 1",
+    "subfolder_name": "",
+    "exempt_from_retention": false,
+    "pretty_id": "26-9464",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/71521650",
+    "search_terms": [],
+    "category": "signal_request_attachment",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 6229505,
+    "id": 71521651,
+    "title": "Order205155-redacted.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 71521651,
+      "pretty_id": "26-9464",
+      "review_status": null,
+      "title": "Order205155-redacted.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/71521651",
+      "upload_date": "2026-10-02T11:28:18.971-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/26-9464/7446bade-d604-4aeb-b2d0-9168932eb140",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 10/02/2026",
+    "redacted_date": "Redacted: 10/02/2026",
+    "folder_id": 91537,
+    "subfolder_id": null,
+    "folder_name": "Item 1",
+    "subfolder_name": "",
+    "exempt_from_retention": false,
+    "pretty_id": "26-9464",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/71521651",
+    "search_terms": [],
+    "category": "signal_request_attachment",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 6229505,
+    "id": 71541517,
+    "title": "Attachment 1- Commission Response Page St Neighborway 2022-12-16.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 71541517,
+      "pretty_id": "26-9464",
+      "review_status": null,
+      "title": "Attachment 1- Commission Response Page St Neighborway 2022-12-16.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/71541517",
+      "upload_date": "2026-10-02T13:35:02.607-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/26-9464/5e0517e8-0c6e-4446-ae6c-ca6991be9343.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 10/02/2026",
+    "folder_id": 30968596,
+    "subfolder_id": null,
+    "folder_name": "FW_ Page Street Neigbhorway commissioner questions-extracted",
+    "subfolder_name": "",
+    "exempt_from_retention": false,
+    "pretty_id": "26-9464",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/71541517",
+    "search_terms": [],
+    "category": "signal_request_attachment",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 6229505,
+    "id": 71630034,
+    "title": "WW-753 (1228I) Hayes Valley Conformed Spec.PDF",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 71630034,
+      "pretty_id": "26-9464",
+      "review_status": null,
+      "title": "WW-753 (1228I) Hayes Valley Conformed Spec.PDF",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/71630034",
+      "upload_date": "2026-10-05T17:22:00.808-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/26-9464/9E943F838544B4B9.PDF",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 10/05/2026",
+    "folder_id": 31034945,
+    "subfolder_id": null,
+    "folder_name": "1228I",
+    "subfolder_name": "",
+    "exempt_from_retention": false,
+    "pretty_id": "26-9464",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/71630034",
+    "search_terms": [],
+    "category": "signal_request_attachment",
+    "proposed_or_draft_in_title": false
+  },
+  {
+    "request_id": 6229505,
+    "id": 71630035,
+    "title": "WW-753 (1228I) Hayes Valley Plans.pdf",
+    "review_state": "Ready",
+    "link": false,
+    "document_scan": {
+      "id": null,
+      "document_id": 71630035,
+      "pretty_id": "26-9464",
+      "review_status": null,
+      "title": "WW-753 (1228I) Hayes Valley Plans.pdf",
+      "severity": null,
+      "findings": null,
+      "file_size": null,
+      "file_type": "pdf",
+      "visibility": "public",
+      "document_path": "/documents/71630035",
+      "upload_date": "2026-10-05T17:22:00.808-07:00"
+    },
+    "asset_url": "//nextrequestdev.s3.amazonaws.com/sanfrancisco/26-9464/E5CBE8761C23F500.pdf",
+    "file_extension": "pdf",
+    "visibility": "Public",
+    "upload_date": "Uploaded: 10/05/2026",
+    "folder_id": 31034945,
+    "subfolder_id": null,
+    "folder_name": "1228I",
+    "subfolder_name": "",
+    "exempt_from_retention": false,
+    "pretty_id": "26-9464",
+    "source_url": "https://sanfrancisco.nextrequest.com/documents/71630035",
+    "search_terms": [],
+    "category": "signal_request_attachment",
+    "proposed_or_draft_in_title": false
+  }
+]

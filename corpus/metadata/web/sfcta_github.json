@@ -1,0 +1,974 @@
+{
+  "url": "https://github.com/sfcta",
+  "text": "Skip to content\nNavigation Menu\nPlatform\nSolutions\nResources\nOpen Source\nEnterprise\nPricing\nSign in\nSign up\nSan Francisco County Transportation Authority\n 17 followers\n San Francisco, CA\n https://www.sfcta.org\nOverview\nRepositories\n84\nProjects\n1\nPackages\nPeople\n6\nPopular repositories\nLoading\nCycleTracks\nPublic\n\nCycleTracks for iPhone\n\n Objective-C  33  41\n\nandroidtracks\nPublic\n\nAndroid Tracks\n\n Java  30  69\n\nBikeRouter\nPublic\n\nA bike route choice model\n\n Python  20  6\n\ntncstoday\nPublic\n\nTool for visualizing the estimate of number of TNC (Uber and Lyft) pickups and dropoffs in San Francisco—by location and by time of day.\n\n JavaScript  18  8\n\nprospector\nPublic\n\nSFCTA Prospector: Data Warehouse and Visualization Platform\n\n JavaScript  17  13\n\nCountDracula\nPublic\n\nTraffic Counts Database\n\n Python  11  3\n\n Repositories\nLoading\nType \nLanguage \nSort \nShowing 10 of 84 repositories\ndata-geotab Public\n Jupyter Notebook  0  0  0  0 Updated \ntravel_diary_survey_scripts Public\n Jupyter Notebook  1 MIT  4  4  0 Updated \nreport-tncs2020-simwrapper Public\n HTML  0  0  0  0 Updated \nchamp-postprocess Public\n\nScripts for CHAMP validation\n\n Jupyter Notebook  0  0  0  0 Updated \ncmp_scripts Public\n\nData preparation scripts for Congestion Management Program (CMP)\n\n Jupyter Notebook  2 Apache-2.0  4  11 (3 issues need help)  0 Updated \nepc-map-2021 Public\n\nArchive of epc map version 2021\n\n JavaScript  0 Apache-2.0  0  0  0 Updated \nepc-map Public\n\nHost built external website for Equity Priority Communities\n\n JavaScript  0 Apache-2.0  4  7  0 Updated \ntdm_evaluation_tool Public\n Python  0  0  0  0 Updated \nbats_survey_utils Public\n\nA library to read and enrich rMove-formatted and Daysim-formatted versions household travel survey data\n\n Python  0  0  0  0 Updated \nav_resource_portal Public\n\nAV Resource Portal - website using Quarto\n\n Python  0 MIT  0  0  0 Updated \nView all repositories\nPeople\nTop languages\n Python  JavaScript  Jupyter Notebook  CSS  HTML\nFooter\n© 2026 GitHub, Inc.\nFooter navigation\nTerms\nPrivacy\nSecurity\nStatus\nCommunity\nDocs\nContact\nManage cookies\nDo not share my personal information",
+  "links": [
+    {
+      "title": "Skip to content",
+      "url": "https://github.com/sfcta#start-of-content"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/"
+    },
+    {
+      "title": "Sign in",
+      "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsfcta"
+    },
+    {
+      "title": "sfcta",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/features/copilot"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/features/ai/github-app"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/mcp"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/features/actions"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/features/codespaces"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/features/issues"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/features/code-review"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/features/code-quality"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/security/advanced-security"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/security/advanced-security/code-security"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/security/advanced-security/secret-protection"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/why-github"
+    },
+    {
+      "title": "",
+      "url": "https://docs.github.com/"
+    },
+    {
+      "title": "",
+      "url": "https://github.blog/"
+    },
+    {
+      "title": "",
+      "url": "https://github.blog/changelog"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/marketplace"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/features"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/enterprise"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/team"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/enterprise/startups"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/solutions/industry/nonprofits"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/solutions/use-case/app-modernization"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/solutions/use-case/devsecops"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/solutions/use-case/devops"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/solutions/use-case/ci-cd"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/solutions/use-case"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/solutions/industry/healthcare"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/solutions/industry/financial-services"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/solutions/industry/manufacturing"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/solutions/industry/government"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/solutions/industry"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/solutions"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/resources/articles?topic=ai"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/resources/articles?topic=software-development"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/resources/articles?topic=devops"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/resources/articles?topic=security"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/resources/articles"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/customer-stories"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/resources/events"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/resources/whitepapers"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/solutions/executive-insights"
+    },
+    {
+      "title": "",
+      "url": "https://skills.github.com/"
+    },
+    {
+      "title": "",
+      "url": "https://docs.github.com/"
+    },
+    {
+      "title": "",
+      "url": "https://support.github.com/"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/orgs/community/discussions"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/trust-center"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/partners"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/resources"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/open-source/sponsors"
+    },
+    {
+      "title": "",
+      "url": "https://securitylab.github.com/"
+    },
+    {
+      "title": "",
+      "url": "https://maintainers.github.com/"
+    },
+    {
+      "title": "",
+      "url": "https://stars.github.com/"
+    },
+    {
+      "title": "",
+      "url": "https://archiveprogram.github.com/"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/topics"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/trending"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/collections"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/enterprise"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/security/advanced-security"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/features/copilot/copilot-business"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/enterprise/premium-support"
+    },
+    {
+      "title": "Pricing",
+      "url": "https://github.com/pricing"
+    },
+    {
+      "title": "Sign in",
+      "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsfcta"
+    },
+    {
+      "title": "Sign up",
+      "url": "https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Corg-login%3E&source=header"
+    },
+    {
+      "title": "Reload",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": "Reload",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": "Reload",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": "17 followers",
+      "url": "https://github.com/orgs/sfcta/followers"
+    },
+    {
+      "title": "https://www.sfcta.org",
+      "url": "https://www.sfcta.org/"
+    },
+    {
+      "title": "Overview",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": "Repositories\n84",
+      "url": "https://github.com/orgs/sfcta/repositories"
+    },
+    {
+      "title": "Projects\n1",
+      "url": "https://github.com/orgs/sfcta/projects"
+    },
+    {
+      "title": "Packages",
+      "url": "https://github.com/orgs/sfcta/packages"
+    },
+    {
+      "title": "People\n6",
+      "url": "https://github.com/orgs/sfcta/people"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/orgs/sfcta/repositories"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/orgs/sfcta/projects"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/orgs/sfcta/packages"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/orgs/sfcta/people"
+    },
+    {
+      "title": "CycleTracks",
+      "url": "https://github.com/sfcta/CycleTracks"
+    },
+    {
+      "title": " 33",
+      "url": "https://github.com/sfcta/CycleTracks/stargazers"
+    },
+    {
+      "title": " 41",
+      "url": "https://github.com/sfcta/CycleTracks/forks"
+    },
+    {
+      "title": "androidtracks",
+      "url": "https://github.com/sfcta/androidtracks"
+    },
+    {
+      "title": " 30",
+      "url": "https://github.com/sfcta/androidtracks/stargazers"
+    },
+    {
+      "title": " 69",
+      "url": "https://github.com/sfcta/androidtracks/forks"
+    },
+    {
+      "title": "BikeRouter",
+      "url": "https://github.com/sfcta/BikeRouter"
+    },
+    {
+      "title": " 20",
+      "url": "https://github.com/sfcta/BikeRouter/stargazers"
+    },
+    {
+      "title": " 6",
+      "url": "https://github.com/sfcta/BikeRouter/forks"
+    },
+    {
+      "title": "tncstoday",
+      "url": "https://github.com/sfcta/tncstoday"
+    },
+    {
+      "title": " 18",
+      "url": "https://github.com/sfcta/tncstoday/stargazers"
+    },
+    {
+      "title": " 8",
+      "url": "https://github.com/sfcta/tncstoday/forks"
+    },
+    {
+      "title": "prospector",
+      "url": "https://github.com/sfcta/prospector"
+    },
+    {
+      "title": " 17",
+      "url": "https://github.com/sfcta/prospector/stargazers"
+    },
+    {
+      "title": " 13",
+      "url": "https://github.com/sfcta/prospector/forks"
+    },
+    {
+      "title": "CountDracula",
+      "url": "https://github.com/sfcta/CountDracula"
+    },
+    {
+      "title": " 11",
+      "url": "https://github.com/sfcta/CountDracula/stargazers"
+    },
+    {
+      "title": " 3",
+      "url": "https://github.com/sfcta/CountDracula/forks"
+    },
+    {
+      "title": "data-geotab",
+      "url": "https://github.com/sfcta/data-geotab"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/sfcta/data-geotab/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/data-geotab/graphs/commit-activity"
+    },
+    {
+      "title": "\n  ",
+      "url": "https://github.com/sfcta/data-geotab/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/data-geotab/graphs/commit-activity"
+    },
+    {
+      "title": "\n      \n\n              Uh oh!\n\n              ",
+      "url": "https://github.com/sfcta/data-geotab/graphs/commit-activity"
+    },
+    {
+      "title": "There was an error while loading. ",
+      "url": "https://github.com/sfcta/data-geotab/graphs/commit-activity"
+    },
+    {
+      "title": "Please reload this page",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/data-geotab/stargazers"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/data-geotab/forks"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/data-geotab/issues"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/data-geotab/pulls"
+    },
+    {
+      "title": "travel_diary_survey_scripts",
+      "url": "https://github.com/sfcta/travel_diary_survey_scripts"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/sfcta/travel_diary_survey_scripts/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/travel_diary_survey_scripts/graphs/commit-activity"
+    },
+    {
+      "title": "\n  ",
+      "url": "https://github.com/sfcta/travel_diary_survey_scripts/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/travel_diary_survey_scripts/graphs/commit-activity"
+    },
+    {
+      "title": "\n      \n\n              Uh oh!\n\n              ",
+      "url": "https://github.com/sfcta/travel_diary_survey_scripts/graphs/commit-activity"
+    },
+    {
+      "title": "There was an error while loading. ",
+      "url": "https://github.com/sfcta/travel_diary_survey_scripts/graphs/commit-activity"
+    },
+    {
+      "title": "Please reload this page",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": " 1",
+      "url": "https://github.com/sfcta/travel_diary_survey_scripts/stargazers"
+    },
+    {
+      "title": " 4",
+      "url": "https://github.com/sfcta/travel_diary_survey_scripts/forks"
+    },
+    {
+      "title": " 4",
+      "url": "https://github.com/sfcta/travel_diary_survey_scripts/issues"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/travel_diary_survey_scripts/pulls"
+    },
+    {
+      "title": "report-tncs2020-simwrapper",
+      "url": "https://github.com/sfcta/report-tncs2020-simwrapper"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/sfcta/report-tncs2020-simwrapper/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/report-tncs2020-simwrapper/graphs/commit-activity"
+    },
+    {
+      "title": "\n  ",
+      "url": "https://github.com/sfcta/report-tncs2020-simwrapper/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/report-tncs2020-simwrapper/graphs/commit-activity"
+    },
+    {
+      "title": "\n      \n\n              Uh oh!\n\n              ",
+      "url": "https://github.com/sfcta/report-tncs2020-simwrapper/graphs/commit-activity"
+    },
+    {
+      "title": "There was an error while loading. ",
+      "url": "https://github.com/sfcta/report-tncs2020-simwrapper/graphs/commit-activity"
+    },
+    {
+      "title": "Please reload this page",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/report-tncs2020-simwrapper/stargazers"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/report-tncs2020-simwrapper/forks"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/report-tncs2020-simwrapper/issues"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/report-tncs2020-simwrapper/pulls"
+    },
+    {
+      "title": "champ-postprocess",
+      "url": "https://github.com/sfcta/champ-postprocess"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/sfcta/champ-postprocess/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/champ-postprocess/graphs/commit-activity"
+    },
+    {
+      "title": "\n  ",
+      "url": "https://github.com/sfcta/champ-postprocess/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/champ-postprocess/graphs/commit-activity"
+    },
+    {
+      "title": "\n      \n\n              Uh oh!\n\n              ",
+      "url": "https://github.com/sfcta/champ-postprocess/graphs/commit-activity"
+    },
+    {
+      "title": "There was an error while loading. ",
+      "url": "https://github.com/sfcta/champ-postprocess/graphs/commit-activity"
+    },
+    {
+      "title": "Please reload this page",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/champ-postprocess/stargazers"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/champ-postprocess/forks"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/champ-postprocess/issues"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/champ-postprocess/pulls"
+    },
+    {
+      "title": "cmp_scripts",
+      "url": "https://github.com/sfcta/cmp_scripts"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/sfcta/cmp_scripts/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/cmp_scripts/graphs/commit-activity"
+    },
+    {
+      "title": "\n  ",
+      "url": "https://github.com/sfcta/cmp_scripts/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/cmp_scripts/graphs/commit-activity"
+    },
+    {
+      "title": "\n      \n\n              Uh oh!\n\n              ",
+      "url": "https://github.com/sfcta/cmp_scripts/graphs/commit-activity"
+    },
+    {
+      "title": "There was an error while loading. ",
+      "url": "https://github.com/sfcta/cmp_scripts/graphs/commit-activity"
+    },
+    {
+      "title": "Please reload this page",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": " 2",
+      "url": "https://github.com/sfcta/cmp_scripts/stargazers"
+    },
+    {
+      "title": " 4",
+      "url": "https://github.com/sfcta/cmp_scripts/forks"
+    },
+    {
+      "title": " 11",
+      "url": "https://github.com/sfcta/cmp_scripts/issues"
+    },
+    {
+      "title": "(3 issues need help)",
+      "url": "https://github.com/sfcta/cmp_scripts/issues?q=label%3A%22good+first+issue%22+is%3Aissue+is%3Aopen"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/cmp_scripts/pulls"
+    },
+    {
+      "title": "epc-map-2021",
+      "url": "https://github.com/sfcta/epc-map-2021"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/sfcta/epc-map-2021/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/epc-map-2021/graphs/commit-activity"
+    },
+    {
+      "title": "\n  ",
+      "url": "https://github.com/sfcta/epc-map-2021/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/epc-map-2021/graphs/commit-activity"
+    },
+    {
+      "title": "\n      \n\n              Uh oh!\n\n              ",
+      "url": "https://github.com/sfcta/epc-map-2021/graphs/commit-activity"
+    },
+    {
+      "title": "There was an error while loading. ",
+      "url": "https://github.com/sfcta/epc-map-2021/graphs/commit-activity"
+    },
+    {
+      "title": "Please reload this page",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/epc-map-2021/stargazers"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/epc-map-2021/forks"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/epc-map-2021/issues"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/epc-map-2021/pulls"
+    },
+    {
+      "title": "epc-map",
+      "url": "https://github.com/sfcta/epc-map"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/sfcta/epc-map/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/epc-map/graphs/commit-activity"
+    },
+    {
+      "title": "\n  ",
+      "url": "https://github.com/sfcta/epc-map/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/epc-map/graphs/commit-activity"
+    },
+    {
+      "title": "\n      \n\n              Uh oh!\n\n              ",
+      "url": "https://github.com/sfcta/epc-map/graphs/commit-activity"
+    },
+    {
+      "title": "There was an error while loading. ",
+      "url": "https://github.com/sfcta/epc-map/graphs/commit-activity"
+    },
+    {
+      "title": "Please reload this page",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/epc-map/stargazers"
+    },
+    {
+      "title": " 4",
+      "url": "https://github.com/sfcta/epc-map/forks"
+    },
+    {
+      "title": " 7",
+      "url": "https://github.com/sfcta/epc-map/issues"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/epc-map/pulls"
+    },
+    {
+      "title": "tdm_evaluation_tool",
+      "url": "https://github.com/sfcta/tdm_evaluation_tool"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/sfcta/tdm_evaluation_tool/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/tdm_evaluation_tool/graphs/commit-activity"
+    },
+    {
+      "title": "\n  ",
+      "url": "https://github.com/sfcta/tdm_evaluation_tool/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/tdm_evaluation_tool/graphs/commit-activity"
+    },
+    {
+      "title": "\n      \n\n              Uh oh!\n\n              ",
+      "url": "https://github.com/sfcta/tdm_evaluation_tool/graphs/commit-activity"
+    },
+    {
+      "title": "There was an error while loading. ",
+      "url": "https://github.com/sfcta/tdm_evaluation_tool/graphs/commit-activity"
+    },
+    {
+      "title": "Please reload this page",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/tdm_evaluation_tool/stargazers"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/tdm_evaluation_tool/forks"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/tdm_evaluation_tool/issues"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/tdm_evaluation_tool/pulls"
+    },
+    {
+      "title": "bats_survey_utils",
+      "url": "https://github.com/sfcta/bats_survey_utils"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/sfcta/bats_survey_utils/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/bats_survey_utils/graphs/commit-activity"
+    },
+    {
+      "title": "\n  ",
+      "url": "https://github.com/sfcta/bats_survey_utils/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/bats_survey_utils/graphs/commit-activity"
+    },
+    {
+      "title": "\n      \n\n              Uh oh!\n\n              ",
+      "url": "https://github.com/sfcta/bats_survey_utils/graphs/commit-activity"
+    },
+    {
+      "title": "There was an error while loading. ",
+      "url": "https://github.com/sfcta/bats_survey_utils/graphs/commit-activity"
+    },
+    {
+      "title": "Please reload this page",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/bats_survey_utils/stargazers"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/bats_survey_utils/forks"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/bats_survey_utils/issues"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/bats_survey_utils/pulls"
+    },
+    {
+      "title": "av_resource_portal",
+      "url": "https://github.com/sfcta/av_resource_portal"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/sfcta/av_resource_portal/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/av_resource_portal/graphs/commit-activity"
+    },
+    {
+      "title": "\n  ",
+      "url": "https://github.com/sfcta/av_resource_portal/graphs/commit-activity"
+    },
+    {
+      "title": "\n    ",
+      "url": "https://github.com/sfcta/av_resource_portal/graphs/commit-activity"
+    },
+    {
+      "title": "\n      \n\n              Uh oh!\n\n              ",
+      "url": "https://github.com/sfcta/av_resource_portal/graphs/commit-activity"
+    },
+    {
+      "title": "There was an error while loading. ",
+      "url": "https://github.com/sfcta/av_resource_portal/graphs/commit-activity"
+    },
+    {
+      "title": "Please reload this page",
+      "url": "https://github.com/sfcta"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/av_resource_portal/stargazers"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/av_resource_portal/forks"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/av_resource_portal/issues"
+    },
+    {
+      "title": " 0",
+      "url": "https://github.com/sfcta/av_resource_portal/pulls"
+    },
+    {
+      "title": "View all repositories",
+      "url": "https://github.com/orgs/sfcta/repositories?type=all"
+    },
+    {
+      "title": "People",
+      "url": "https://github.com/orgs/sfcta/people"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/e-lo"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/lmz"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/sdrewc"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/chunhochow"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/hanaoneill"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/nataliemakhijani"
+    },
+    {
+      "title": " Python",
+      "url": "https://github.com/orgs/sfcta/repositories?language=python&type=all"
+    },
+    {
+      "title": " JavaScript",
+      "url": "https://github.com/orgs/sfcta/repositories?language=javascript&type=all"
+    },
+    {
+      "title": " Jupyter Notebook",
+      "url": "https://github.com/orgs/sfcta/repositories?language=jupyter+notebook&type=all"
+    },
+    {
+      "title": " CSS",
+      "url": "https://github.com/orgs/sfcta/repositories?language=css&type=all"
+    },
+    {
+      "title": " HTML",
+      "url": "https://github.com/orgs/sfcta/repositories?language=html&type=all"
+    },
+    {
+      "title": "",
+      "url": "https://github.com/"
+    },
+    {
+      "title": "Terms",
+      "url": "https://docs.github.com/site-policy/github-terms/github-terms-of-service"
+    },
+    {
+      "title": "Privacy",
+      "url": "https://docs.github.com/site-policy/privacy-policies/github-privacy-statement"
+    },
+    {
+      "title": "Security",
+      "url": "https://github.com/security"
+    },
+    {
+      "title": "Status",
+      "url": "https://www.githubstatus.com/"
+    },
+    {
+      "title": "Community",
+      "url": "https://github.community/"
+    },
+    {
+      "title": "Docs",
+      "url": "https://docs.github.com/"
+    },
+    {
+      "title": "Contact",
+      "url": "https://support.github.com/?tags=dotcom-footer"
+    }
+  ]
+}

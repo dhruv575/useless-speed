@@ -1,0 +1,164 @@
+{
+  "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer",
+  "final_url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer",
+  "status": 200,
+  "text": "ArcGIS REST Services Directory\tLogin | Get Token\nHome > services > Traffic > traffic (FeatureServer)\tAPI Reference\nJSON | SOAP\nTraffic/traffic (FeatureServer)\nView In: ArcGIS JavaScript   ArcGIS Online Map Viewer\n\nService Description: traffic\n\nAll Layers and Tables\n\nHas Versioned Data: false\n\nMaxRecordCount: 10000\n\nSupported Query Formats: JSON\n\nSupports Query Data Elements: true\n\nLayers:\nMTA.clearanceheights (0)\nMTA.commutershuttles_stops (2)\nMTA.CTA_trafficlanes (3)\nMTA.oneway_streets (5)\nMTA.signs (6)\nMTA.signals (7)\nMTA.trafficcalming (8)\nMTA.speedlimits (9)\nMTA.stopsigns (10)\nMTA.vehiclerestrictions (11)\nMTA.taxistands (12)\nMTA.slowstreets (13)\nMTA.sharedspaces (14)\nMTA.temp_street_closures (15)\nMTA.temp_street_closures_intrsctn (16)\nMTA.trafficcalming_pointfeatures (17)\nMTA.slowstreets_pointfeatures (18)\nMTA.continentalcrosswalks (19)\nMTA.trafficcalming_pointfeatures (20)\nDescription: traffic\n\nCopyright Text: tamam\n\nSpatial Reference: 7132  (7132)  LatestVCSWkid(0)\n\n\nInitial Extent:\nXMin: 130827.33259005618\nYMin: 61157.24742218548\nXMax: 192242.74541275128\nYMax: 109913.56494877402\nSpatial Reference: 7132  (7132)  LatestVCSWkid(0)\n\n\nFull Extent:\nXMin: -417379.3761226948\nYMin: 28641.875143046116\nXMax: 206647.4835778225\nYMax: 822184.6885825368\nSpatial Reference: 7132  (7132)  LatestVCSWkid(0)\n\n\nUnits: esriFeet\n\nDocument Info:\nTitle: Untitled.aprx\nAuthor:\nComments: traffic\nSubject: traffic\nCategory:\nKeywords: traffic\nAntialiasingMode: null\nTextAntialiasingMode: null\n\nEnable Z Defaults: false\n\nSupports ApplyEdits With Global Ids: false\n\nSupport True Curves : true\n\nOnly Allow TrueCurve Updates By TrueCurveClients : true\n\nSupports Return Service Edits Option : false\n\nSupports Dynamic Layers: false\n\nChild Resources:   Info   Query Data Elements   Relationships\n\nSupported Operations:   Query   Query Contingent Values   QueryDomains   Extract Changes   Get Estimates\n\n\n",
+  "links": [
+    {
+      "text": "Login",
+      "url": "https://services.sfmta.com/arcgis/rest/login"
+    },
+    {
+      "text": "Get Token",
+      "url": "https://services.sfmta.com/arcgis/tokens/"
+    },
+    {
+      "text": "Home",
+      "url": "https://services.sfmta.com/arcgis/rest/services"
+    },
+    {
+      "text": "services",
+      "url": "https://services.sfmta.com/arcgis/rest/services"
+    },
+    {
+      "text": "Traffic",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic"
+    },
+    {
+      "text": "traffic (FeatureServer)",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer"
+    },
+    {
+      "text": "API Reference",
+      "url": "https://services.sfmta.com/arcgis/help/en/rest/router.html?f=rest/services/Traffic/traffic/FeatureServer"
+    },
+    {
+      "text": "JSON",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer?f=pjson"
+    },
+    {
+      "text": "SOAP",
+      "url": "https://services.sfmta.com/arcgis/services/Traffic/traffic/MapServer/FeatureServer?wsdl"
+    },
+    {
+      "text": "ArcGIS JavaScript",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer?f=jsapi"
+    },
+    {
+      "text": "ArcGIS Online Map Viewer",
+      "url": "https://www.arcgis.com/apps/mapviewer/index.html?url=https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer&source=sd"
+    },
+    {
+      "text": "All Layers and Tables",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/layers"
+    },
+    {
+      "text": "MTA.clearanceheights",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/0"
+    },
+    {
+      "text": "MTA.commutershuttles_stops",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/2"
+    },
+    {
+      "text": "MTA.CTA_trafficlanes",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/3"
+    },
+    {
+      "text": "MTA.oneway_streets",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/5"
+    },
+    {
+      "text": "MTA.signs",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/6"
+    },
+    {
+      "text": "MTA.signals",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/7"
+    },
+    {
+      "text": "MTA.trafficcalming",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/8"
+    },
+    {
+      "text": "MTA.speedlimits",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/9"
+    },
+    {
+      "text": "MTA.stopsigns",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/10"
+    },
+    {
+      "text": "MTA.vehiclerestrictions",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/11"
+    },
+    {
+      "text": "MTA.taxistands",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/12"
+    },
+    {
+      "text": "MTA.slowstreets",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/13"
+    },
+    {
+      "text": "MTA.sharedspaces",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/14"
+    },
+    {
+      "text": "MTA.temp_street_closures",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/15"
+    },
+    {
+      "text": "MTA.temp_street_closures_intrsctn",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/16"
+    },
+    {
+      "text": "MTA.trafficcalming_pointfeatures",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/17"
+    },
+    {
+      "text": "MTA.slowstreets_pointfeatures",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/18"
+    },
+    {
+      "text": "MTA.continentalcrosswalks",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/19"
+    },
+    {
+      "text": "MTA.trafficcalming_pointfeatures",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/20"
+    },
+    {
+      "text": "Info",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/info"
+    },
+    {
+      "text": "Query Data Elements",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/queryDataElements"
+    },
+    {
+      "text": "Relationships",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/relationships"
+    },
+    {
+      "text": "Query",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/query"
+    },
+    {
+      "text": "Query Contingent Values",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/queryContingentValues"
+    },
+    {
+      "text": "QueryDomains",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/queryDomains"
+    },
+    {
+      "text": "Extract Changes",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/extractChanges"
+    },
+    {
+      "text": "Get Estimates",
+      "url": "https://services.sfmta.com/arcgis/rest/services/Traffic/traffic/FeatureServer/getEstimates"
+    }
+  ]
+}

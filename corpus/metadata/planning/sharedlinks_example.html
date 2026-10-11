@@ -1,0 +1,407 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="format-detection" content="telephone=no,date=no"><meta name="viewport" content="width=device-width, initial-scale=1"><title>
+	M-Files Web
+</title><link rel="shortcut icon" type="image/x-icon" href="Icons/Standard/favicon.ico"><link rel="icon" type="image/x-icon" href="Icons/Standard/favicon.ico"><link rel="stylesheet" type="text/css" href="css/theme.css">
+    <script type="text/javascript">
+        !function( name, definition ) {
+            if( typeof module != 'undefined' && module.exports ) module.exports = definition()
+            else if( typeof define == 'function' && define.amd ) define( definition )
+            else this[name] = definition()
+        }( 'bowser', function() {
+            /**
+              * See useragents.js for examples of navigator.userAgent
+              */
+
+            var t = true
+
+            function detect( ua ) {
+
+                function getFirstMatch( regex ) {
+                    var match = ua.match( regex );
+                    return ( match && match.length > 1 && match[1] ) || '';
+                }
+
+                function getSecondMatch( regex ) {
+                    var match = ua.match( regex );
+                    return ( match && match.length > 1 && match[2] ) || '';
+                }
+
+                var iosdevice = getFirstMatch( /(ipod|iphone|ipad)/i ).toLowerCase()
+                  , likeAndroid = /like android/i.test( ua )
+                  , android = !likeAndroid && /android/i.test( ua )
+                  , chromeBook = /CrOS/.test( ua )
+                  , edgeVersion = getFirstMatch( /edge\/(\d+(\.\d+)?)/i )
+                  , versionIdentifier = getFirstMatch( /version\/(\d+(\.\d+)?)/i )
+                  , tablet = /tablet/i.test( ua )
+                  , mobile = !tablet && /[^-]mobi/i.test( ua )
+                  , result
+
+                if( /opera|opr/i.test( ua ) ) {
+                    result = {
+                        name: 'Opera'
+                    , opera: t
+                    , version: versionIdentifier || getFirstMatch( /(?:opera|opr)[\s\/](\d+(\.\d+)?)/i )
+                    }
+                }
+                else if( /yabrowser/i.test( ua ) ) {
+                    result = {
+                        name: 'Yandex Browser'
+                    , yandexbrowser: t
+                    , version: versionIdentifier || getFirstMatch( /(?:yabrowser)[\s\/](\d+(\.\d+)?)/i )
+                    }
+                }
+                else if( /windows phone/i.test( ua ) ) {
+                    result = {
+                        name: 'Windows Phone'
+                    , windowsphone: t
+                    }
+                    if( edgeVersion ) {
+                        result.msedge = t
+                        result.version = edgeVersion
+                    }
+                    else {
+                        result.msie = t
+                        result.version = getFirstMatch( /iemobile\/(\d+(\.\d+)?)/i )
+                    }
+                }
+                else if( /msie|trident/i.test( ua ) ) {
+                    result = {
+                        name: 'Internet Explorer'
+                    , msie: t
+                    , version: getFirstMatch( /(?:msie |rv:)(\d+(\.\d+)?)/i )
+                    }
+                } else if( chromeBook ) {
+                    result = {
+                        name: 'Chrome'
+                    , chromeBook: t
+                    , chrome: t
+                    , version: getFirstMatch( /(?:chrome|crios|crmo)\/(\d+(\.\d+)?)/i )
+                    }
+                } else if( /chrome.+? edge/i.test( ua ) ) {
+                    result = {
+                        name: 'Microsoft Edge'
+                    , msedge: t
+                    , version: edgeVersion
+                    }
+                }
+                else if( /chrome|crios|crmo/i.test( ua ) ) {
+                    result = {
+                        name: 'Chrome'
+                    , chrome: t
+                    , version: getFirstMatch( /(?:chrome|crios|crmo)\/(\d+(\.\d+)?)/i )
+                    }
+                }
+                else if( iosdevice ) {
+                    result = {
+                        name: iosdevice == 'iphone' ? 'iPhone' : iosdevice == 'ipad' ? 'iPad' : 'iPod'
+                    }
+                    // WTF: version is not part of user agent in web apps
+                    if( versionIdentifier ) {
+                        result.version = versionIdentifier
+                    }
+                }
+                else if( /sailfish/i.test( ua ) ) {
+                    result = {
+                        name: 'Sailfish'
+                    , sailfish: t
+                    , version: getFirstMatch( /sailfish\s?browser\/(\d+(\.\d+)?)/i )
+                    }
+                }
+                else if( /seamonkey\//i.test( ua ) ) {
+                    result = {
+                        name: 'SeaMonkey'
+                    , seamonkey: t
+                    , version: getFirstMatch( /seamonkey\/(\d+(\.\d+)?)/i )
+                    }
+                }
+                else if( /firefox|iceweasel/i.test( ua ) ) {
+                    result = {
+                        name: 'Firefox'
+                    , firefox: t
+                    , version: getFirstMatch( /(?:firefox|iceweasel)[ \/](\d+(\.\d+)?)/i )
+                    }
+                    if( /\((mobile|tablet);[^\)]*rv:[\d\.]+\)/i.test( ua ) ) {
+                        result.firefoxos = t
+                    }
+                }
+                else if( /silk/i.test( ua ) ) {
+                    result = {
+                        name: 'Amazon Silk'
+                    , silk: t
+                    , version: getFirstMatch( /silk\/(\d+(\.\d+)?)/i )
+                    }
+                }
+                else if( android ) {
+                    result = {
+                        name: 'Android'
+                    , version: versionIdentifier
+                    }
+                }
+                else if( /phantom/i.test( ua ) ) {
+                    result = {
+                        name: 'PhantomJS'
+                    , phantom: t
+                    , version: getFirstMatch( /phantomjs\/(\d+(\.\d+)?)/i )
+                    }
+                }
+                else if( /blackberry|\bbb\d+/i.test( ua ) || /rim\stablet/i.test( ua ) ) {
+                    result = {
+                        name: 'BlackBerry'
+                    , blackberry: t
+                    , version: versionIdentifier || getFirstMatch( /blackberry[\d]+\/(\d+(\.\d+)?)/i )
+                    }
+                }
+                else if( /(web|hpw)os/i.test( ua ) ) {
+                    result = {
+                        name: 'WebOS'
+                    , webos: t
+                    , version: versionIdentifier || getFirstMatch( /w(?:eb)?osbrowser\/(\d+(\.\d+)?)/i )
+                    };
+                    /touchpad\//i.test( ua ) && ( result.touchpad = t )
+                }
+                else if( /bada/i.test( ua ) ) {
+                    result = {
+                        name: 'Bada'
+                    , bada: t
+                    , version: getFirstMatch( /dolfin\/(\d+(\.\d+)?)/i )
+                    };
+                }
+                else if( /tizen/i.test( ua ) ) {
+                    result = {
+                        name: 'Tizen'
+                    , tizen: t
+                    , version: getFirstMatch( /(?:tizen\s?)?browser\/(\d+(\.\d+)?)/i ) || versionIdentifier
+                    };
+                }
+                else if( /safari/i.test( ua ) ) {
+                    result = {
+                        name: 'Safari'
+                    , safari: t
+                    , version: versionIdentifier
+                    }
+                }
+                else {
+                    result = {
+                        name: getFirstMatch( /^(.*)\/(.*) / ),
+                        version: getSecondMatch( /^(.*)\/(.*) / )
+                    };
+                }
+
+                // set webkit or gecko flag for browsers based on these engines
+                if( !result.msedge && /(apple)?webkit/i.test( ua ) ) {
+                    result.name = result.name || "Webkit"
+                    result.webkit = t
+                    if( !result.version && versionIdentifier ) {
+                        result.version = versionIdentifier
+                    }
+                } else if( !result.opera && /gecko\//i.test( ua ) ) {
+                    result.name = result.name || "Gecko"
+                    result.gecko = t
+                    result.version = result.version || getFirstMatch( /gecko\/(\d+(\.\d+)?)/i )
+                }
+
+                // set OS flags for platforms that have multiple browsers
+                if( !result.msedge && ( android || result.silk ) ) {
+                    result.android = t
+                } else if( iosdevice ) {
+                    result[iosdevice] = t
+                    result.ios = t
+                }
+
+                // OS version extraction
+                var osVersion = '';
+                if( result.windowsphone ) {
+                    osVersion = getFirstMatch( /windows phone (?:os)?\s?(\d+(\.\d+)*)/i );
+                } else if( iosdevice ) {
+                    osVersion = getFirstMatch( /os (\d+([_\s]\d+)*) like mac os x/i );
+                    osVersion = osVersion.replace( /[_\s]/g, '.' );
+                } else if( android ) {
+                    osVersion = getFirstMatch( /android[ \/-](\d+(\.\d+)*)/i );
+                } else if( result.webos ) {
+                    osVersion = getFirstMatch( /(?:web|hpw)os\/(\d+(\.\d+)*)/i );
+                } else if( result.blackberry ) {
+                    osVersion = getFirstMatch( /rim\stablet\sos\s(\d+(\.\d+)*)/i );
+                } else if( result.bada ) {
+                    osVersion = getFirstMatch( /bada\/(\d+(\.\d+)*)/i );
+                } else if( result.tizen ) {
+                    osVersion = getFirstMatch( /tizen[\/\s](\d+(\.\d+)*)/i );
+                }
+                if( osVersion ) {
+                    result.osversion = osVersion;
+                }
+
+                // device type extraction
+                var osMajorVersion = osVersion.split( '.' )[0];
+                if( tablet || iosdevice == 'ipad' || ( android && ( osMajorVersion == 3 || ( osMajorVersion == 4 && !mobile ) ) ) || result.silk ) {
+                    result.tablet = t
+                } else if( mobile || iosdevice == 'iphone' || iosdevice == 'ipod' || android || result.blackberry || result.webos || result.bada ) {
+                    result.mobile = t
+                }
+
+                // Graded Browser Support
+                // http://developer.yahoo.com/yui/articles/gbs
+                if( result.msedge ||
+                    ( result.msie && result.version >= 10 ) ||
+                    ( result.yandexbrowser && result.version >= 15 ) ||
+                    ( result.chrome && result.version >= 20 ) ||
+                    ( result.firefox && result.version >= 20.0 ) ||
+                    ( result.safari && result.version >= 6 ) ||
+                    ( result.opera && result.version >= 10.0 ) ||
+                    ( result.ios && result.osversion && result.osversion.split( "." )[0] >= 6 ) ||
+                    ( result.blackberry && result.version >= 10.1 )
+                    ) {
+                    result.a = t;
+                }
+                else if( ( result.msie && result.version < 10 ) ||
+                    ( result.chrome && result.version < 20 ) ||
+                    ( result.firefox && result.version < 20.0 ) ||
+                    ( result.safari && result.version < 6 ) ||
+                    ( result.opera && result.version < 10.0 ) ||
+                    ( result.ios && result.osversion && result.osversion.split( "." )[0] < 6 )
+                    ) {
+                    result.c = t
+                } else result.x = t
+
+                return result
+            }
+
+            var bowser = detect( typeof navigator !== 'undefined' ? navigator.userAgent : '' )
+
+            bowser.test = function( browserList ) {
+                for( var i = 0; i < browserList.length; ++i ) {
+                    var browserItem = browserList[i];
+                    if( typeof browserItem === 'string' ) {
+                        if( browserItem in bowser ) {
+                            return true;
+                        }
+                    }
+                }
+                return false;
+            }
+
+            /*
+             * Set our detect method to the main bowser object so we can
+             * reuse it to test other user agents.
+             * This is needed to implement future tests.
+             */
+            bowser._detect = detect;
+
+            return bowser
+        } );
+
+    </script>
+    <style type="text/css">
+        html, body, #outermost
+        {
+            height: 100%;
+            width: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        body
+        {
+            text-align: center;
+            font-family: Segoe UI, Verdana, Arial, Helvetica, sans-serif;
+        }
+
+        #outer
+        {
+            /*height: 28em;
+            width: 40em;*/
+            z-index: 10;
+        }
+
+        .valignmid1
+        {
+            position: relative;
+            margin: 0 auto;
+        }
+
+        .valignmid1
+        {
+            display: table;
+            vertical-align: middle;
+        }
+
+        .valignmid2
+        {
+            width: 100%;
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+        .valignmid3
+        {
+            position: relative;
+        }
+
+        p, h2
+        {
+            margin: 1em;
+            padding: 0;
+            text-align: center;
+            text-indent: 0;
+        }
+
+        .lastUpdate
+        {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            z-index: 1000;
+            width: 16em;
+        }
+    </style>
+    <script type="text/javascript">
+        var RESTURI = 'REST/sharedlinks/%7ba4a7dacd-b0dc-4322-bd29-f6f07103c6e0%7d/4079bd87c37808c6cac3a47fc1e59f57fcb3ee04f1398050c188e604c571d132/content';
+        var download = function() {
+            var xhr = new XMLHttpRequest();
+            xhr.open( "GET", "REST/sharedlinks/%7ba4a7dacd-b0dc-4322-bd29-f6f07103c6e0%7d/4079bd87c37808c6cac3a47fc1e59f57fcb3ee04f1398050c188e604c571d132/sharedfileinfo" );
+            xhr.onreadystatechange = function () {
+              var DONE = 4; // readyState 4 means the request is done.
+              var OK = 200; // status 200 is a successful return.
+              if ( xhr.readyState === DONE ) {
+                if ( xhr.status === OK ) {
+
+                    // Hack : for iOS Mobile & tablet file download is not same as other browsers.
+                    if( ( bowser.mobile || bowser.tablet ) && bowser.ios ) {
+                        window.location.href = RESTURI;
+                    } else {
+                        document.getElementById( 'downloadObject' ).src = RESTURI;
+                    }
+                } else {
+                    var msg = "The link is either expired or invalid.";
+                    document.getElementById("divbody").innerHTML = '<p>' + msg+ '</p>';
+                }
+              };
+            };
+            xhr.send( null );
+        };
+    </script>
+</head>
+<body>
+    <div id="outermost" class="valignmid1">
+        <div id="wrapper" class="valignmid2">
+            <div id="outer" class="valignmid1 valignmid3">
+                <div class="valignmid2">
+                    <div class="valignmid3">
+
+                        <img src="Images/MFilesLogoIE6.png" alt="M-Files logo">
+                        <div id="divbody">
+                        
+                            <p>
+                                <img style="vertical-align: middle" src="REST/structure/filetypes/pdf/icon.aspx?size=16" width="16px" height="16px">
+                                Pier 92_App_D_Transportation_Supporting_Info_ADA.pdf
+                            </p>
+                            <button class="share-download-bt" onclick="javascript:download();">Download </button>
+                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <iframe id="downloadObject" src="" style="display: none"></iframe>
+
+
+</body></html>

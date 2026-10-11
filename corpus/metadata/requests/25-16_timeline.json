@@ -1,0 +1,36 @@
+{
+  "total_count": 3,
+  "timeline": [
+    {
+      "timeline_id": 65720918,
+      "timeline_icon_class": "far fa-check-square",
+      "timeline_name": "Request Closed",
+      "timeline_display_text": "<p>We have finished conducting a diligent search and found no&nbsp;documents responsive to your request.</p><p>We are only able to search for and produce records under the control of San Francisco Public Works. Other departments may hold additional records responsive to your request, so we suggest you consider contacting the San Francisco Municipal Transportation Agency (SFMTA), which is available through this portal.</p><p>This concludes your records request.</p>",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "January  2, 2025,  9:25am by Staff",
+      "timeline_is_collapsable": true,
+      "timeline_is_pinned": false
+    },
+    {
+      "timeline_id": 65720598,
+      "timeline_icon_class": "fas fa-university",
+      "timeline_name": "Department Assignment",
+      "timeline_display_text": "Public Works",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "January  2, 2025,  9:22am by the requester",
+      "timeline_is_collapsable": false,
+      "timeline_is_pinned": false
+    },
+    {
+      "timeline_id": 65720596,
+      "timeline_icon_class": "fas fa-folder-open",
+      "timeline_name": "Request Opened",
+      "timeline_display_text": "Request received  via web",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "January  2, 2025,  9:22am by the requester",
+      "timeline_is_collapsable": false,
+      "timeline_is_pinned": false
+    }
+  ],
+  "pinned": []
+}

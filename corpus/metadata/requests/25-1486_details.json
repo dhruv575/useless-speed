@@ -1,0 +1,42 @@
+{
+  "pretty_id": "25-1486",
+  "request_text": "<p>Client: Malik Macklin</p><p>SFMTA Employee: Tach Ngoc La</p><p>SFMTA Vehicle and City Number: 73500397</p><p>Date of Incident: September 27, 2024, approximately 2:33 p.m.</p><p>Location of Incident: 3rd St. and 25th St., San Francisco, CA</p><p></p><p>I request access to inspect/copies of:</p><ul><li>Any and all documents constituting traffic light sequencing records for the intersection of 3rd St. and 25th St., San Francisco, CA, in effect on September 27, 2024;</li><li> Any and all documents which depict signal changes, timing and duration of each light phase for the intersection of 3rd St. and 25th St., San Francisco, CA;</li><li>Any and all documents pertaining to signal phasing or movement diagrams for the intersection on 3rd St. and 25th St., San Francisco, CA on September 27, 2024;</li><li>Any and all documents pertaining to reported malfunctions concerning the traffic lights at the intersection of 3rd St. and 25th St., San Francisco, CA, between September 27, 2023 on September 27, 2024;</li><li> Any and all documents pertaining to detection systems, traffic control center (signal system), master and local controllers, and any signal communications at the intersection of 3rd St. and 25th St., San Francisco, CA, in effect on September 27, 2024;</li><li>Any and all documents pertaining to traffic lights sequencing at the intersection of 25th Street and 3rd St., San Francisco, CA, on September 27, 2024;</li><li>Any and all traffic camera footage for the intersection of 3rd St. and 25th St., San Francisco, CA, on September 27, 2024, between 2:00 pm and 3:00 pm.</li></ul>",
+  "request_state": "Closed",
+  "visibility": "published",
+  "request_visibility": "Published",
+  "request_due_date": null,
+  "request_submit_type": null,
+  "request_date": "February 26, 2025",
+  "anticipated_fulfilled_at": null,
+  "expiration_date": null,
+  "exempt_from_retention": false,
+  "exempt_documents_from_retention": false,
+  "department_names": "San Francisco Municipal Transportation Agency (SFMTA)",
+  "departments": [
+    {
+      "id": 10322,
+      "name": "San Francisco Municipal Transportation Agency (SFMTA)",
+      "poc_id": 444578
+    }
+  ],
+  "request_staff_hours": null,
+  "request_staff_cost": null,
+  "custom_form_version": null,
+  "request_field_values": [],
+  "poc": {
+    "id": 444578,
+    "email_or_name": "Caroline Celaya",
+    "has_tasks": false,
+    "undeliverable_email": false
+  },
+  "is_current_requester": false,
+  "requester": {
+    "id": 1851819,
+    "name_with_email": null,
+    "name": null,
+    "email": null,
+    "phone": null,
+    "company": null,
+    "address": null
+  }
+}

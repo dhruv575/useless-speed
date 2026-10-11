@@ -1,0 +1,42 @@
+{
+  "pretty_id": "24-765",
+  "request_text": "<p><strong><em>I'm requesting the traffic signal drawings &amp; installation plans for the most recent&nbsp;traffic signal modification (current traffic signal layout) at the following locations:</em></strong></p><br><p><strong><em>(1) Oak Street &amp; Masonic Avenue</em></strong></p><br><p><strong><em>(2) Oak Street &amp; Pierce Street</em></strong></p><br><p><strong><em>(3) Howard Street &amp; 5th Street</em></strong></p><br><p><strong><em>All locations are in San Francisco, CA.</em></strong></p><br><p>*Note: The current traffic signal layout at these locations include flashing yellow arrow turn signals. The traffic signal drawings / installation plans must include:</p><br><p>(1) Traffic signal head placement.</p><br><p>(2) Traffic signal face number (ex: signal face #1: red, yellow, green). </p><br><p>(3) Traffic signal phasing diagram. </p><br><p>(4) Flashing yellow arrow signal heads / phases at each location. </p><br><p>I'm requesting only the traffic signal drawings &amp; installation plans for the most recent traffic signal modification at the locations listed above. If possible, please e-mail any documents to jamescalender97@yahoo.com. If there is a fee for receiving e-mailed documents please let me know. Thank you.</p>",
+  "request_state": "Closed",
+  "visibility": "published",
+  "request_visibility": "Published",
+  "request_due_date": null,
+  "request_submit_type": null,
+  "request_date": "February  6, 2024",
+  "anticipated_fulfilled_at": null,
+  "expiration_date": null,
+  "exempt_from_retention": false,
+  "exempt_documents_from_retention": false,
+  "department_names": "Public Works",
+  "departments": [
+    {
+      "id": 74,
+      "name": "Public Works",
+      "poc_id": 27
+    }
+  ],
+  "request_staff_hours": null,
+  "request_staff_cost": null,
+  "custom_form_version": null,
+  "request_field_values": [],
+  "poc": {
+    "id": 27,
+    "email_or_name": "David A. Steinberg ",
+    "has_tasks": false,
+    "undeliverable_email": false
+  },
+  "is_current_requester": false,
+  "requester": {
+    "id": 1289502,
+    "name_with_email": null,
+    "name": null,
+    "email": null,
+    "phone": null,
+    "company": null,
+    "address": null
+  }
+}

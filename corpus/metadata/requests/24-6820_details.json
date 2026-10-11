@@ -1,0 +1,42 @@
+{
+  "pretty_id": "24-6820",
+  "request_text": "<p>Our accident reconstruction company, Kauderer &amp; Associates is investigating a car accident that occurred at the stop light intersection of Golden Gate Avenue and Leavenworth Street on 3/6/19.  We are interested in receiving the signal timing and phasing diagram for that intersection.  We would like the information to include the date of 3/6/2019.  If the timing has changed since then, can we also receive that information as well.</p><p>Thank you.</p>",
+  "request_state": "Closed",
+  "visibility": "published",
+  "request_visibility": "Published",
+  "request_due_date": null,
+  "request_submit_type": null,
+  "request_date": "November 12, 2024",
+  "anticipated_fulfilled_at": null,
+  "expiration_date": null,
+  "exempt_from_retention": false,
+  "exempt_documents_from_retention": false,
+  "department_names": "Public Works",
+  "departments": [
+    {
+      "id": 74,
+      "name": "Public Works",
+      "poc_id": 27
+    }
+  ],
+  "request_staff_hours": null,
+  "request_staff_cost": null,
+  "custom_form_version": null,
+  "request_field_values": [],
+  "poc": {
+    "id": 27,
+    "email_or_name": "David A. Steinberg ",
+    "has_tasks": false,
+    "undeliverable_email": false
+  },
+  "is_current_requester": false,
+  "requester": {
+    "id": 472895,
+    "name_with_email": null,
+    "name": null,
+    "email": null,
+    "phone": null,
+    "company": null,
+    "address": null
+  }
+}

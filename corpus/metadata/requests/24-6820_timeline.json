@@ -1,0 +1,36 @@
+{
+  "total_count": 3,
+  "timeline": [
+    {
+      "timeline_id": 63187357,
+      "timeline_icon_class": "far fa-check-square",
+      "timeline_name": "Request Closed",
+      "timeline_display_text": "<p>We have finished conducting a diligent search and found no&nbsp;documents responsive to your request.</p><p>We are only able to search for and produce records under the control of San Francisco Public Works. </p><p>Requests for traffic engineering records, traffic incident records and traffic study records should go to the San Francisco Municipal Transportation Agency, which can be reached through this portal.</p><p>This concludes your request.</p><p>Regards,</p><p></p><p>David A. Steinberg</p><p>Custodian of Records</p><p>San Francisco Public Works</p>",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "November 12, 2024, 12:48pm by Staff",
+      "timeline_is_collapsable": true,
+      "timeline_is_pinned": false
+    },
+    {
+      "timeline_id": 63187002,
+      "timeline_icon_class": "fas fa-university",
+      "timeline_name": "Department Assignment",
+      "timeline_display_text": "Public Works",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "November 12, 2024, 12:45pm by the requester",
+      "timeline_is_collapsable": false,
+      "timeline_is_pinned": false
+    },
+    {
+      "timeline_id": 63187000,
+      "timeline_icon_class": "fas fa-folder-open",
+      "timeline_name": "Request Opened",
+      "timeline_display_text": "Request received  via web",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "November 12, 2024, 12:45pm by the requester",
+      "timeline_is_collapsable": false,
+      "timeline_is_pinned": false
+    }
+  ],
+  "pinned": []
+}

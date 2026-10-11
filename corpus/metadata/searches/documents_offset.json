@@ -1,0 +1,1260 @@
+{
+  "query": "offset",
+  "total": 66,
+  "documents": [
+    {
+      "id": 64989285,
+      "title": "1075J NCR 09 - 11.08.17 Light Pole Bolt Package Offset.pdf",
+      "description": "",
+      "count": 11,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - Non-Compliance",
+      "redacted_at": null,
+      "document_path": "/documents/64989285",
+      "file_extension": "pdf",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>1075J NCR 09 - 11.08.17 Light Pole Bolt Package Offset.pdf</em>"
+      }
+    },
+    {
+      "id": 64989286,
+      "title": "1075J Offset Lightpoles.pdf",
+      "description": "",
+      "count": 11,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - Non-Compliance",
+      "redacted_at": null,
+      "document_path": "/documents/64989286",
+      "file_extension": "pdf",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>1075J Offset Lightpoles.pdf</em>"
+      }
+    },
+    {
+      "id": 64989298,
+      "title": "Offset foundations pictures.docx",
+      "description": "",
+      "count": 11,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - Non-Compliance",
+      "redacted_at": null,
+      "document_path": "/documents/64989298",
+      "file_extension": "docx",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>Offset foundations pictures.docx</em>"
+      }
+    },
+    {
+      "id": 64989287,
+      "title": "CL-38 DRAFT Light Pole Anchor Bolt Package Offsets - NCR 09 - Shortcut.lnk",
+      "description": "",
+      "count": 11,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - Non-Compliance",
+      "redacted_at": null,
+      "document_path": "/documents/64989287",
+      "file_extension": "lnk",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>CL-38 DRAFT Light Pole Anchor Bolt Package Offsets - NCR 09 - Shortcut.lnk</em>"
+      }
+    },
+    {
+      "id": 65038467,
+      "title": "RE 1075J - Offset Pole foundations.txt",
+      "description": "",
+      "count": 11,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - Non-Compliance",
+      "redacted_at": null,
+      "document_path": "/documents/65038467",
+      "file_extension": "txt",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>RE 1075J - Offset Pole foundations.txt</em>"
+      }
+    },
+    {
+      "id": 65038903,
+      "title": "Offset foundations pictures.docx",
+      "description": "",
+      "count": 11,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - Non-Compliance",
+      "redacted_at": null,
+      "document_path": "/documents/65038903",
+      "file_extension": "docx",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>Offset foundations pictures.docx</em>"
+      }
+    },
+    {
+      "id": 64989284,
+      "title": "1075J NCR 09 - 10.17.17 - Light Pole Bolt Package Offset.docx",
+      "description": "",
+      "count": 11,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - Non-Compliance",
+      "redacted_at": null,
+      "document_path": "/documents/64989284",
+      "file_extension": "docx",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>1075J NCR 09 - 10.17.17 - Light Pole Bolt Package Offset.docx</em>"
+      }
+    },
+    {
+      "id": 64989299,
+      "title": "Offset Lightpole photos .pdf",
+      "description": "",
+      "count": 11,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - Non-Compliance",
+      "redacted_at": null,
+      "document_path": "/documents/64989299",
+      "file_extension": "pdf",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>Offset Lightpole photos .pdf</em>"
+      }
+    },
+    {
+      "id": 64989300,
+      "title": "Offset Lightpole photos.pdf",
+      "description": "",
+      "count": 11,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - Non-Compliance",
+      "redacted_at": null,
+      "document_path": "/documents/64989300",
+      "file_extension": "pdf",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>Offset Lightpole photos.pdf</em>"
+      }
+    },
+    {
+      "id": 65236695,
+      "title": "Offset foundations pictures.docx",
+      "description": "",
+      "count": 11,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/15/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - Non-Compliance",
+      "redacted_at": null,
+      "document_path": "/documents/65236695",
+      "file_extension": "docx",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>Offset foundations pictures.docx</em>"
+      }
+    },
+    {
+      "id": 65236923,
+      "title": "RE 1075J - Offset Pole foundations.txt",
+      "description": "",
+      "count": 11,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/15/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - Non-Compliance",
+      "redacted_at": null,
+      "document_path": "/documents/65236923",
+      "file_extension": "txt",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>RE 1075J - Offset Pole foundations.txt</em>"
+      }
+    },
+    {
+      "id": 65232549,
+      "title": "1075J Offset Lightpoles.pdf",
+      "description": "",
+      "count": 10,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/15/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - City Letters",
+      "redacted_at": null,
+      "document_path": "/documents/65232549",
+      "file_extension": "pdf",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>1075J Offset Lightpoles.pdf</em>"
+      }
+    },
+    {
+      "id": 64985138,
+      "title": "1075J 10.16.17 Email of Anchor Bolt Assembly Offsets.pdf",
+      "description": "",
+      "count": 10,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - City Letters",
+      "redacted_at": null,
+      "document_path": "/documents/64985138",
+      "file_extension": "pdf",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>1075J 10.16.17 Email of Anchor Bolt Assembly Offsets.pdf</em>"
+      }
+    },
+    {
+      "id": 64985140,
+      "title": "1075J CL-38 Light Pole Anchor Bolt Package Offset.pdf",
+      "description": "",
+      "count": 10,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - City Letters",
+      "redacted_at": null,
+      "document_path": "/documents/64985140",
+      "file_extension": "pdf",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>1075J CL-38 Light Pole Anchor Bolt Package Offset.pdf</em>"
+      }
+    },
+    {
+      "id": 65035133,
+      "title": "1075J Light pole Foundation bolt offsets.txt",
+      "description": "",
+      "count": 10,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - City Letters",
+      "redacted_at": null,
+      "document_path": "/documents/65035133",
+      "file_extension": "txt",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>1075J Light pole Foundation bolt offsets.txt</em>"
+      }
+    },
+    {
+      "id": 64985139,
+      "title": "1075J CL-38 Light Pole Anchor Bolt Package Offset.docx",
+      "description": "",
+      "count": 10,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - City Letters",
+      "redacted_at": null,
+      "document_path": "/documents/64985139",
+      "file_extension": "docx",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>1075J CL-38 Light Pole Anchor Bolt Package Offset.docx</em>"
+      }
+    },
+    {
+      "id": 65232547,
+      "title": "1075J Light pole Foundation bolt offsets.txt",
+      "description": "",
+      "count": 10,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/15/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - City Letters",
+      "redacted_at": null,
+      "document_path": "/documents/65232547",
+      "file_extension": "txt",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>1075J Light pole Foundation bolt offsets.txt</em>"
+      }
+    },
+    {
+      "id": 65035135,
+      "title": "1075J Offset Lightpoles.pdf",
+      "description": "",
+      "count": 10,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - City Letters",
+      "redacted_at": null,
+      "document_path": "/documents/65035135",
+      "file_extension": "pdf",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>1075J Offset Lightpoles.pdf</em>"
+      }
+    },
+    {
+      "id": 64985142,
+      "title": "1075J NCRXX - Light Pole Foundation Offsets - Shortcut.lnk",
+      "description": "",
+      "count": 10,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "1075J(R) - City Letters",
+      "redacted_at": null,
+      "document_path": "/documents/64985142",
+      "file_extension": "lnk",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>1075J NCRXX - Light Pole Foundation Offsets - Shortcut.lnk</em>"
+      }
+    },
+    {
+      "id": 64937892,
+      "title": "Offset.png",
+      "description": "",
+      "count": 9,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/09/2026",
+      "doc_date": null,
+      "folder_name": "2148J(R) - Issues",
+      "redacted_at": null,
+      "document_path": "/documents/64937892",
+      "file_extension": "png",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>Offset.png</em>"
+      }
+    },
+    {
+      "id": 65231798,
+      "title": "2148J Lateral S23 Offset.txt",
+      "description": "",
+      "count": 9,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/15/2026",
+      "doc_date": null,
+      "folder_name": "2148J(R) - Issues",
+      "redacted_at": null,
+      "document_path": "/documents/65231798",
+      "file_extension": "txt",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>2148J Lateral S23 Offset.txt</em>"
+      }
+    },
+    {
+      "id": 65038427,
+      "title": "Offset.png",
+      "description": "",
+      "count": 9,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "2148J(R) - Issues",
+      "redacted_at": null,
+      "document_path": "/documents/65038427",
+      "file_extension": "png",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>Offset.png</em>"
+      }
+    },
+    {
+      "id": 65231804,
+      "title": "Offset.png",
+      "description": "",
+      "count": 9,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/15/2026",
+      "doc_date": null,
+      "folder_name": "2148J(R) - Issues",
+      "redacted_at": null,
+      "document_path": "/documents/65231804",
+      "file_extension": "png",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>Offset.png</em>"
+      }
+    },
+    {
+      "id": 65038421,
+      "title": "2148J Lateral S23 Offset.txt",
+      "description": "",
+      "count": 9,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/10/2026",
+      "doc_date": null,
+      "folder_name": "2148J(R) - Issues",
+      "redacted_at": null,
+      "document_path": "/documents/65038421",
+      "file_extension": "txt",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>2148J Lateral S23 Offset.txt</em>"
+      }
+    },
+    {
+      "id": 7242490,
+      "title": "RE Revised DPW order related to reimbursement of settlement agreement expenses.txt",
+      "description": "",
+      "count": 6,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/15/2021",
+      "doc_date": null,
+      "folder_name": "2016 Refuse Work",
+      "redacted_at": null,
+      "document_path": "/documents/7242490",
+      "file_extension": "txt",
+      "pretty_id": "21-1779",
+      "request_path": "/requests/21-1779",
+      "highlights": {
+        "title": "<em>RE Revised DPW order related to reimbursement of settlement agreement expenses.txt</em>"
+      }
+    },
+    {
+      "id": 15936923,
+      "title": "910.80.800 - RFI #80 - Offset Manhole at Sloat.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/25/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/15936923",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>910.80.800 - RFI #80 - Offset Manhole at Sloat.pdf</em>"
+      }
+    },
+    {
+      "id": 15630899,
+      "title": "Station Offset Labels.dwg",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/07/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/15630899",
+      "file_extension": "dwg",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>Station Offset Labels.dwg</em>"
+      }
+    },
+    {
+      "id": 15936922,
+      "title": "910.80.800 - RFI #80 - Offset Manhole at Sloat - Response.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/25/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/15936922",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>910.80.800 - RFI #80 - Offset Manhole at Sloat - Response.pdf</em>"
+      }
+    },
+    {
+      "id": 13899565,
+      "title": "4ft Offset MH (On Sidewalk).docx",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/07/2022",
+      "doc_date": null,
+      "folder_name": "Project",
+      "redacted_at": null,
+      "document_path": "/documents/13899565",
+      "file_extension": "docx",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>4ft Offset MH (On Sidewalk).docx</em>"
+      }
+    },
+    {
+      "id": 13899567,
+      "title": "4ft Offset MH _On Sidewalk_.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/07/2022",
+      "doc_date": null,
+      "folder_name": "Project",
+      "redacted_at": null,
+      "document_path": "/documents/13899567",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>4ft Offset MH _On Sidewalk_.pdf</em>"
+      }
+    },
+    {
+      "id": 13899568,
+      "title": "4ft Offset MH _On Street_.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/07/2022",
+      "doc_date": null,
+      "folder_name": "Project",
+      "redacted_at": null,
+      "document_path": "/documents/13899568",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>4ft Offset MH _On Street_.pdf</em>"
+      }
+    },
+    {
+      "id": 13915330,
+      "title": "910.80.650 - RFI #65 - Offset Manhole at Ortega Response (Signed).pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/07/2022",
+      "doc_date": null,
+      "folder_name": "Project",
+      "redacted_at": null,
+      "document_path": "/documents/13915330",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>910.80.650 - RFI #65 - Offset Manhole at Ortega Response (Signed).pdf</em>"
+      }
+    },
+    {
+      "id": 15630898,
+      "title": "Station Offset Labels.bak",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/07/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/15630898",
+      "file_extension": "bak",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>Station Offset Labels.bak</em>"
+      }
+    },
+    {
+      "id": 29835711,
+      "title": "2.13 Exhibit Basis for Revenue Offset.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/13/2024",
+      "doc_date": null,
+      "folder_name": "Rate Setting",
+      "redacted_at": null,
+      "document_path": "/documents/29835711",
+      "file_extension": "pdf",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em>2.13 Exhibit Basis for Revenue Offset.pdf</em>"
+      }
+    },
+    {
+      "id": 13915331,
+      "title": "910.80.650 - RFI #65 - Offset Manhole at Ortega Response.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/07/2022",
+      "doc_date": null,
+      "folder_name": "Project",
+      "redacted_at": null,
+      "document_path": "/documents/13915331",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>910.80.650 - RFI #65 - Offset Manhole at Ortega Response.pdf</em>"
+      }
+    },
+    {
+      "id": 13915332,
+      "title": "910.80.650 - RFI #65 - Offset Manhole at Ortega.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/07/2022",
+      "doc_date": null,
+      "folder_name": "Project",
+      "redacted_at": null,
+      "document_path": "/documents/13915332",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>910.80.650 - RFI #65 - Offset Manhole at Ortega.pdf</em>"
+      }
+    },
+    {
+      "id": 15153203,
+      "title": "AWSS Loc 2 - Mid-Block Kirkham to Judah - (E) Horizontal Offset.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "08/31/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/15153203",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>AWSS Loc 2 - Mid-Block Kirkham to Judah - (E) Horizontal Offset.pdf</em>"
+      }
+    },
+    {
+      "id": 13899468,
+      "title": "2652_2767J_19th Ave_Offset MH Locations.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/07/2022",
+      "doc_date": null,
+      "folder_name": "Project",
+      "redacted_at": null,
+      "document_path": "/documents/13899468",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>2652_2767J_19th Ave_Offset MH Locations.pdf</em>"
+      }
+    },
+    {
+      "id": 29835639,
+      "title": "1.05 - D.2 Revenue Offsets.msg",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/13/2024",
+      "doc_date": null,
+      "folder_name": "Rate Setting",
+      "redacted_at": null,
+      "document_path": "/documents/29835639",
+      "file_extension": "msg",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em>1.05 - D.2 Revenue Offsets.msg</em>"
+      }
+    },
+    {
+      "id": 13915319,
+      "title": "910.80.240.01 - RFI #24 - 5' Offset Manhole at Lawton - Response.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/07/2022",
+      "doc_date": null,
+      "folder_name": "Project",
+      "redacted_at": null,
+      "document_path": "/documents/13915319",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>910.80.240.01 - RFI #24 - 5' Offset Manhole at Lawton - Response.pdf</em>"
+      }
+    },
+    {
+      "id": 13915338,
+      "title": "910.80.800 - RFI #80 - Offset Manhole at Sloat.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/07/2022",
+      "doc_date": null,
+      "folder_name": "Project",
+      "redacted_at": null,
+      "document_path": "/documents/13915338",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>910.80.800 - RFI #80 - Offset Manhole at Sloat.pdf</em>"
+      }
+    },
+    {
+      "id": 15936672,
+      "title": "910.80.240.01 - RFI #24 - 5' Offset Manhole at Lawton.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/25/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/15936672",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>910.80.240.01 - RFI #24 - 5' Offset Manhole at Lawton.pdf</em>"
+      }
+    },
+    {
+      "id": 13899566,
+      "title": "4ft Offset MH (On Street).docx",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/07/2022",
+      "doc_date": null,
+      "folder_name": "Project",
+      "redacted_at": null,
+      "document_path": "/documents/13899566",
+      "file_extension": "docx",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>4ft Offset MH (On Street).docx</em>"
+      }
+    },
+    {
+      "id": 13899569,
+      "title": "5ft Offset Manhole (On Street).docx",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/07/2022",
+      "doc_date": null,
+      "folder_name": "Project",
+      "redacted_at": null,
+      "document_path": "/documents/13899569",
+      "file_extension": "docx",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>5ft Offset Manhole (On Street).docx</em>"
+      }
+    },
+    {
+      "id": 13899570,
+      "title": "5ft Offset Manhole _On Street_.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/07/2022",
+      "doc_date": null,
+      "folder_name": "Project",
+      "redacted_at": null,
+      "document_path": "/documents/13899570",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>5ft Offset Manhole _On Street_.pdf</em>"
+      }
+    },
+    {
+      "id": 29835648,
+      "title": "2.13 Exhibit Basis for Revenue Offset.xlsx",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/13/2024",
+      "doc_date": null,
+      "folder_name": "Rate Setting",
+      "redacted_at": null,
+      "document_path": "/documents/29835648",
+      "file_extension": "xlsx",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em>2.13 Exhibit Basis for Revenue Offset.xlsx</em>"
+      }
+    },
+    {
+      "id": 29835712,
+      "title": "2.13 Exhibit Basis for Revenue Offset.xlsx",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/13/2024",
+      "doc_date": null,
+      "folder_name": "Rate Setting",
+      "redacted_at": null,
+      "document_path": "/documents/29835712",
+      "file_extension": "xlsx",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em>2.13 Exhibit Basis for Revenue Offset.xlsx</em>"
+      }
+    },
+    {
+      "id": 15936671,
+      "title": "910.80.240.01 - RFI #24 - 5' Offset Manhole at Lawton - Response.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/25/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/15936671",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>910.80.240.01 - RFI #24 - 5' Offset Manhole at Lawton - Response.pdf</em>"
+      }
+    },
+    {
+      "id": 15936936,
+      "title": "910.80.650 - RFI #65 - Offset Manhole at Ortega - Response.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/25/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/15936936",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>910.80.650 - RFI #65 - Offset Manhole at Ortega - Response.pdf</em>"
+      }
+    },
+    {
+      "id": 15936937,
+      "title": "910.80.650 - RFI #65 - Offset Manhole at Ortega.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/25/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/15936937",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>910.80.650 - RFI #65 - Offset Manhole at Ortega.pdf</em>"
+      }
+    },
+    {
+      "id": 18220061,
+      "title": "1_910.80.650 - RFI #65 - Offset Manhole at Ortega.pdf",
+      "description": "",
+      "count": 3,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/27/2023",
+      "doc_date": null,
+      "folder_name": "2652J - 19th Ave - Bernice Liu-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/18220061",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>1_910.80.650 - RFI #65 - Offset Manhole at Ortega.pdf</em>"
+      }
+    },
+    {
+      "id": 18222004,
+      "title": "1_910.80.800 - RFI #80 - Offset Manhole at Sloat.pdf",
+      "description": "",
+      "count": 3,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/27/2023",
+      "doc_date": null,
+      "folder_name": "2652J - 19th Ave - Bernice Liu-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/18222004",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>1_910.80.800 - RFI #80 - Offset Manhole at Sloat.pdf</em>"
+      }
+    },
+    {
+      "id": 18223087,
+      "title": " 19th Ave Combined City Project - RFI #80 - Offset Manhole at Sloat.html",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/27/2023",
+      "doc_date": null,
+      "folder_name": "2652J - 19th Ave - Bernice Liu-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/18223087",
+      "file_extension": "html",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em> 19th Ave Combined City Project - RFI #80 - Offset Manhole at Sloat.html</em>"
+      }
+    },
+    {
+      "id": 18225023,
+      "title": " 19th Ave Combined City Project - RFI #65 - Offset Manhole at Ortega.html",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/27/2023",
+      "doc_date": null,
+      "folder_name": "2652J - 19th Ave - Bernice Liu-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/18225023",
+      "file_extension": "html",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em> 19th Ave Combined City Project - RFI #65 - Offset Manhole at Ortega.html</em>"
+      }
+    },
+    {
+      "id": 18234723,
+      "title": " RE 19th Ave Combined City Project - RFI #65 - Offset Manhole at Ortega.html",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/27/2023",
+      "doc_date": null,
+      "folder_name": "2652J - 19th Ave - Bernice Liu-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/18234723",
+      "file_extension": "html",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em> RE 19th Ave Combined City Project - RFI #65 - Offset Manhole at Ortega.html</em>"
+      }
+    },
+    {
+      "id": 18236722,
+      "title": "1_910.80.240.01 - RFI #24 - 5' Offset Manhole at Lawton - Response.pdf",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/27/2023",
+      "doc_date": null,
+      "folder_name": "2652J - 19th Ave - Bernice Liu-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/18236722",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>1_910.80.240.01 - RFI #24 - 5' Offset Manhole at Lawton - Response.pdf</em>"
+      }
+    },
+    {
+      "id": 18230309,
+      "title": " RE 19th Ave Combined City Project - RFI #65 - Offset Manhole at Ortega.html",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/27/2023",
+      "doc_date": null,
+      "folder_name": "2652J - 19th Ave - Bernice Liu-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/18230309",
+      "file_extension": "html",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em> RE 19th Ave Combined City Project - RFI #65 - Offset Manhole at Ortega.html</em>"
+      }
+    },
+    {
+      "id": 18231876,
+      "title": " FW 19th Ave Combined City Project - RFI #65 - Offset Manhole at Ortega.html",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/27/2023",
+      "doc_date": null,
+      "folder_name": "2652J - 19th Ave - Bernice Liu-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/18231876",
+      "file_extension": "html",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em> FW 19th Ave Combined City Project - RFI #65 - Offset Manhole at Ortega.html</em>"
+      }
+    },
+    {
+      "id": 18228246,
+      "title": "1_910.80.650 - RFI #65 - Offset Manhole at Ortega Response (Signed).pdf",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/27/2023",
+      "doc_date": null,
+      "folder_name": "2652J - 19th Ave - Bernice Liu-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/18228246",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>1_910.80.650 - RFI #65 - Offset Manhole at Ortega Response (Signed).pdf</em>"
+      }
+    },
+    {
+      "id": 18236955,
+      "title": " RE 19th Ave Combined City Project - RFI #65 - Offset Manhole at Ortega.html",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/27/2023",
+      "doc_date": null,
+      "folder_name": "2652J - 19th Ave - Bernice Liu-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/18236955",
+      "file_extension": "html",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em> RE 19th Ave Combined City Project - RFI #65 - Offset Manhole at Ortega.html</em>"
+      }
+    },
+    {
+      "id": 18232453,
+      "title": "1_910.80.650 - RFI #65 - Offset Manhole at Ortega.pdf",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/27/2023",
+      "doc_date": null,
+      "folder_name": "2652J - 19th Ave - Bernice Liu-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/18232453",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>1_910.80.650 - RFI #65 - Offset Manhole at Ortega.pdf</em>"
+      }
+    },
+    {
+      "id": 18228909,
+      "title": " Re 19th Ave Combined City Project - RFI #80 - Offset Manhole at Sloat.html",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/27/2023",
+      "doc_date": null,
+      "folder_name": "2652J - 19th Ave - Bernice Liu-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/18228909",
+      "file_extension": "html",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em> Re 19th Ave Combined City Project - RFI #80 - Offset Manhole at Sloat.html</em>"
+      }
+    },
+    {
+      "id": 18230068,
+      "title": " RE 19th Ave Combined City Project - RFI #65 - Offset Manhole at Ortega.html",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/27/2023",
+      "doc_date": null,
+      "folder_name": "2652J - 19th Ave - Bernice Liu-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/18230068",
+      "file_extension": "html",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em> RE 19th Ave Combined City Project - RFI #65 - Offset Manhole at Ortega.html</em>"
+      }
+    },
+    {
+      "id": 18233462,
+      "title": " RE 2652J - 19th Ave Combined City Project - RFI #80 - Offset Manhole at Sloat.html",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/27/2023",
+      "doc_date": null,
+      "folder_name": "2652J - 19th Ave - Bernice Liu-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/18233462",
+      "file_extension": "html",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em> RE 2652J - 19th Ave Combined City Project - RFI #80 - Offset Manhole at Sloat.html</em>"
+      }
+    },
+    {
+      "id": 68997314,
+      "title": "Re Street Cleaner Layoffs.txt",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "08/19/2026",
+      "doc_date": null,
+      "folder_name": "Re_ Street Cleaner Layoffs (6)-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/68997314",
+      "file_extension": "txt",
+      "pretty_id": "26-7716",
+      "request_path": "/requests/26-7716",
+      "highlights": {
+        "title": "<em>Re Street Cleaner Layoffs.txt</em>"
+      }
+    },
+    {
+      "id": 68997025,
+      "title": "Re Street Cleaner Layoffs.txt",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "08/19/2026",
+      "doc_date": null,
+      "folder_name": "Re_ Street Cleaner Layoffs (3)-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/68997025",
+      "file_extension": "txt",
+      "pretty_id": "26-7716",
+      "request_path": "/requests/26-7716",
+      "highlights": {
+        "title": "<em>Re Street Cleaner Layoffs.txt</em>"
+      }
+    }
+  ]
+}

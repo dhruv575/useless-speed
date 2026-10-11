@@ -1,0 +1,500 @@
+{
+  "query": "phasing",
+  "total": 26,
+  "documents": [
+    {
+      "id": 64645663,
+      "title": "SN-086 Site 1.2 Sewer Phasing TCP_MCN.pdf",
+      "description": "",
+      "count": 9,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/03/2026",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/64645663",
+      "file_extension": "pdf",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>SN-086 Site 1.2 Sewer Phasing TCP_MCN.pdf</em>"
+      }
+    },
+    {
+      "id": 64645664,
+      "title": "SN-086 Site 1.2 Sewer Phasing TCP_MCN_R2.pdf",
+      "description": "",
+      "count": 9,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/03/2026",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/64645664",
+      "file_extension": "pdf",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>SN-086 Site 1.2 Sewer Phasing TCP_MCN_R2.pdf</em>"
+      }
+    },
+    {
+      "id": 64645662,
+      "title": "SN-086 Site 1.2 Sewer Phasing TCP.pdf",
+      "description": "",
+      "count": 9,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/03/2026",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/64645662",
+      "file_extension": "pdf",
+      "pretty_id": "26-4058",
+      "request_path": "/requests/26-4058",
+      "highlights": {
+        "title": "<em>SN-086 Site 1.2 Sewer Phasing TCP.pdf</em>"
+      }
+    },
+    {
+      "id": 15217155,
+      "title": "2017 11 21 construction phasing and schedule.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "09/07/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/15217155",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>2017 11 21 construction phasing and schedule.pdf</em>"
+      }
+    },
+    {
+      "id": 15217154,
+      "title": "2017 11 08 sewer construction phasing.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "09/07/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/15217154",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>2017 11 08 sewer construction phasing.pdf</em>"
+      }
+    },
+    {
+      "id": 4793803,
+      "title": "TI Stage 23 Phasing Meeting wSFPUC &amp; DPW.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "nicolas.huff@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4793803",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>TI Stage 23 Phasing Meeting wSFPUC &amp; DPW.html</em>"
+      }
+    },
+    {
+      "id": 4793964,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "nicolas.huff@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4793964",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    },
+    {
+      "id": 4794018,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "nicolas.huff@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4794018",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    },
+    {
+      "id": 4792909,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "John.Thomas@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4792909",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    },
+    {
+      "id": 4792651,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "Levon.Jalalian@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4792651",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    },
+    {
+      "id": 4792666,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "Levon.Jalalian@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4792666",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    },
+    {
+      "id": 4792811,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "John.Kwong@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4792811",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    },
+    {
+      "id": 4792889,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "John.Thomas@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4792889",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    },
+    {
+      "id": 4793999,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "nicolas.huff@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4793999",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    },
+    {
+      "id": 4792653,
+      "title": "TI Stage 23 Phasing Meeting wSFPUC &amp; DPW.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "Levon.Jalalian@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4792653",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>TI Stage 23 Phasing Meeting wSFPUC &amp; DPW.html</em>"
+      }
+    },
+    {
+      "id": 4792697,
+      "title": "TI Stage 23 Utility Phasing 12.12 Mtg Minutes.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "Levon.Jalalian@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4792697",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>TI Stage 23 Utility Phasing 12.12 Mtg Minutes.html</em>"
+      }
+    },
+    {
+      "id": 4794004,
+      "title": "TI Stage 23 Utility Phasing 12.12 Mtg Minutes.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "nicolas.huff@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4794004",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>TI Stage 23 Utility Phasing 12.12 Mtg Minutes.html</em>"
+      }
+    },
+    {
+      "id": 4792674,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "Levon.Jalalian@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4792674",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    },
+    {
+      "id": 4792707,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "Levon.Jalalian@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4792707",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    },
+    {
+      "id": 4792891,
+      "title": "TI Stage 23 Utility Phasing 12.12 Mtg Minutes.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "John.Thomas@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4792891",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>TI Stage 23 Utility Phasing 12.12 Mtg Minutes.html</em>"
+      }
+    },
+    {
+      "id": 4792895,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "John.Thomas@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4792895",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    },
+    {
+      "id": 4792905,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "John.Thomas@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4792905",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    },
+    {
+      "id": 4792815,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "John.Kwong@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4792815",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    },
+    {
+      "id": 4792816,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "John.Kwong@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4792816",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    },
+    {
+      "id": 4792833,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "John.Kwong@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4792833",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    },
+    {
+      "id": 4793990,
+      "title": "RE TI Stage 23 Phasing Plan Meeting Request.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2020",
+      "doc_date": null,
+      "folder_name": "nicolas.huff@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4793990",
+      "file_extension": "html",
+      "pretty_id": "20-1126",
+      "request_path": "/requests/20-1126",
+      "highlights": {
+        "title": "<em>RE TI Stage 23 Phasing Plan Meeting Request.html</em>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "total_count": 4,
+  "timeline": [
+    {
+      "timeline_id": 47075977,
+      "timeline_icon_class": "far fa-check-square",
+      "timeline_name": "Request Closed",
+      "timeline_display_text": "<p>We have finished conducting a diligent search and found no&nbsp;documents responsive to your request.</p><p>We are only able to search for and produce records under the control of San Francisco Public Works. Other departments may hold additional records responsive to your request, so we suggest you consider contacting the San Francisco Municipal Transportation Agency (SFMTA), which is available through this portal.</p><p>This concludes your records request.</p>",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "February 20, 2024,  9:37am by Staff",
+      "timeline_is_collapsable": true,
+      "timeline_is_pinned": false
+    },
+    {
+      "timeline_id": 47073142,
+      "timeline_icon_class": "fas fa-envelope",
+      "timeline_name": "External Message",
+      "timeline_type": "public",
+      "timeline_subheader": null,
+      "timeline_display_text": "<p>We received your public records request on February 20, 2024. You have requested the following records: </p><p>records at the intersection of Market Street and 7th Street in San Francisco:</p><p>1- Traffic Signal Plan (effective on/before 7/27/2021)</p><p>2- Traffic Signal Timing (effective on/before 7/27/2021)</p><p>3- Traffic Signal Maintenance Records (from 1/27/2021 to 7/27/2021)</p><br><p>Our department will identify and compile the requested information. The Sunshine Ordinance requires departments to respond as soon as possible or within 10 calendar days from receipt of any records requests. Therefore, we will contact you as soon as the responsive documents are ready for you to view and will do so on or before March 1, 2024, as permitted by San Francisco Administrative Code § 67.21(b) and California Government Code § 7922.535.</p><br><p>It is not necessary to create a NextRequest account to view responsive records. Once they have been released, a link, valid for 30 days, will be provided to view the records. Additionally, unless privacy concerns prevent it, Public Works makes all records requests visible to the public. You may search for requests at https://sanfrancisco.nextrequest.com/.&nbsp;</p><br><p>Please note that we are only able to provide records in the possession or control of San Francisco Public Works. Other City agencies may hold additional responsive records and you would need to contact them directly.</p>",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "February 20, 2024,  9:08am by Staff",
+      "timeline_is_collapsable": true,
+      "timeline_is_pinned": false,
+      "timeline_guest_is_author": false
+    },
+    {
+      "timeline_id": 47071690,
+      "timeline_icon_class": "fas fa-university",
+      "timeline_name": "Department Assignment",
+      "timeline_display_text": "Public Works",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "February 20, 2024,  8:55am by the requester",
+      "timeline_is_collapsable": false,
+      "timeline_is_pinned": false
+    },
+    {
+      "timeline_id": 47071688,
+      "timeline_icon_class": "fas fa-folder-open",
+      "timeline_name": "Request Opened",
+      "timeline_display_text": "Request received  via web",
+      "timeline_state": "Anyone with access to this request",
+      "timeline_byline": "February 20, 2024,  8:55am by the requester",
+      "timeline_is_collapsable": false,
+      "timeline_is_pinned": false
+    }
+  ],
+  "pinned": []
+}

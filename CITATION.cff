@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Cite Useless Speed for the compilation and methods, and cite the originating agencies and individual records for the underlying data."
+title: "Useless Speed: San Francisco driving simulation and traffic research corpus"
+type: software
+authors:
+  - name: "Useless Speed contributors"
+version: 0.1.0
+date-released: 2026-10-10
+license: MIT
+abstract: "An exploratory paired-car simulation and a dated, provenance-preserving compilation of San Francisco signal records, street data, and traffic observations. The software license does not relicense the underlying third-party datasets."

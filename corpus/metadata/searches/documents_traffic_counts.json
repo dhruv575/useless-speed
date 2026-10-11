@@ -1,0 +1,196 @@
+{
+  "query": "traffic counts",
+  "total": 10,
+  "documents": [
+    {
+      "id": 17010588,
+      "title": "FW 19th Avenue Traffic Counts-redacted.html.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "01/03/2023",
+      "doc_date": null,
+      "folder_name": "FW  19th Avenue Traffic Counts-extracted",
+      "redacted_at": "01/03/2023",
+      "document_path": "/documents/17010588",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>FW 19th Avenue Traffic Counts-redacted.html.pdf</em>"
+      }
+    },
+    {
+      "id": 16282961,
+      "title": "2652J KJ CHS Traffic Count 09162015 .pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/14/2022",
+      "doc_date": null,
+      "folder_name": "FW  2652J - 19th ave Combined city project - Cost share for Traffic Management Plan 11 102015-extracted(1)",
+      "redacted_at": null,
+      "document_path": "/documents/16282961",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>2652J KJ CHS Traffic Count 09162015 .pdf</em>"
+      }
+    },
+    {
+      "id": 16282905,
+      "title": "2652J KJ CHS Traffic Count 09162015 .pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/14/2022",
+      "doc_date": null,
+      "folder_name": "FW  2652J - 19th ave Combined city project - Cost share for Traffic Management Plan 11 102015-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/16282905",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>2652J KJ CHS Traffic Count 09162015 .pdf</em>"
+      }
+    },
+    {
+      "id": 14229691,
+      "title": "2652J KJ CHS Traffic Count 09162015 .pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "07/05/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/14229691",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>2652J KJ CHS Traffic Count 09162015 .pdf</em>"
+      }
+    },
+    {
+      "id": 16283118,
+      "title": "RE 2652J 19 th ave EC15 KA 04 Traffic Count 09032015.html",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/14/2022",
+      "doc_date": null,
+      "folder_name": "RE  2652J 19 th ave EC15 KA 04 Traffic Count 09 03 2015-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/16283118",
+      "file_extension": "html",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>RE 2652J 19 th ave EC15 KA 04 Traffic Count 09032015.html</em>"
+      }
+    },
+    {
+      "id": 16284338,
+      "title": "2652J KJ CHS Traffic Count 09162015 .pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/14/2022",
+      "doc_date": null,
+      "folder_name": "2652J - PUC funding request - cost share for TMP and Manhole survey  02 29 2016-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/16284338",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>2652J KJ CHS Traffic Count 09162015 .pdf</em>"
+      }
+    },
+    {
+      "id": 14229983,
+      "title": "2652J KJ CHS Traffic Count 09162015 .pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "07/05/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/14229983",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>2652J KJ CHS Traffic Count 09162015 .pdf</em>"
+      }
+    },
+    {
+      "id": 16283232,
+      "title": "2652J KJ CHS Traffic Count 09162015 .pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/14/2022",
+      "doc_date": null,
+      "folder_name": "FW 2652J - 19th ave Combined city project - Cost share for Traffic Management Plan 11102015-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/16283232",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>2652J KJ CHS Traffic Count 09162015 .pdf</em>"
+      }
+    },
+    {
+      "id": 14463169,
+      "title": "2652J KJ CHS Traffic count 09162015 .pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "07/18/2022",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/14463169",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>2652J KJ CHS Traffic count 09162015 .pdf</em>"
+      }
+    },
+    {
+      "id": 18212494,
+      "title": "2652J KJ CHS Traffic Count 09162015 .pdf",
+      "description": "",
+      "count": 3,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/27/2023",
+      "doc_date": null,
+      "folder_name": "FW_ 2652J - 19th ave Combined city project - Cost share for Traffic Management Plan 11_102015-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/18212494",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>2652J KJ CHS Traffic Count 09162015 .pdf</em>"
+      }
+    }
+  ]
+}

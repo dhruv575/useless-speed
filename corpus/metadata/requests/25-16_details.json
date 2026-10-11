@@ -1,0 +1,42 @@
+{
+  "pretty_id": "25-16",
+  "request_text": "<p>Please advise of the timing and sequencing for the signals at the intersection of Ocean Avenue and Junipero Serra Boulevard on November 24, 2024.&nbsp;Also, please advise if you received any reports of malfunctions in the signals at that location or nearby.&nbsp;If there are any costs involved please advise and we will promptly send a check to you.Thank you very much for your cooperation and attention to this matter.</p><p></p><p>Please advise of the maintenance records  fom 2020 through 2024 at the intersection of Ocean Avenue and Junipero Serra Boulevard</p>",
+  "request_state": "Closed",
+  "visibility": "published",
+  "request_visibility": "Published",
+  "request_due_date": null,
+  "request_submit_type": null,
+  "request_date": "January  2, 2025",
+  "anticipated_fulfilled_at": null,
+  "expiration_date": null,
+  "exempt_from_retention": false,
+  "exempt_documents_from_retention": false,
+  "department_names": "Public Works",
+  "departments": [
+    {
+      "id": 74,
+      "name": "Public Works",
+      "poc_id": 27
+    }
+  ],
+  "request_staff_hours": null,
+  "request_staff_cost": null,
+  "custom_form_version": null,
+  "request_field_values": [],
+  "poc": {
+    "id": 27,
+    "email_or_name": "David A. Steinberg ",
+    "has_tasks": false,
+    "undeliverable_email": false
+  },
+  "is_current_requester": false,
+  "requester": {
+    "id": 1095080,
+    "name_with_email": null,
+    "name": null,
+    "email": null,
+    "phone": null,
+    "company": null,
+    "address": null
+  }
+}

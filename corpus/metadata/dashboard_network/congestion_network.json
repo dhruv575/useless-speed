@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://api.sfcta.org/api/cmp_segments_exp?select=geometry,cmp_segid,cmp_name,cmp_from,cmp_to,direction,length",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.sfcta.org/api/inrix_rt_weekly_exp?select=cmp_segid,year,date,period,los_hcm85,avg_speed,imp_vol,base_speed,spd_diff,pct_diff,base_vol,vol_diff,pct_voldiff",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.sfcta.org/api/inrix_rt_weekly_exp_agg?select=fac_typ,period,date,viz,metric",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.sfcta.org/api/inrix_rt_hourly_exp_agg?select=fac_typ,period,date,viz,metric",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.sfcta.org/api/inrix_rt_weekly_exp?select=date",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8"
+  },
+  {
+    "url": "https://api.sfcta.org/api/inrix_rt_hourly_exp?select=cmp_segid,period,avg_speed&date=eq.2019-01",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8"
+  }
+]

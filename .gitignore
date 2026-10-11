@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
+*.log
+.env
+.env.*
+!.env.example
+app/cache/
+app/test-output/
+.DS_Store
+Thumbs.db
+tmp/
+outputs/

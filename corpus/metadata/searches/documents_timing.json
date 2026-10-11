@@ -1,0 +1,1469 @@
+{
+  "query": "timing",
+  "total": 77,
+  "documents": [
+    {
+      "id": 7241131,
+      "title": "RE Recology 2018 COLA Calculation Timing.txt",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/15/2021",
+      "doc_date": null,
+      "folder_name": "2018 Refuse work",
+      "redacted_at": null,
+      "document_path": "/documents/7241131",
+      "file_extension": "txt",
+      "pretty_id": "21-1781",
+      "request_path": "/requests/21-1781",
+      "highlights": {
+        "title": "<em>RE Recology 2018 COLA Calculation Timing.txt</em>"
+      }
+    },
+    {
+      "id": 7704203,
+      "title": "1_Rate Timing (draft) v3.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/14/2021",
+      "doc_date": null,
+      "folder_name": "Draft Rate Application Timeline",
+      "redacted_at": null,
+      "document_path": "/documents/7704203",
+      "file_extension": "pdf",
+      "pretty_id": "21-1777",
+      "request_path": "/requests/21-1777",
+      "highlights": {
+        "title": "<em>1_Rate Timing (draft) v3.pdf</em>"
+      }
+    },
+    {
+      "id": 16282596,
+      "title": "19th Ave_Sloat_Existing Timing.pdf",
+      "description": "",
+      "count": 5,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/14/2022",
+      "doc_date": null,
+      "folder_name": "19th Sloat modifications-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/16282596",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>19th Ave_Sloat_Existing Timing.pdf</em>"
+      }
+    },
+    {
+      "id": 43233317,
+      "title": "RE MFWG - Option Costing and Timing Check In.txt",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/21/2025",
+      "doc_date": null,
+      "folder_name": "RE_ MFWG - Option Costing and Timing Check In-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/43233317",
+      "file_extension": "txt",
+      "pretty_id": "25-1061",
+      "request_path": "/requests/25-1061",
+      "highlights": {
+        "title": "<em>RE MFWG - Option Costing and Timing Check In.txt</em>"
+      }
+    },
+    {
+      "id": 7241128,
+      "title": "RE Recology 2018 COLA Calculation Timing.txt",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/15/2021",
+      "doc_date": null,
+      "folder_name": "2018 Refuse work",
+      "redacted_at": null,
+      "document_path": "/documents/7241128",
+      "file_extension": "txt",
+      "pretty_id": "21-1781",
+      "request_path": "/requests/21-1781",
+      "highlights": {
+        "title": "<em>RE Recology 2018 COLA Calculation Timing.txt</em>"
+      }
+    },
+    {
+      "id": 16282597,
+      "title": "19th Ave_Sloat_Proposed Timing.pdf",
+      "description": "",
+      "count": 5,
+      "state": "public",
+      "demo": false,
+      "created_at": "11/14/2022",
+      "doc_date": null,
+      "folder_name": "19th Sloat modifications-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/16282597",
+      "file_extension": "pdf",
+      "pretty_id": "22-3290",
+      "request_path": "/requests/22-3290",
+      "highlights": {
+        "title": "<em>19th Ave_Sloat_Proposed Timing.pdf</em>"
+      }
+    },
+    {
+      "id": 63591546,
+      "title": "332. RE_ Fund timing - HSCO.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/15/2026",
+      "doc_date": null,
+      "folder_name": "05-15-2026",
+      "redacted_at": null,
+      "document_path": "/documents/63591546",
+      "file_extension": "pdf",
+      "pretty_id": "25-4553",
+      "request_path": "/requests/25-4553",
+      "highlights": {
+        "title": "<em>332. </em>"
+      }
+    },
+    {
+      "id": 8573870,
+      "title": "Re_ Consulting Timing_Recology Meeting (3)-redacted.txt.pdf",
+      "description": "",
+      "count": 3,
+      "state": "public",
+      "demo": false,
+      "created_at": "09/09/2021",
+      "doc_date": null,
+      "folder_name": "Re: Consulting Timing/Recology Meeting",
+      "redacted_at": "09/09/2021",
+      "document_path": "/documents/8573870",
+      "file_extension": "pdf",
+      "pretty_id": "21-1778",
+      "request_path": "/requests/21-1778",
+      "highlights": {
+        "title": "<em>Re_ Consulting Timing_Recology Meeting (3)-redacted.txt.pdf</em>"
+      }
+    },
+    {
+      "id": 7724131,
+      "title": "3_Pier 96 Upgrade Payment Timing (Draft).xlsx",
+      "description": "",
+      "count": 3,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/16/2021",
+      "doc_date": null,
+      "folder_name": "RE: Proposed Summary Table",
+      "redacted_at": null,
+      "document_path": "/documents/7724131",
+      "file_extension": "xlsx",
+      "pretty_id": "21-1779",
+      "request_path": "/requests/21-1779",
+      "highlights": {
+        "title": "<em>3_Pier 96 Upgrade Payment Timing (Draft).xlsx</em>"
+      }
+    },
+    {
+      "id": 44384735,
+      "title": "RE_ DIGISIG 887_ SRC 2025-062_41st Ave_Lincoln_Timing Ch 1_JH.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2025",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/44384735",
+      "file_extension": "pdf",
+      "pretty_id": "25-2143",
+      "request_path": "/requests/25-2143",
+      "highlights": {
+        "title": "<em>RE_ DIGISIG 887_ SRC 2025-062_41st Ave_Lincoln_Timing Ch 1_JH.pdf</em>"
+      }
+    },
+    {
+      "id": 44384738,
+      "title": "RE_ new timing card for 41 Lincoln.pdf",
+      "description": "",
+      "count": 7,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2025",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/44384738",
+      "file_extension": "pdf",
+      "pretty_id": "25-2143",
+      "request_path": "/requests/25-2143",
+      "highlights": {
+        "title": "<em>RE_ new timing card for 41 Lincoln.pdf</em>"
+      }
+    },
+    {
+      "id": 8573869,
+      "title": "Re_ Consulting Timing_Recology Meeting (2)-redacted.txt.pdf",
+      "description": "",
+      "count": 3,
+      "state": "public",
+      "demo": false,
+      "created_at": "09/09/2021",
+      "doc_date": null,
+      "folder_name": "Re: Consulting Timing/Recology Meeting",
+      "redacted_at": "09/09/2021",
+      "document_path": "/documents/8573869",
+      "file_extension": "pdf",
+      "pretty_id": "21-1778",
+      "request_path": "/requests/21-1778",
+      "highlights": {
+        "title": "<em>Re_ Consulting Timing_Recology Meeting (2)-redacted.txt.pdf</em>"
+      }
+    },
+    {
+      "id": 44384743,
+      "title": "RE_ Request to check out Timing Cards & SIDs - 41st Ave_Lincoln Way (Beacon).pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2025",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/44384743",
+      "file_extension": "pdf",
+      "pretty_id": "25-2143",
+      "request_path": "/requests/25-2143",
+      "highlights": {
+        "title": "<em>RE_ Request to check out Timing Cards & SIDs - 41st Ave_Lincoln Way (Beacon).pdf</em>"
+      }
+    },
+    {
+      "id": 7241074,
+      "title": "Re Recology 2018 COLA Calculation Timing.txt",
+      "description": "",
+      "count": 3,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/15/2021",
+      "doc_date": null,
+      "folder_name": "2018 Refuse work",
+      "redacted_at": null,
+      "document_path": "/documents/7241074",
+      "file_extension": "txt",
+      "pretty_id": "21-1781",
+      "request_path": "/requests/21-1781",
+      "highlights": {
+        "title": "<em>Re Recology 2018 COLA Calculation Timing.txt</em>"
+      }
+    },
+    {
+      "id": 7724208,
+      "title": "1_Pier 96 Upgrade Payment Timing (Draft).xlsx",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/16/2021",
+      "doc_date": null,
+      "folder_name": "Payment Timing Schedule",
+      "redacted_at": null,
+      "document_path": "/documents/7724208",
+      "file_extension": "xlsx",
+      "pretty_id": "21-1779",
+      "request_path": "/requests/21-1779",
+      "highlights": {
+        "title": "<em>1_Pier 96 Upgrade Payment Timing (Draft).xlsx</em>"
+      }
+    },
+    {
+      "id": 7724246,
+      "title": "RE_ Payment Timing Schedule.txt",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/16/2021",
+      "doc_date": null,
+      "folder_name": "RE: Payment Timing Schedule",
+      "redacted_at": null,
+      "document_path": "/documents/7724246",
+      "file_extension": "txt",
+      "pretty_id": "21-1779",
+      "request_path": "/requests/21-1779",
+      "highlights": {
+        "title": "<em>RE_ Payment Timing Schedule.txt</em>"
+      }
+    },
+    {
+      "id": 7724247,
+      "title": "RE_ Payment Timing Schedule.txt",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/16/2021",
+      "doc_date": null,
+      "folder_name": "Re: Draft Special Reserve Report for Review 1",
+      "redacted_at": null,
+      "document_path": "/documents/7724247",
+      "file_extension": "txt",
+      "pretty_id": "21-1779",
+      "request_path": "/requests/21-1779",
+      "highlights": {
+        "title": "<em>RE_ Payment Timing Schedule.txt</em>"
+      }
+    },
+    {
+      "id": 7857530,
+      "title": "Re_ Consulting Timing_Recology Meeting (1)-redacted.txt.pdf",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "07/02/2021",
+      "doc_date": null,
+      "folder_name": "Re: Consulting Timing/Recology Meeting",
+      "redacted_at": "07/02/2021",
+      "document_path": "/documents/7857530",
+      "file_extension": "pdf",
+      "pretty_id": "21-1777",
+      "request_path": "/requests/21-1777",
+      "highlights": {
+        "title": "<em>Re_ Consulting Timing_Recology Meeting (1)-redacted.txt.pdf</em>"
+      }
+    },
+    {
+      "id": 7857533,
+      "title": "Re_ Consulting Timing_Recology Meeting-redacted.txt.pdf",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "07/02/2021",
+      "doc_date": null,
+      "folder_name": "Re: Consulting Timing/Recology Meeting",
+      "redacted_at": "07/02/2021",
+      "document_path": "/documents/7857533",
+      "file_extension": "pdf",
+      "pretty_id": "21-1777",
+      "request_path": "/requests/21-1777",
+      "highlights": {
+        "title": "<em>Re_ Consulting Timing_Recology Meeting-redacted.txt.pdf</em>"
+      }
+    },
+    {
+      "id": 7724207,
+      "title": "Payment Timing Schedule.txt",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "06/16/2021",
+      "doc_date": null,
+      "folder_name": "Payment Timing Schedule",
+      "redacted_at": null,
+      "document_path": "/documents/7724207",
+      "file_extension": "txt",
+      "pretty_id": "21-1779",
+      "request_path": "/requests/21-1779",
+      "highlights": {
+        "title": "<em>Payment Timing Schedule.txt</em>"
+      }
+    },
+    {
+      "id": 7241066,
+      "title": "Recology 2018 COLA Calculation Timing.txt",
+      "description": "",
+      "count": 3,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/15/2021",
+      "doc_date": null,
+      "folder_name": "2018 Refuse work",
+      "redacted_at": null,
+      "document_path": "/documents/7241066",
+      "file_extension": "txt",
+      "pretty_id": "21-1781",
+      "request_path": "/requests/21-1781",
+      "highlights": {
+        "title": "<em>Recology 2018 COLA Calculation Timing.txt</em>"
+      }
+    },
+    {
+      "id": 7242743,
+      "title": "RE RY21 Q1 Rate Report Timing.txt",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/15/2021",
+      "doc_date": null,
+      "folder_name": "2020 Refuse work",
+      "redacted_at": null,
+      "document_path": "/documents/7242743",
+      "file_extension": "txt",
+      "pretty_id": "21-1783",
+      "request_path": "/requests/21-1783",
+      "highlights": {
+        "title": "<em>RE RY21 Q1 Rate Report Timing.txt</em>"
+      }
+    },
+    {
+      "id": 7242520,
+      "title": "RY21 Q1 Rate Report Timing.txt",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/15/2021",
+      "doc_date": null,
+      "folder_name": "2020 Refuse work",
+      "redacted_at": null,
+      "document_path": "/documents/7242520",
+      "file_extension": "txt",
+      "pretty_id": "21-1783",
+      "request_path": "/requests/21-1783",
+      "highlights": {
+        "title": "<em>RY21 Q1 Rate Report Timing.txt</em>"
+      }
+    },
+    {
+      "id": 62195147,
+      "title": "297. RE_ Fund timing - HSCO(1).pdf",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/17/2026",
+      "doc_date": null,
+      "folder_name": "04-17-2026",
+      "redacted_at": null,
+      "document_path": "/documents/62195147",
+      "file_extension": "pdf",
+      "pretty_id": "25-4553",
+      "request_path": "/requests/25-4553",
+      "highlights": {
+        "title": "<em>297. </em>"
+      }
+    },
+    {
+      "id": 70744961,
+      "title": "FW Updated Soft Story Noticing Pool 11-04-15.pdf",
+      "description": "",
+      "count": 3,
+      "state": "public",
+      "demo": false,
+      "created_at": "09/22/2026",
+      "doc_date": null,
+      "folder_name": "LeannaL.Chan@sfdpw.org.001-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/70744961",
+      "file_extension": "pdf",
+      "pretty_id": "26-8989",
+      "request_path": "/requests/26-8989",
+      "highlights": {
+        "title": "<em>FW Updated Soft Story Noticing Pool 11-04-15.pdf</em>"
+      }
+    },
+    {
+      "id": 70744997,
+      "title": "Fwd Updated Soft Story Noticing Pool 10-28-15.pdf",
+      "description": "",
+      "count": 3,
+      "state": "public",
+      "demo": false,
+      "created_at": "09/22/2026",
+      "doc_date": null,
+      "folder_name": "LeannaL.Chan@sfdpw.org.001-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/70744997",
+      "file_extension": "pdf",
+      "pretty_id": "26-8989",
+      "request_path": "/requests/26-8989",
+      "highlights": {
+        "title": "<em>Fwd Updated Soft Story Noticing Pool 10-28-15.pdf</em>"
+      }
+    },
+    {
+      "id": 59132858,
+      "title": "217. RE_ Fund timing - HSCO(2).pdf",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/06/2026",
+      "doc_date": null,
+      "folder_name": "02-06-2026",
+      "redacted_at": null,
+      "document_path": "/documents/59132858",
+      "file_extension": "pdf",
+      "pretty_id": "25-4553",
+      "request_path": "/requests/25-4553",
+      "highlights": {
+        "title": "<em>217. </em>"
+      }
+    },
+    {
+      "id": 59132859,
+      "title": "218. RE_ Fund timing - HSCO(3).pdf",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/06/2026",
+      "doc_date": null,
+      "folder_name": "02-06-2026",
+      "redacted_at": null,
+      "document_path": "/documents/59132859",
+      "file_extension": "pdf",
+      "pretty_id": "25-4553",
+      "request_path": "/requests/25-4553",
+      "highlights": {
+        "title": "<em>218. </em>"
+      }
+    },
+    {
+      "id": 59132860,
+      "title": "219. RE_ Fund timing - HSCO.pdf",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/06/2026",
+      "doc_date": null,
+      "folder_name": "02-06-2026",
+      "redacted_at": null,
+      "document_path": "/documents/59132860",
+      "file_extension": "pdf",
+      "pretty_id": "25-4553",
+      "request_path": "/requests/25-4553",
+      "highlights": {
+        "title": "<em>219. </em>"
+      }
+    },
+    {
+      "id": 62195148,
+      "title": "298. RE_ Fund timing - HSCO(2).pdf",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/17/2026",
+      "doc_date": null,
+      "folder_name": "04-17-2026",
+      "redacted_at": null,
+      "document_path": "/documents/62195148",
+      "file_extension": "pdf",
+      "pretty_id": "25-4553",
+      "request_path": "/requests/25-4553",
+      "highlights": {
+        "title": "<em>298. </em>"
+      }
+    },
+    {
+      "id": 62195149,
+      "title": "299. RE_ Fund timing - HSCO.pdf",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/17/2026",
+      "doc_date": null,
+      "folder_name": "04-17-2026",
+      "redacted_at": null,
+      "document_path": "/documents/62195149",
+      "file_extension": "pdf",
+      "pretty_id": "25-4553",
+      "request_path": "/requests/25-4553",
+      "highlights": {
+        "title": "<em>299. </em>"
+      }
+    },
+    {
+      "id": 53645380,
+      "title": "10.19.22-Noticing Materials for Public Hearing - Harvey Milk Plaza.pdf",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "10/27/2025",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/53645380",
+      "file_extension": "pdf",
+      "pretty_id": "25-8190",
+      "request_path": "/requests/25-8190",
+      "highlights": {
+        "title": "<em>10.19.22-Noticing Materials for Public Hearing - Harvey Milk Plaza.pdf</em>"
+      }
+    },
+    {
+      "id": 59132857,
+      "title": "216. RE_ Fund timing - HSCO(1).pdf",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/06/2026",
+      "doc_date": null,
+      "folder_name": "02-06-2026",
+      "redacted_at": null,
+      "document_path": "/documents/59132857",
+      "file_extension": "pdf",
+      "pretty_id": "25-4553",
+      "request_path": "/requests/25-4553",
+      "highlights": {
+        "title": "<em>216. </em>"
+      }
+    },
+    {
+      "id": 30378866,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30378866",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379178,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379178",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379221,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379221",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379421,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379421",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379699,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379699",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379849,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379849",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379867,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379867",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30380287,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30380287",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30380385,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30380385",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 51223989,
+      "title": "Fw D4 NTP Great Highway Study &amp; Lincoln Signals - Timing &amp; Funding.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "09/15/2025",
+      "doc_date": null,
+      "folder_name": "Fw_ D4 NTP Great Highway Study & Lincoln Signals - Timing & Funding-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/51223989",
+      "file_extension": "html",
+      "pretty_id": "25-6940",
+      "request_path": "/requests/25-6940",
+      "highlights": {
+        "title": "<em>Fw D4 NTP Great Highway Study &amp; Lincoln Signals - Timing &amp; Funding.html</em>"
+      }
+    },
+    {
+      "id": 30378369,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30378369",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30378393,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30378393",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30378414,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30378414",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30378645,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30378645",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30378864,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30378864",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30378871,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30378871",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30378997,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30378997",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379616,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379616",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30380259,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30380259",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30380723,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30380723",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30380798,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30380798",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30378653,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30378653",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379175,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379175",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379985,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379985",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30380600,
+      "title": " SFPUC CleanPowerSF - Rate Noticing & Waste-to-Energy ... FW Joint Rate Mailer Email Updates.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30380600",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> SFPUC CleanPowerSF - Rate Noticing & Waste-to-Energy ... </em>"
+      }
+    },
+    {
+      "id": 30380883,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30380883",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379061,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379061",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379535,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379535",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30380026,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30380026",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30380081,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30380081",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30380284,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30380284",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30380534,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30380534",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30380536,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30380536",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30380610,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 4th Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30380610",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 37469946,
+      "title": " Fw D4 NTP Great Highway Study & Lincoln Signals - Timing & Funding.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "08/27/2024",
+      "doc_date": null,
+      "folder_name": "Ticket16567-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/37469946",
+      "file_extension": "html",
+      "pretty_id": "24-4421",
+      "request_path": "/requests/24-4421",
+      "highlights": {
+        "title": "<em> Fw D4 NTP Great Highway Study & Lincoln Signals - Timing & Funding.html</em>"
+      }
+    },
+    {
+      "id": 30378333,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30378333",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30378802,
+      "title": " Re Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30378802",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> Re Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30378874,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30378874",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379265,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379265",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379481,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379481",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379546,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379546",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379561,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379561",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 30379621,
+      "title": " RE Refuse RateCommission Hearing Agenda and Noticing.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "02/29/2024",
+      "doc_date": null,
+      "folder_name": "Ticket 13901 - 3rd Search-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/30379621",
+      "file_extension": "html",
+      "pretty_id": "24-667",
+      "request_path": "/requests/24-667",
+      "highlights": {
+        "title": "<em> RE Refuse RateCommission Hearing Agenda and Noticing.html</em>"
+      }
+    },
+    {
+      "id": 64389891,
+      "title": "366. Fund timing - HSCO.pdf",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/29/2026",
+      "doc_date": null,
+      "folder_name": "05-29-2026",
+      "redacted_at": null,
+      "document_path": "/documents/64389891",
+      "file_extension": "pdf",
+      "pretty_id": "25-4553",
+      "request_path": "/requests/25-4553",
+      "highlights": {
+        "title": "<em>366. </em>"
+      }
+    }
+  ]
+}

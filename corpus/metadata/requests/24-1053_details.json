@@ -1,0 +1,42 @@
+{
+  "pretty_id": "24-1053",
+  "request_text": "<p>I am looking for the following records at the intersection of Market Street and 7th Street in San Francisco:</p><p>1- Traffic Signal Plan (effective on/before 7/27/2021)</p><p>2- Traffic Signal Timing (effective on/before 7/27/2021)</p><p>3- Traffic Signal Maintenance Records (from 1/27/2021 to</p><p>7/27/2021)</p>",
+  "request_state": "Closed",
+  "visibility": "published",
+  "request_visibility": "Published",
+  "request_due_date": null,
+  "request_submit_type": null,
+  "request_date": "February 20, 2024",
+  "anticipated_fulfilled_at": null,
+  "expiration_date": null,
+  "exempt_from_retention": false,
+  "exempt_documents_from_retention": false,
+  "department_names": "Public Works",
+  "departments": [
+    {
+      "id": 74,
+      "name": "Public Works",
+      "poc_id": 27
+    }
+  ],
+  "request_staff_hours": null,
+  "request_staff_cost": null,
+  "custom_form_version": null,
+  "request_field_values": [],
+  "poc": {
+    "id": 27,
+    "email_or_name": "David A. Steinberg ",
+    "has_tasks": false,
+    "undeliverable_email": false
+  },
+  "is_current_requester": false,
+  "requester": {
+    "id": 1306059,
+    "name_with_email": null,
+    "name": null,
+    "email": null,
+    "phone": null,
+    "company": null,
+    "address": null
+  }
+}

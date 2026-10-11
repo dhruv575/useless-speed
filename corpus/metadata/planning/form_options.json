@@ -1,0 +1,48 @@
+[
+  {
+    "name": "field_environmental_review_categ_target_id",
+    "options": [
+      {
+        "value": "All",
+        "text": "- Any -"
+      },
+      {
+        "value": "212",
+        "text": "Environmental Impact Reports and Negative Declarations"
+      },
+      {
+        "value": "215",
+        "text": "General Plan, Community Plan and Infill Evaluations"
+      },
+      {
+        "value": "213",
+        "text": "Notices of Determination and Notices of Exemption"
+      },
+      {
+        "value": "214",
+        "text": "Area Plan Environmental Impact Reports (EIRs)"
+      }
+    ]
+  },
+  {
+    "name": "items_per_page",
+    "options": [
+      {
+        "value": "10",
+        "text": "10"
+      },
+      {
+        "value": "25",
+        "text": "25"
+      },
+      {
+        "value": "50",
+        "text": "50"
+      },
+      {
+        "value": "All",
+        "text": "- Show All -"
+      }
+    ]
+  }
+]

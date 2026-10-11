@@ -1,0 +1,386 @@
+{
+  "query": ".sim",
+  "total": 20,
+  "documents": [
+    {
+      "id": 4744177,
+      "title": "555 Fulton St.-Birch St. improvement construction.html",
+      "description": "",
+      "count": 7,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/21/2020",
+      "doc_date": null,
+      "folder_name": "eleanor.tang@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/4744177",
+      "file_extension": "html",
+      "pretty_id": "20-829",
+      "request_path": "/requests/20-829",
+      "highlights": {
+        "title": "<em>555 Fulton St.</em>"
+      }
+    },
+    {
+      "id": 11781200,
+      "title": "J.SimbeEmails_Redacted.pdf",
+      "description": "",
+      "count": 6,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/01/2022",
+      "doc_date": null,
+      "folder_name": "Responsive Records: Emails",
+      "redacted_at": null,
+      "document_path": "/documents/11781200",
+      "file_extension": "pdf",
+      "pretty_id": "22-788",
+      "request_path": "/requests/22-788",
+      "highlights": {
+        "title": "<em>J.SimbeEmails_Redacted.pdf</em>"
+      }
+    },
+    {
+      "id": 33922587,
+      "title": "Intent vs. Impact-redacted.html.pdf",
+      "description": "",
+      "count": 4,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/20/2024",
+      "doc_date": null,
+      "folder_name": "william.bulkley@sfdpw.org-extracted",
+      "redacted_at": "05/20/2024",
+      "document_path": "/documents/33922587",
+      "file_extension": "pdf",
+      "pretty_id": "24-2578",
+      "request_path": "/requests/24-2578",
+      "highlights": {
+        "title": "<em>Intent vs. </em>"
+      }
+    },
+    {
+      "id": 33245645,
+      "title": "https://www.sfmta.com/sites/default/files/feature-location-pdf/1._t-third_phase_3_concept_study_-_final_report_1-8-15.pdf",
+      "description": "",
+      "count": 5,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/30/2024",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/33245645",
+      "file_extension": "",
+      "pretty_id": "24-2583",
+      "request_path": "/requests/24-2583",
+      "highlights": {
+        "title": "<em>https://www.sfmta.com/sites/default/files/feature-location-pdf/1.</em>"
+      }
+    },
+    {
+      "id": 44384766,
+      "title": "41st Ave_Lincoln.SIM",
+      "description": "",
+      "count": 5,
+      "state": "public",
+      "demo": false,
+      "created_at": "03/31/2025",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/44384766",
+      "file_extension": "sim",
+      "pretty_id": "25-2143",
+      "request_path": "/requests/25-2143",
+      "highlights": {
+        "title": "<em>41st Ave_Lincoln.SIM</em>"
+      }
+    },
+    {
+      "id": 45091677,
+      "title": "2. Impact 1 + 2 Maps.pdf",
+      "description": "",
+      "count": 3,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/22/2025",
+      "doc_date": null,
+      "folder_name": "Item 9 - Time Impact",
+      "redacted_at": null,
+      "document_path": "/documents/45091677",
+      "file_extension": "pdf",
+      "pretty_id": "25-2508",
+      "request_path": "/requests/25-2508",
+      "highlights": {
+        "title": "<em>2. </em>"
+      }
+    },
+    {
+      "id": 36785657,
+      "title": " Fwd Boots for K.Simmons.html",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "08/05/2024",
+      "doc_date": null,
+      "folder_name": "DiJaida.Durden@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/36785657",
+      "file_extension": "html",
+      "pretty_id": "24-4664",
+      "request_path": "/requests/24-4664",
+      "highlights": {
+        "title": "<em> Fwd Boots for K.Simmons.html</em>"
+      }
+    },
+    {
+      "id": 70989403,
+      "title": "Green St. Image.pdf",
+      "description": "",
+      "count": 3,
+      "state": "public",
+      "demo": false,
+      "created_at": "09/25/2026",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/70989403",
+      "file_extension": "pdf",
+      "pretty_id": "26-9072",
+      "request_path": "/requests/26-9072",
+      "highlights": {
+        "title": "<em>Green St. </em>"
+      }
+    },
+    {
+      "id": 33245965,
+      "title": "https://www.sfmta.com/sites/default/files/feature-location-pdf/8._t-third_phase_3_concept_study_-_final_draft_appendices_part_4_11-14-14.pdf",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/30/2024",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/33245965",
+      "file_extension": "",
+      "pretty_id": "24-2583",
+      "request_path": "/requests/24-2583",
+      "highlights": {
+        "title": "<em>https://www.sfmta.com/sites/default/files/feature-location-pdf/8.</em>"
+      }
+    },
+    {
+      "id": 32991391,
+      "title": "6_NTK Serial Letter #482 - COR #91R - Add. Impact _ Delay Costs Due to PG_E Shallow Gas Lines Zone 1.pdf",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/18/2024",
+      "doc_date": null,
+      "folder_name": "Gene.Chan@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/32991391",
+      "file_extension": "pdf",
+      "pretty_id": "24-2363",
+      "request_path": "/requests/24-2363",
+      "highlights": {
+        "title": "<em>6_NTK Serial Letter #482 - COR #91R - Add. </em>"
+      }
+    },
+    {
+      "id": 33722008,
+      "title": "NTK Serial Letter #482 - COR #91R - Add. Impact & Delay Costs Due to PG&E Shallow Gas Lines Zone 1.pdf",
+      "description": "",
+      "count": 2,
+      "state": "public",
+      "demo": false,
+      "created_at": "05/17/2024",
+      "doc_date": null,
+      "folder_name": "2815J / CN-1308R - NTK Letters",
+      "redacted_at": null,
+      "document_path": "/documents/33722008",
+      "file_extension": "pdf",
+      "pretty_id": "24-3011",
+      "request_path": "/requests/24-3011",
+      "highlights": {
+        "title": "<em>NTK Serial Letter #482 - COR #91R - Add. </em>"
+      }
+    },
+    {
+      "id": 32991409,
+      "title": " NTK Letter #482 - COR#91R - Add. Impact & Delay Costs Due to PG&E Shallow Gas Lines Zone 1.html",
+      "description": "",
+      "count": 1,
+      "state": "public",
+      "demo": false,
+      "created_at": "04/18/2024",
+      "doc_date": null,
+      "folder_name": "Gene.Chan@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/32991409",
+      "file_extension": "html",
+      "pretty_id": "24-2363",
+      "request_path": "/requests/24-2363",
+      "highlights": {
+        "title": "<em> NTK Letter #482 - COR#91R - Add. </em>"
+      }
+    },
+    {
+      "id": 66204912,
+      "title": "4. Impact Advisors _ Scoresheet_ Rosana Leon.cleaned.pdf",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "07/01/2026",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/66204912",
+      "file_extension": "pdf",
+      "pretty_id": "26-5639",
+      "request_path": "/requests/26-5639",
+      "highlights": {
+        "title": "<em>4. </em>"
+      }
+    },
+    {
+      "id": 23614850,
+      "title": "91a. image001.pdf",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "08/22/2023",
+      "doc_date": null,
+      "folder_name": "08.25.2023 Release",
+      "redacted_at": null,
+      "document_path": "/documents/23614850",
+      "file_extension": "pdf",
+      "pretty_id": "22-4348",
+      "request_path": "/requests/22-4348",
+      "highlights": {
+        "title": "<em>91a. image001.pdf</em>"
+      }
+    },
+    {
+      "id": 23614851,
+      "title": "91b. image002.pdf",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "08/22/2023",
+      "doc_date": null,
+      "folder_name": "08.25.2023 Release",
+      "redacted_at": null,
+      "document_path": "/documents/23614851",
+      "file_extension": "pdf",
+      "pretty_id": "22-4348",
+      "request_path": "/requests/22-4348",
+      "highlights": {
+        "title": "<em>91b. image002.pdf</em>"
+      }
+    },
+    {
+      "id": 27063423,
+      "title": " RE .....SFMTA PARKING ENFORCEMENT HEADQUARTERS PROJECT.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "12/14/2023",
+      "doc_date": null,
+      "folder_name": "allison.n.chan@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/27063423",
+      "file_extension": "html",
+      "pretty_id": "23-5557",
+      "request_path": "/requests/23-5557",
+      "highlights": {
+        "title": "<em> RE .....SFMTA PARKING ENFORCEMENT HEADQUARTERS PROJECT.html</em>"
+      }
+    },
+    {
+      "id": 27059252,
+      "title": " FW .....SFMTA PARKING ENFORCEMENT HEADQUARTERS PROJECT.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "12/14/2023",
+      "doc_date": null,
+      "folder_name": "DPW-SFMTAParkingHQ@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/27059252",
+      "file_extension": "html",
+      "pretty_id": "23-5557",
+      "request_path": "/requests/23-5557",
+      "highlights": {
+        "title": "<em> FW .....SFMTA PARKING ENFORCEMENT HEADQUARTERS PROJECT.html</em>"
+      }
+    },
+    {
+      "id": 27059356,
+      "title": " RE .....SFMTA PARKING ENFORCEMENT HEADQUARTERS PROJECT.html",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "12/14/2023",
+      "doc_date": null,
+      "folder_name": "DPW-SFMTAParkingHQ@sfdpw.org-extracted",
+      "redacted_at": null,
+      "document_path": "/documents/27059356",
+      "file_extension": "html",
+      "pretty_id": "23-5557",
+      "request_path": "/requests/23-5557",
+      "highlights": {
+        "title": "<em> RE .....SFMTA PARKING ENFORCEMENT HEADQUARTERS PROJECT.html</em>"
+      }
+    },
+    {
+      "id": 66206887,
+      "title": "6. IMPAQ Int'l LLC CMD3.pdf",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "07/01/2026",
+      "doc_date": null,
+      "folder_name": null,
+      "redacted_at": null,
+      "document_path": "/documents/66206887",
+      "file_extension": "pdf",
+      "pretty_id": "26-5710",
+      "request_path": "/requests/26-5710",
+      "highlights": {
+        "title": "<em>6. </em>"
+      }
+    },
+    {
+      "id": 24790561,
+      "title": "14d. image.jpg",
+      "description": "",
+      "count": 0,
+      "state": "public",
+      "demo": false,
+      "created_at": "09/07/2023",
+      "doc_date": null,
+      "folder_name": "09.08.2023",
+      "redacted_at": null,
+      "document_path": "/documents/24790561",
+      "file_extension": "jpg",
+      "pretty_id": "22-4348",
+      "request_path": "/requests/22-4348",
+      "highlights": {
+        "title": "<em>14d. image.jpg</em>"
+      }
+    }
+  ]
+}
