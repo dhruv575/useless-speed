@@ -7,7 +7,7 @@ from playwright.async_api import async_playwright
 sys.stdout.reconfigure(encoding='utf-8',errors='backslashreplace')
 ROOT=Path(__file__).resolve().parents[1];META=ROOT/'metadata';RAW=ROOT/'raw'/'planning';RAW.mkdir(parents=True,exist_ok=True)
 def save(p,v):p.write_text(json.dumps(v,indent=2,ensure_ascii=False),encoding='utf-8')
-def slug(s):return re.sub('[^a-zA-Z0-9._-]+','_',s)[:140].strip('_')
+def slug(s):return re.sub('[^a-zA-Z0-9._-]+','_',s)[:45].strip('_')
 async def main():
  links={}
  for row in json.loads((META/'planning'/'projects.json').read_text(encoding='utf-8')):

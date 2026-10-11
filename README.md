@@ -140,6 +140,8 @@ useless-speed/
 
 **Path convention:** `local_path`, `text_path` and `workbook_path` inside the corpus catalogs are relative to `corpus/`, not the repository root. This keeps the original catalog and offline links intact. Paths in `snapshot-manifest.json` are explicitly relative to the repository root.
 
+Long original download filenames were shortened for portable checkouts. Full titles remain in the catalog, original bytes/hashes are unchanged, and [path aliases](corpus/metadata/path-aliases.json) map the collection workspace's names to the public names.
+
 ## Prepared datasets
 
 These files are convenient for small prototypes and do not require Git LFS:

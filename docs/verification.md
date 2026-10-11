@@ -13,6 +13,7 @@ Checked on October 10, 2026 (Pacific time), after reorganizing the project into 
 - Headless Chrome passed address selection, routing, playback, pause/resume, rounded car timers, arrivals, settings reset, zero-speed equality, pin placement and mobile layout checks.
 - Pin dragging, invalid-route rejection, routing-error retry and blocked-map-provider fallback passed.
 - Relative documentation links were checked against the assembled folder.
+- An initial Windows clone exposed excessive archived filename lengths. Those filenames and their catalog/SQLite references were shortened while all original-source hashes remained unchanged; the mapping is recorded in `corpus/metadata/path-aliases.json`.
 
 Detailed corpus results are in `corpus/derived/validation.json`. Application browser reports are generated in ignored `app/test-output/` when the documented commands run.
 
