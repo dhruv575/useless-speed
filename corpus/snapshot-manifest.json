@@ -2732,7 +2732,18 @@
       "path": "app/public/data/streets.json",
       "bytes": 3601030,
       "sha256": "b2be3c5785e9ab836a3d5b8a60b0a1545260db43115cefb0e235b033e3aca129"
+    },
+    {
+      "path": "app/data/places.json",
+      "bytes": 2471361,
+      "sha256": "3e6a36a42009b4065286f352ee10ee35efd462590477ac1002f0fcddc3d7ff15"
+    },
+    {
+      "path": "app/data/places-provenance.json",
+      "bytes": 1156,
+      "sha256": "ede333a1821bab03d0c1df74c592609f8b8c4c54f3bf2312f29ed1ba6fa9b0f4"
     }
   ],
-  "packaging_note": "Original source bytes are unchanged; long local filenames and catalog/SQLite references were shortened for cross-platform checkouts. See corpus/metadata/path-aliases.json."
+  "packaging_note": "Original source bytes are unchanged; long local filenames and catalog/SQLite references were shortened for cross-platform checkouts. See corpus/metadata/path-aliases.json.",
+  "places_supplement_date": "2026-10-11T08:57:36Z"
 }

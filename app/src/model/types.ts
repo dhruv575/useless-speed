@@ -23,6 +23,9 @@ export type Place = {
   coordinates: Coord;
   neighborhood?: string;
   landmark?: string;
+  kind?: "address" | "landmark" | "place";
+  address?: string;
+  category?: string;
 };
 export type RoutePoint = {
   coord: Coord;

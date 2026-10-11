@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useLayoutEffect, useMemo, useRef, useState } from "react";
 import {
   LoaderCircle,
   Moon,
@@ -19,6 +19,7 @@ import type {
   Sources,
 } from "./model/types";
 import { liveComparison } from "./model/live";
+import { themeForHour } from "./theme";
 
 const periods = [
   { hour: 8, label: "Morning", time: "8 AM", Icon: Sunrise },
@@ -77,6 +78,24 @@ export default function App() {
   const requestId = useRef(0);
   const cachedRoute = useRef<{ key: string; raw: unknown } | null>(null);
   const timeRef = useRef(0);
+  const theme = themeForHour(hour);
+
+  useLayoutEffect(() => {
+    const freeze = document.createElement("style");
+    freeze.textContent = "*,*::before,*::after{transition:none!important}";
+    document.head.append(freeze);
+    document.documentElement.dataset.theme = theme;
+    void document.body.offsetHeight;
+    let secondFrame = 0;
+    const firstFrame = requestAnimationFrame(() => {
+      secondFrame = requestAnimationFrame(() => freeze.remove());
+    });
+    return () => {
+      cancelAnimationFrame(firstFrame);
+      cancelAnimationFrame(secondFrame);
+      freeze.remove();
+    };
+  }, [theme]);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -258,6 +277,7 @@ export default function App() {
     <div className="app" autoCapitalize="none">
       <main className="main">
         <CityMap
+          theme={theme}
           sources={sources}
           route={route}
           result={result}
@@ -333,7 +353,7 @@ export default function App() {
               step="5"
               value={overspeed}
               style={{
-                background: `linear-gradient(to right, var(--ink) ${overspeed}%, #e6e6e2 ${overspeed}%)`,
+                background: `linear-gradient(to right, var(--ink) ${overspeed}%, var(--track) ${overspeed}%)`,
               }}
               onChange={(e) => {
                 setOverspeed(+e.target.value);

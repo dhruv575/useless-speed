@@ -1,0 +1,20 @@
+{
+  "source": "OpenStreetMap contributors via Overpass API",
+  "source_url": "https://overpass-api.de/api/interpreter",
+  "source_timestamp": "2026-10-11T08:57:36Z",
+  "downloaded_at": "2026-10-11T08:58:50.861573+00:00",
+  "prepared_at": "2026-10-11T09:06:02.149412+00:00",
+  "license": "ODbL-1.0",
+  "license_url": "https://www.openstreetmap.org/copyright",
+  "bounds_south_west_north_east": [
+    37.706,
+    -122.525,
+    37.835,
+    -122.345
+  ],
+  "query": "[out:json][timeout:25][maxsize:67108864][bbox:37.706,-122.525,37.835,-122.345];\n(\n  nwr[\"name\"][\"amenity\"];\n  nwr[\"name\"][\"shop\"];\n  nwr[\"name\"][\"tourism\"];\n  nwr[\"name\"][\"leisure\"];\n  nwr[\"name\"][\"historic\"];\n  nwr[\"name\"][\"office\"];\n  nwr[\"name\"][\"railway\"=\"station\"];\n  nwr[\"name\"][\"natural\"~\"^(beach|peak)$\"];\n);\nout center;",
+  "records": 14305,
+  "sha256": "3e6a36a42009b4065286f352ee10ee35efd462590477ac1002f0fcddc3d7ff15",
+  "coordinates": "WGS84 longitude, latitude; way/relation bounding-box centers, not verified entrances",
+  "limitations": "Community-maintained snapshot, not exhaustive or live. The router snaps points to roads."
+}

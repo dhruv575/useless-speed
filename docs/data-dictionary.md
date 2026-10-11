@@ -105,6 +105,8 @@ GIS downloads explicitly requested `outSR=4326`: coordinates are longitude, lati
 
 `app/data/addresses.json` contains `eas_address_id`, `address`, longitude/latitude (source numeric strings), optional landmark fields and neighborhood. It is the server's search directory, not a list of residents. The API filters coordinates to the app's SF bounds and returns up to seven deduplicated suggestions. Source field definitions are archived in `corpus/metadata/address_schema.json`.
 
+`app/data/places.json` is a separate ODbL-licensed OpenStreetMap supplement with 14,305 named destinations. `id` is `osm:<node|way|relation>:<id>`; `label` is the source name; `coordinates` is `[longitude, latitude]`; `kind` is `place`; `category` is a readable source tag; `address` may be empty; `aliases` preserves alternative names. Ways and relations use bounding-box centers, not verified entrances. The source date, query, bounds, license and file hash are in `app/data/places-provenance.json`. Search also derives named landmark suggestions from the official address directory. Its combined response uses `kind` = `address`, `landmark` or `place`, and excludes internal search keys and aliases. Names are not evidence that a business remains open.
+
 The supplemental stop-sign source is SFMTA Traffic FeatureServer layer 10; the address source is SF Enterprise Addressing System dataset `3mea-di5p`. The source URLs, preparation logic and source schemas should accompany derived exports. `app/data/demo-route.json` is a saved route fixture, not an observed trip.
 
 ## SQLite, workbooks and OCR

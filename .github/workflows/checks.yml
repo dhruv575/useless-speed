@@ -41,7 +41,7 @@ jobs:
               if docker exec useless-speed-smoke node --input-type=module -e '
                 const health = await fetch("http://127.0.0.1:8080/api/health");
                 const data = await health.json();
-                if (!health.ok || !data.ok || data.addresses < 1) process.exit(1);
+                if (!health.ok || !data.ok || data.addresses < 1 || data.places < 1) process.exit(1);
                 const page = await fetch("http://127.0.0.1:8080/");
                 if (!page.ok || !(await page.text()).includes("Useless Speed")) process.exit(1);
               '; then

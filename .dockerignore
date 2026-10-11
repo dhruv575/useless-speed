@@ -10,5 +10,6 @@ app/test-output
 app/.env*
 app/*.tsbuildinfo
 app/qa_*.py
+app/server/*.test.mjs
 app/README.md
 app/QA.md

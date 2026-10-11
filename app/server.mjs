@@ -2,45 +2,14 @@ import http from "node:http";
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { createSearch, inCity as bounds } from "./server/search.mjs";
 const root = path.dirname(fileURLToPath(import.meta.url));
 const cacheDir = process.env.CACHE_DIR || path.join(root, "cache");
 fs.mkdirSync(cacheDir, { recursive: true });
-const normalize = (s) =>
-  String(s)
-    .toUpperCase()
-    .replace(/\bSAN FRANCISCO\b|\bCA\b|\b94\d{3}\b/g, "")
-    .replace(/\bSTREET\b/g, "ST")
-    .replace(/\bAVENUE\b/g, "AVE")
-    .replace(/\bBOULEVARD\b/g, "BLVD")
-    .replace(/\bDRIVE\b/g, "DR")
-    .replace(/\bROAD\b/g, "RD")
-    .replace(/\b0+(\d)/g, "$1")
-    .replace(/[^A-Z0-9 ]/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-const bounds = ([lng, lat]) =>
-  Number.isFinite(lng) &&
-  Number.isFinite(lat) &&
-  lng >= -122.525 &&
-  lng <= -122.345 &&
-  lat >= 37.706 &&
-  lat <= 37.835;
-const addresses = JSON.parse(
-  fs.readFileSync(path.join(root, "data", "addresses.json"), "utf8"),
-)
-  .map((r) => ({
-    id: r.eas_address_id,
-    label: r.address,
-    coordinates: [+r.longitude, +r.latitude],
-    neighborhood: r.nhood || "San Francisco",
-    landmark: r.complete_landmark_name || "",
-    key: normalize(
-      [r.address, r.complete_landmark_name, r.landmark_aliases]
-        .filter(Boolean)
-        .join(" "),
-    ),
-  }))
-  .filter((r) => bounds(r.coordinates));
+const { search, addressCount, placeCount } = createSearch(
+  JSON.parse(fs.readFileSync(path.join(root, "data", "addresses.json"), "utf8")),
+  JSON.parse(fs.readFileSync(path.join(root, "data", "places.json"), "utf8")),
+);
 let nextRouteTime = 0;
 const inFlight = new Map();
 const json = (res, status, data) => {
@@ -93,47 +62,9 @@ const server = http.createServer(async (req, res) => {
   try {
     const u = new URL(req.url, "http://localhost");
     if (u.pathname === "/api/health")
-      return json(res, 200, { ok: true, addresses: addresses.length });
+      return json(res, 200, { ok: true, addresses: addressCount, places: placeCount });
     if (u.pathname === "/api/search") {
-      const q = normalize(u.searchParams.get("q") || "");
-      if (q.length < 2) return json(res, 200, []);
-      const words = q.split(" "),
-        scores = [];
-      for (const a of addresses) {
-        if (words.every((w) => a.key.includes(w))) {
-          const exact = normalize(a.label) === q;
-          const prefix = normalize(a.label).startsWith(q);
-          scores.push({
-            a,
-            score: exact
-              ? 0
-              : prefix
-                ? 1
-                : a.landmark.toUpperCase().includes(q)
-                  ? 2
-                  : 3,
-          });
-        }
-      }
-      scores.sort(
-        (a, b) =>
-          a.score - b.score ||
-          a.a.label.length - b.a.label.length ||
-          a.a.label.localeCompare(b.a.label),
-      );
-      const seen = new Set();
-      return json(
-        res,
-        200,
-        scores
-          .filter(({ a }) => {
-            if (seen.has(a.label)) return false;
-            seen.add(a.label);
-            return true;
-          })
-          .slice(0, 7)
-          .map(({ a: { key, ...a } }) => a),
-      );
+      return json(res, 200, search(u.searchParams.get("q") || ""));
     }
     if (u.pathname === "/api/demo")
       return json(
@@ -199,6 +130,6 @@ const server = http.createServer(async (req, res) => {
 });
 server.listen(Number(process.env.PORT || 8788), process.env.HOST || "127.0.0.1", () =>
   console.log(
-    `Useless Speed API ready on ${process.env.HOST || "127.0.0.1"}:${process.env.PORT || 8788} (${addresses.length} addresses)`,
+    `Useless Speed API ready on ${process.env.HOST || "127.0.0.1"}:${process.env.PORT || 8788} (${addressCount} addresses, ${placeCount} places)`,
   ),
 );

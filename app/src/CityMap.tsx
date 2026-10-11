@@ -7,8 +7,8 @@ import {
   setWorkerUrl,
 } from "maplibre-gl";
 import mapWorkerUrl from "maplibre-gl/dist/maplibre-gl-worker.mjs?worker&url";
-import type { GeoJSONSource, StyleSpecification } from "maplibre-gl";
-import mapStyle from "./map-style.json";
+import type { GeoJSONSource } from "maplibre-gl";
+import { mapPalettes, themedMapStyle, type Theme } from "./theme";
 import { LocateFixed } from "lucide-react";
 import type {
   Coord,
@@ -22,6 +22,7 @@ import { phase, sampleAt, MPH } from "./model/simulation";
 const empty = { type: "FeatureCollection", features: [] } as const;
 setWorkerUrl(mapWorkerUrl);
 export default function CityMap({
+  theme,
   sources,
   route,
   result,
@@ -32,6 +33,7 @@ export default function CityMap({
   onPin,
   disabled,
 }: {
+  theme: Theme;
   sources: Sources | null;
   route: PreparedRoute | null;
   result: Comparison | null;
@@ -68,7 +70,7 @@ export default function CityMap({
         minZoom: 10,
         maxZoom: 19,
         attributionControl: { compact: false },
-        style: mapStyle as unknown as StyleSpecification,
+        style: themedMapStyle(theme),
       });
     } catch (e) {
       setMapError(
@@ -164,6 +166,24 @@ export default function CityMap({
       setReady(false);
     };
   }, []);
+  useEffect(() => {
+    const m = map.current;
+    if (!ready || !m) return;
+    for (const layer of themedMapStyle(theme).layers) {
+      for (const [property, value] of Object.entries(layer.paint || {})) {
+        if (property.endsWith("-color") && m.getLayer(layer.id))
+          m.setPaintProperty(
+            layer.id,
+            property as Parameters<LibreMap["setPaintProperty"]>[1],
+            value,
+          );
+      }
+    }
+    const palette = mapPalettes[theme];
+    m.setPaintProperty("route-line", "line-color", palette.route);
+    m.setPaintProperty("route-halo", "line-color", palette.halo);
+    m.setPaintProperty("control-points", "circle-stroke-color", palette.halo);
+  }, [theme, ready]);
   useEffect(() => {
     if (!ready || !map.current) return;
     map.current.getCanvas().style.cursor = pinMode ? "crosshair" : "";

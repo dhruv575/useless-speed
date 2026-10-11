@@ -46,7 +46,9 @@ npm start
 
 Open **http://127.0.0.1:8788**. Stop the development server first to free port 8788.
 
-Address lookup uses the bundled SF address directory. New routes use the external OSRM service, and map tiles come from OpenFreeMap. Those operations require internet access; previously cached routes and the local street-map fallback provide partial offline support. No map API key is required for the current configuration.
+Search accepts street addresses and place names such as Ferry Building, Dolores Park and Tartine Bakery. It uses the bundled SF address directory, official landmarks and 14,305 OpenStreetMap places, with no per-search external request. The selected time of day also changes the map and sidebar palette: warm morning, cool midday, soft evening and dark night.
+
+New routes use the external OSRM service, and map tiles come from OpenFreeMap. Those operations require internet access; previously cached routes and the local street-map fallback provide partial offline support. No map API key is required for the current configuration.
 
 ## Get the full research collection
 
@@ -145,6 +147,8 @@ Long original download filenames were shortened for portable checkouts. Full tit
 ## Prepared datasets
 
 These files are convenient for small prototypes and do not require Git LFS:
+
+Place-name search uses `app/data/places.json`: 14,305 named OpenStreetMap destinations in the supported SF bounds, including businesses, parks and attractions. Each record has an OSM ID, label, longitude/latitude coordinates, category, optional street address and aliases. `app/data/places-provenance.json` retains the query, source timestamp and ODbL attribution. This is a community-maintained snapshot, not an exhaustive or live business directory. Area features use representative centers; the router snaps these to drivable streets. Official addresses and landmarks remain a separate source.
 
 | File under `app/public/data/` | Features | Preparation |
 |---|---:|---|

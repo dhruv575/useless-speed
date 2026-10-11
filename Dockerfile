@@ -15,6 +15,7 @@ COPY --from=build --chown=node:node /project/app/package.json ./app/package.json
 COPY --from=build --chown=node:node /project/app/dist ./app/dist
 COPY --from=build --chown=node:node /project/app/data ./app/data
 COPY --from=build --chown=node:node /project/app/server.mjs ./app/server.mjs
+COPY --from=build --chown=node:node /project/app/server ./app/server
 RUN mkdir -p /project/app/cache && chown node:node /project/app/cache
 USER node
 EXPOSE 8080

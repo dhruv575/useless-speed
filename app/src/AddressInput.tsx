@@ -38,10 +38,14 @@ export default function AddressInput({
   useEffect(() => {
     if (!open || query.length < 2) {
       setItems([]);
+      setBusy(false);
+      setActive(-1);
       return;
     }
     const controller = new AbortController();
     setBusy(true);
+    setItems([]);
+    setActive(-1);
     setError("");
     const timeout = setTimeout(async () => {
       try {
@@ -55,12 +59,13 @@ export default function AddressInput({
             ...p,
             label: displayCase(p.label),
             landmark: p.landmark ? displayCase(p.landmark) : p.landmark,
+            address: p.address ? displayCase(p.address) : p.address,
           })),
         );
         setActive(-1);
       } catch (e) {
         if (!controller.signal.aborted)
-          setError("Address search unavailable. You can still drop a pin.");
+          setError("Search unavailable. You can still drop a pin.");
       } finally {
         if (!controller.signal.aborted) setBusy(false);
       }
@@ -93,6 +98,7 @@ export default function AddressInput({
           id={id}
           value={query}
           placeholder={label}
+          title="Search a place or street address in San Francisco"
           role="combobox"
           aria-autocomplete="list"
           aria-expanded={open}
@@ -111,7 +117,7 @@ export default function AddressInput({
             setOpen(true);
             if (place) onChange(null);
           }}
-          onBlur={() => setTimeout(() => setOpen(false), 150)}
+          onBlur={() => setOpen(false)}
           onKeyDown={(e) => {
             if (e.key === "Escape") {
               setOpen(false);
@@ -122,11 +128,11 @@ export default function AddressInput({
               setOpen(true);
               setActive(Math.min(items.length - 1, active + 1));
             }
-            if (e.key === "ArrowUp") {
+            if (e.key === "ArrowUp" && items.length) {
               e.preventDefault();
               setActive(Math.max(0, active - 1));
             }
-            if (e.key === "Enter" && items.length) {
+            if (e.key === "Enter" && open && !busy && items.length) {
               e.preventDefault();
               choose(items[Math.max(0, active)]);
             }
@@ -151,7 +157,9 @@ export default function AddressInput({
           aria-label={label + " suggestions"}
         >
           {busy ? (
-            <div className="search-message">Searching city addresses…</div>
+            <div className="search-message">
+              Searching places and addresses…
+            </div>
           ) : error ? (
             <div className="search-message">{error}</div>
           ) : items.length ? (
@@ -165,18 +173,25 @@ export default function AddressInput({
                 onMouseDown={(e) => e.preventDefault()}
                 onClick={() => choose(p)}
               >
-                <Search size={14} />
+                {p.kind === "address" ? (
+                  <Search size={14} />
+                ) : (
+                  <MapPin size={14} />
+                )}
                 <span>
                   <strong>{p.label}</strong>
                   <small>
-                    {p.landmark || p.neighborhood || "San Francisco"}
+                    {p.address ||
+                      p.category ||
+                      p.neighborhood ||
+                      "San Francisco"}
                   </small>
                 </span>
               </button>
             ))
           ) : (
             <div className="search-message">
-              No matching address. Try a street number and name, or drop a pin.
+              No matching place or address. Try another name, or drop a pin.
             </div>
           )}
         </div>

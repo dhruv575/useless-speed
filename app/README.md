@@ -27,7 +27,7 @@ Then open **http://127.0.0.1:8788**. The development command also starts this AP
 
 ## Use
 
-1. Enter a starting point and destination and select matching suggestions, or use the pin icons to click the map. Existing pins can be dragged. Address search runs locally against 224,402 official SF address records.
+1. Enter a street address or place name and select a suggestion, or use the pin icons to click the map. Existing pins can be dragged. Search runs locally against 224,402 official SF address records, their landmark names, and 14,305 OpenStreetMap destinations such as cafés, parks and attractions. It does not request your device location or call a geocoder as you type.
 2. Use the four time icons for morning (08:00), midday (12:00), evening (17:00), or night (22:00).
 3. Set Car 2's target excess speed, which defaults to **20%**. Both cars take the same route and leave together.
 4. Select **Simulate**. The same button pauses, resumes, or replays the run. Playback runs at 60x.
@@ -61,6 +61,10 @@ Source snapshot metadata is in `public/data/provenance.json`. Preparation code i
 `ROUTER_URL` can replace the public OSRM server with another compatible service. The public routing demo is suitable for this local prototype; see the [OSRM demo policy](https://github.com/Project-OSRM/osrm-backend/wiki/Demo-server).
 
 The basemap is configured in `src/map-style.json`. It adapts [OpenFreeMap's Positron style](https://github.com/hyperknot/openfreemap-styles) with muted land and water, fewer labels and no uppercase text transform. Positron derives from OpenMapTiles and CartoDB Basemaps, designed by Stamen and Paul Norman for CartoDB Inc. Upstream license notices are retained in `public/map-style-license.md` and `public/positron-license.md`. There is no API key requirement. The old raster `VITE_TILE_URL` setting has been replaced by the local vector-style configuration. Local SFMTA street geometry remains the fallback if the vector provider fails.
+
+`src/theme.ts` recolors the existing map layers for morning, midday, evening and night; `src/styles.css` provides matching interface tokens. Theme changes preserve the map instance, route and pins. Changing the departure time still clears previous simulation results so they cannot be mistaken for the new time.
+
+Place search lives in `server/search.mjs`. It combines separate official-address and OSM indexes, ranks names/aliases and street addresses, handles accents, and collapses nearby duplicate names while retaining separate business branches. `data/places.json` is an ODbL snapshot with provenance in `data/places-provenance.json`; refresh it with `python corpus/scripts/prepare_places.py --refresh` from the repository root. Coverage and business status can be incomplete or stale. Park/building centers are not verified entrances; routing snaps them to roads.
 
 ## Model
 

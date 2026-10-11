@@ -105,6 +105,16 @@ The preparer can contact public services even when most files are cached. Run it
 
 ## 6. Verify application behavior
 
+### Refresh named places
+
+```sh
+python corpus/scripts/prepare_places.py --refresh
+```
+
+This optional standard-library script downloads named destinations inside the supported SF bounds from OpenStreetMap through Overpass. It writes `app/data/places.json`, source/query/license metadata in `app/data/places-provenance.json`, and updates only those two artifact fingerprints in the snapshot manifest. Without `--refresh`, it reuses `outputs/osm-places.json` when available. Search at runtime uses the bundled file and does not query Overpass. Review changes before committing: it is a dated community map, not a live or complete business directory. Preserve its [ODbL attribution](../DATA_LICENSES.md).
+
+### Check the app
+
 ```sh
 npm ci
 npm test
@@ -116,6 +126,9 @@ For the existing optional UI checks, start `npm start` in another terminal and i
 ```sh
 python app/qa_browser.py
 python app/qa_resilience.py
+python app/qa_places_themes.py
 ```
 
 They contact the map/routing services and can fail during an external outage. They write ignored reports and screenshots to `app/test-output/`. They test UI behavior and model invariants, not real-world accuracy. The research validator uses bundled Chromium as described above.
+
+`qa_places_themes.py` also accepts `BASE_URL` to verify a deployed app. It checks all four themes, named-place and address selection, a completed trip, theme changes after a trip, empty search and mobile layout.
