@@ -1,8 +1,8 @@
 # Sharing this project on GitHub
 
-This folder is the repository root. It contains the runnable app, selected research originals, derived artifacts, provenance, examples and documentation. The surrounding private working directory is not needed. The suggested repository name is **`useless-speed`**.
+The public repository is [dhruv575/useless-speed](https://github.com/dhruv575/useless-speed). This folder is the repository root. It contains the runnable app, selected research originals, derived artifacts, provenance, examples and documentation. The surrounding private working directory is not needed.
 
-## Prepare and publish
+## Publish your own copy
 
 1. Install Git and Git LFS. Run `git lfs install --local` inside this repository before adding files.
 2. Run `npm ci`, `npm test`, `npm run build` and `python tools/verify_snapshot.py`.
@@ -20,7 +20,7 @@ git remote add origin YOUR_GITHUB_CLONE_URL
 git push -u origin main
 ```
 
-Use the real clone URL, not the placeholder. On a repo that already has a remote/commit history, use its normal contribution workflow instead of reinitializing it. The local project setup does not create a GitHub repository or choose its owner/visibility.
+Use your own repository's clone URL in place of the placeholder. If you cloned or forked this repository, keep its existing history and use its normal contribution workflow instead of reinitializing it.
 
 ## Large files
 
@@ -46,4 +46,4 @@ Original code/documentation uses MIT. Source documents and derived agency record
 
 ## Before announcing it
 
-Clone the pushed repository into a fresh directory, fetch the LFS data you want, and repeat the README's quick start and snapshot check. Confirm the catalog opens and source-file links resolve. Add the real repository URL to citation/release metadata if desired, and link a hosted app only after that deployment has been verified.
+Clone the pushed repository into a fresh directory, fetch the LFS data you want, and repeat the README's quick start and snapshot check. Confirm the catalog opens and source-file links resolve. If publishing a fork, update the repository URL in citation/release metadata. Link a hosted app only after that deployment has been verified.

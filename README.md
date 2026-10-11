@@ -56,25 +56,25 @@ Large research files use [Git Large File Storage](https://docs.github.com/en/rep
 
 ```sh
 git lfs install
-git clone YOUR_REPOSITORY_URL useless-speed
+git clone https://github.com/dhruv575/useless-speed.git
 cd useless-speed
 git lfs pull
 python tools/verify_snapshot.py
 ```
 
-Replace `YOUR_REPOSITORY_URL` with the actual GitHub clone URL. Python **3.11+** is sufficient for verification and the examples; no Python packages are needed for those tasks. A successful verification means that the files match this recorded snapshot, not that their engineering content is current or correct.
+Python **3.11+** is sufficient for verification and the examples; no Python packages are needed for those tasks. A successful verification means that the files match this recorded snapshot, not that their engineering content is current or correct.
 
 For a smaller checkout containing the runnable app, catalog and checked subset, skip the large downloads:
 
 ```sh
 # macOS / Linux / Git Bash
-GIT_LFS_SKIP_SMUDGE=1 git clone YOUR_REPOSITORY_URL useless-speed
+GIT_LFS_SKIP_SMUDGE=1 git clone https://github.com/dhruv575/useless-speed.git
 ```
 
 ```powershell
 # PowerShell
 $env:GIT_LFS_SKIP_SMUDGE = '1'
-git clone YOUR_REPOSITORY_URL useless-speed
+git clone https://github.com/dhruv575/useless-speed.git
 Remove-Item Env:GIT_LFS_SKIP_SMUDGE
 ```
 

@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "Cite Useless Speed for the compilation and methods, and cite the originating agencies and individual records for the underlying data."
 title: "Useless Speed: San Francisco driving simulation and traffic research corpus"
 type: software
+repository-code: "https://github.com/dhruv575/useless-speed"
 authors:
   - name: "Useless Speed contributors"
 version: 0.1.0
