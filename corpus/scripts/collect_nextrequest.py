@@ -18,7 +18,7 @@ for folder in (META/'searches',META/'requests',RAW): folder.mkdir(parents=True,e
 def save(path,value):
     path.write_text(json.dumps(value,indent=2,ensure_ascii=False),encoding='utf-8')
 
-def slug(text): return re.sub(r'[^a-zA-Z0-9._-]+','_',text).strip('_')[:145]
+def slug(text): return re.sub(r'[^a-zA-Z0-9._-]+','_',text).strip('_')[:100]
 
 def classify(doc):
     name=doc['title']; t=name.lower(); ext=doc.get('file_extension','').lower()

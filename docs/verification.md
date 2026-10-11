@@ -14,6 +14,8 @@ Checked on October 10, 2026 (Pacific time), after reorganizing the project into 
 - Pin dragging, invalid-route rejection, routing-error retry and blocked-map-provider fallback passed.
 - Relative documentation links were checked against the assembled folder.
 - An initial Windows clone exposed excessive archived filename lengths. Those filenames and their catalog/SQLite references were shortened while all original-source hashes remained unchanged; the mapping is recorded in `corpus/metadata/path-aliases.json`.
+- A second fresh Windows clone succeeded with LFS downloads skipped. Its 17 regular-Git data artifacts passed integrity checks, `npm ci`, the production build and all eight model tests passed, and the small catalog example ran.
+- Selectively fetching the SQLite LFS object in that fresh clone succeeded; its hash and full-text search passed. All 529 local LFS objects passed `git lfs fsck`.
 
 Detailed corpus results are in `corpus/derived/validation.json`. Application browser reports are generated in ignored `app/test-output/` when the documented commands run.
 
