@@ -22,3 +22,37 @@ jobs:
       - run: python tools/verify_snapshot.py --available
       - run: python examples/inspect_corpus.py
       - run: python examples/compact_map.py --output outputs/signals.geojson
+  container:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: false
+      - run: docker build -t useless-speed:test .
+      - name: Verify the image and npm workspace startup
+        shell: bash
+        run: |
+          set -euo pipefail
+          trap 'docker rm -f useless-speed-smoke >/dev/null 2>&1 || true' EXIT
+          check_startup() {
+            docker run -d --name useless-speed-smoke useless-speed:test "$@"
+            for attempt in {1..20}; do
+              if docker exec useless-speed-smoke node --input-type=module -e '
+                const health = await fetch("http://127.0.0.1:8080/api/health");
+                const data = await health.json();
+                if (!health.ok || !data.ok || data.addresses < 1) process.exit(1);
+                const page = await fetch("http://127.0.0.1:8080/");
+                if (!page.ok || !(await page.text()).includes("Useless Speed")) process.exit(1);
+              '; then
+                docker rm -f useless-speed-smoke
+                return 0
+              fi
+              sleep 1
+            done
+            docker logs useless-speed-smoke
+            return 1
+          }
+          check_startup
+          check_startup npm start
+          check_startup npm run start --workspace=@useless-speed/app

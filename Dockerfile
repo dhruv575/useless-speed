@@ -9,6 +9,9 @@ RUN npm run build
 FROM node:24-bookworm-slim
 WORKDIR /project
 ENV NODE_ENV=production HOST=0.0.0.0 PORT=8080
+# Preserve workspace start scripts for platforms that auto-detect npm commands.
+COPY --from=build --chown=node:node /project/package.json ./package.json
+COPY --from=build --chown=node:node /project/app/package.json ./app/package.json
 COPY --from=build --chown=node:node /project/app/dist ./app/dist
 COPY --from=build --chown=node:node /project/app/data ./app/data
 COPY --from=build --chown=node:node /project/app/server.mjs ./app/server.mjs

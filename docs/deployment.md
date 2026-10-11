@@ -4,23 +4,32 @@ The app fits one Node service. It serves the frontend, bundled data and a small 
 
 ## Railway
 
-Connect the repository root to a Railway service. The included Dockerfile builds the npm workspace and copies only the built frontend, server and app data into the runtime image. It uses Node 24 and runs as the `node` user. `.dockerignore` excludes the full research corpus, development environments, route caches and test output.
+Connect the repository root to a Railway service. The included Dockerfile builds the npm workspace and copies the built frontend, server, app data and the two package manifests into the runtime image. It uses Node 24 and runs as the `node` user. `.dockerignore` excludes the full research corpus, development environments, route caches and test output. The runtime does not need `node_modules`.
 
 Use these settings:
 
 | Setting | Value |
 |---|---|
+| Root directory | Repository root; leave unset (do not select `app`) |
 | Build | Repository-root `Dockerfile` |
-| Start | Dockerfile's default: `node app/server.mjs` |
+| Start command | `node app/server.mjs`, or leave empty to use the Dockerfile's default |
 | Host | `0.0.0.0` (already set by Dockerfile) |
 | Port | Railway-injected `PORT`; Docker default is 8080 |
 | Healthcheck path | `/api/health` |
+| Healthcheck timeout | 60 seconds |
+| Watch paths | `/app/**`, `/Dockerfile`, `/.dockerignore`, `/package.json`, `/package-lock.json` |
 | Replicas | One initially; current rate-spacing state is per process |
 | Public networking | Generate a Railway domain or attach your domain |
 
 The app's localhost default is appropriate for local work; deployed services must accept incoming container connections. See [Railway host/port guidance](https://docs.railway.com/networking/troubleshooting/application-failed-to-respond), [Dockerfile builds](https://docs.railway.com/builds/dockerfiles), and [healthchecks](https://docs.railway.com/deployments/healthchecks).
 
 A healthcheck verifies that the process and address directory loaded. It does not test external map/routing availability. The app does not require a database or a separate worker service. No Railway service is created by the files in this folder alone.
+
+### Startup fails with `/project/package.json` missing
+
+Railway can detect the npm workspace and set a start-command override such as `npm run start --workspace=@useless-speed/app`, even when it builds with the Dockerfile. Older versions of this project's runtime image omitted the manifests, so that command failed before the server could start.
+
+Set the service's start command to `node app/server.mjs` and redeploy. The current Dockerfile also includes both manifests, so `npm start` and the workspace command work without installing runtime dependencies. Keep the repository root as the build context: `app` alone does not contain the workspace lockfile. [Railway start commands](https://docs.railway.com/deployments/start-command)
 
 ## Environment variables
 
